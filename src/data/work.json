@@ -1,17 +1,90 @@
 {
-  "_readme": "Job photo gallery. Each image key must exist in src/data/images.json. Replace captions when real photos go in.",
+  "_readme": "Sample Work gallery. These are stock photos for the preview; captions describe each photo. Replace with the client's own job photos (and captions) before launch.",
   "items": [
-    { "image": "work-01", "caption": "Tankless water heater mounted with new gas and water lines", "tags": ["water-heater"] },
-    { "image": "work-02", "caption": "Main building drain cleared with a sectional drum machine", "tags": ["drain"] },
-    { "image": "work-03", "caption": "Sewer camera view showing roots at a clay pipe joint", "tags": ["sewer"] },
-    { "image": "work-04", "caption": "New copper supply manifold with labeled shutoffs", "tags": ["repipe"] },
-    { "image": "work-05", "caption": "Sump pump replacement with check valve and battery backup", "tags": ["home"] },
-    { "image": "work-06", "caption": "50 gallon gas water heater swap in a tight basement", "tags": ["water-heater"] },
-    { "image": "work-07", "caption": "Split supply line repaired after a winter freeze", "tags": ["emergency"] },
-    { "image": "work-08", "caption": "Restaurant grease trap pumped and baffles inspected", "tags": ["commercial"] },
-    { "image": "work-09", "caption": "Kitchen faucet and garbage disposal installed together", "tags": ["home"] },
-    { "image": "work-10", "caption": "PEX repipe run through an unfinished basement ceiling", "tags": ["repipe"] },
-    { "image": "work-11", "caption": "Hydro jetting a commercial kitchen line after close", "tags": ["commercial", "drain"] },
-    { "image": "work-12", "caption": "Excavated sewer lateral with a new section ready to connect", "tags": ["sewer"] }
+    {
+      "image": "work-01",
+      "caption": "Rough-in supply and drain lines framed inside an open wall during a renovation",
+      "tags": [
+        "water-heater"
+      ]
+    },
+    {
+      "image": "work-02",
+      "caption": "New brass valves with white caps lined up on a table",
+      "tags": [
+        "drain"
+      ]
+    },
+    {
+      "image": "work-03",
+      "caption": "A torch flame heating a length of copper pipe for soldering",
+      "tags": [
+        "sewer"
+      ]
+    },
+    {
+      "image": "work-04",
+      "caption": "A red handwheel gate valve on an insulated metal pipe",
+      "tags": [
+        "repipe"
+      ]
+    },
+    {
+      "image": "work-05",
+      "caption": "A bank of water meters and supply lines mounted on an exterior wall",
+      "tags": [
+        "home"
+      ]
+    },
+    {
+      "image": "work-06",
+      "caption": "A hand holding a brass compression fitting on white supply tubing",
+      "tags": [
+        "water-heater"
+      ]
+    },
+    {
+      "image": "work-07",
+      "caption": "A white PVC wye fitting joining two drain pipes against a dark wall",
+      "tags": [
+        "emergency"
+      ]
+    },
+    {
+      "image": "work-08",
+      "caption": "A chrome cross-handle tub filler with a hand shower hose",
+      "tags": [
+        "commercial"
+      ]
+    },
+    {
+      "image": "work-09",
+      "caption": "Parallel pipe runs clamped to a strut hanger",
+      "tags": [
+        "home"
+      ]
+    },
+    {
+      "image": "work-10",
+      "caption": "A newly installed toilet with stainless grab bars in a tiled bathroom",
+      "tags": [
+        "repipe"
+      ]
+    },
+    {
+      "image": "work-11",
+      "caption": "A plumber working on a supply manifold behind an open bathroom panel",
+      "tags": [
+        "commercial",
+        "drain"
+      ]
+    },
+    {
+      "image": "work-12",
+      "caption": "Wall-mounted utility sinks with exposed drain traps in a tiled washroom",
+      "tags": [
+        "sewer"
+      ]
+    }
   ]
 }

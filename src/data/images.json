@@ -15,7 +15,7 @@
       4,
       3
     ],
-    "alt": "Placeholder photo: plumber checking pipes under a kitchen sink"
+    "alt": "Plumber in a red t-shirt reaching under a sink to work on the drain trap"
   },
   "home-commercial": {
     "label": "Commercial kitchen sinks and floor drains",
@@ -23,7 +23,7 @@
       4,
       3
     ],
-    "alt": "Restaurant kitchen with ladles hanging above stainless steel shelves and stacked plates"
+    "alt": "A bright commercial kitchen with stainless prep stations, an extraction hood and hanging utensils"
   },
   "page-hero": {
     "label": "Generic page hero: service van and crew",
@@ -39,7 +39,7 @@
       4,
       3
     ],
-    "alt": "Placeholder photo: tools in a workshop"
+    "alt": "Pipe wrenches, pliers and spanners hanging on a worn workshop wall"
   },
   "owner": {
     "label": "Owner portrait",
@@ -47,7 +47,7 @@
       4,
       5
     ],
-    "alt": "Placeholder photo for the owner section"
+    "alt": "A plain steel adjustable wrench on a light grey surface"
   },
   "contact-shop": {
     "label": "Shop front and service vans",
@@ -55,7 +55,7 @@
       4,
       3
     ],
-    "alt": "Placeholder photo: shop front and work van"
+    "alt": "A closed white roll-up garage door on a plain metal-sided building"
   },
   "careers-crew": {
     "label": "Technicians loading the truck",
@@ -63,90 +63,102 @@
       4,
       3
     ],
-    "alt": "Placeholder photo: tools being loaded for a job"
+    "alt": "Two vintage metal toolboxes, one green and one red, on a white surface"
   },
   "work-01": {
     "label": "Job photo: tankless water heater install",
     "ratio": [
       3,
       4
-    ]
+    ],
+    "alt": "Rough-in supply and drain lines framed inside an open wall during a renovation"
   },
   "work-02": {
     "label": "Job photo: main line cleared with a drum machine",
     "ratio": [
       3,
       4
-    ]
+    ],
+    "alt": "New brass valves with white caps lined up on a table"
   },
   "work-03": {
     "label": "Job photo: sewer camera monitor view",
     "ratio": [
       3,
       4
-    ]
+    ],
+    "alt": "A torch flame heating a length of copper pipe for soldering"
   },
   "work-04": {
     "label": "Job photo: new copper manifold",
     "ratio": [
       3,
       4
-    ]
+    ],
+    "alt": "A red handwheel gate valve on an insulated metal pipe"
   },
   "work-05": {
     "label": "Job photo: sump pump replacement",
     "ratio": [
       3,
       4
-    ]
+    ],
+    "alt": "A bank of water meters and supply lines mounted on an exterior wall"
   },
   "work-06": {
     "label": "Job photo: 50 gallon water heater swap",
     "ratio": [
       3,
       4
-    ]
+    ],
+    "alt": "A hand holding a brass compression fitting on white supply tubing"
   },
   "work-07": {
     "label": "Job photo: frozen pipe repair in a crawl space",
     "ratio": [
       3,
       4
-    ]
+    ],
+    "alt": "A white PVC wye fitting joining two drain pipes against a dark wall"
   },
   "work-08": {
     "label": "Job photo: grease trap pump out",
     "ratio": [
       3,
       4
-    ]
+    ],
+    "alt": "A chrome cross-handle tub filler with a hand shower hose"
   },
   "work-09": {
     "label": "Job photo: kitchen faucet and disposal",
     "ratio": [
       3,
       4
-    ]
+    ],
+    "alt": "Parallel pipe runs clamped to a strut hanger"
   },
   "work-10": {
     "label": "Job photo: PEX repipe in an unfinished basement",
     "ratio": [
       3,
       4
-    ]
+    ],
+    "alt": "A newly installed toilet with stainless grab bars in a tiled bathroom"
   },
   "work-11": {
     "label": "Job photo: hydro jetting a restaurant line",
     "ratio": [
       3,
       4
-    ]
+    ],
+    "alt": "A plumber working on a supply manifold behind an open bathroom panel"
   },
   "work-12": {
     "label": "Job photo: excavated sewer lateral repair",
     "ratio": [
       3,
       4
-    ]
+    ],
+    "alt": "Wall-mounted utility sinks with exposed drain traps in a tiled washroom"
   }
 }

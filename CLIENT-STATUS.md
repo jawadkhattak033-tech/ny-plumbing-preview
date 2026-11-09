@@ -56,32 +56,34 @@ All the business details below are placeholders. Send the real versions and we u
 | Social media links | Generic Facebook, Google, Yelp links; no Instagram | Footer |
 | Town details | ZIP codes and neighborhood names we wrote as placeholders | All 22 town pages |
 | Privacy Policy and Terms of Service | Placeholder text | Their own pages; your attorney should review them |
-| Photos of your business | 17 labeled placeholder images | See the next section |
+| Photos of your business | 17 stock photos, for the preview only | See the next section |
 
 For reviews, please send your real Google reviews word for word, with the customer's name and month. Only use reviews customers are happy to have shown.
 
 ## Photos needed
 
-The general spots (homepage background, service, commercial, region and town pages) now use free stock photos so the preview looks finished. You can swap any of them for your own later.
+Every photo on the preview is a free stock photo, so the site looks finished. The photos on service, region and town pages can stay, or you can swap in your own later.
 
-These 17 spots show your business, so they need your real photos. Each one is a labeled box on the page today. Send photos at least the size shown, as JPG or PNG. We resize and compress them. The owner portrait and the 12 job photos are portrait (taller than wide); the rest are landscape.
+The 17 spots below show your business: your team, your shop, the owner section and the Sample Work gallery. They are **stock for the preview. Replace them with your own photos before launch.** Until then, the gallery is labeled "Sample Work" and says the photos are stock, so nothing claims they are your jobs.
 
-| File name | Minimum size (px) | Photo needed |
-| --- | --- | --- |
-| home-intro.jpg | 1920 × 1440 | Plumber checking pipes under a kitchen sink |
-| about-team.jpg | 1920 × 1440 | The team in front of the shop |
-| owner.jpg | 1200 × 1500 | Owner portrait |
-| contact-shop.jpg | 1920 × 1440 | Shop front and service vans |
-| careers-crew.jpg | 1920 × 1440 | Technicians loading the truck |
-| work-01.jpg | 1200 × 1600 | Job photo: tankless water heater install |
-| work-02.jpg | 1200 × 1600 | Job photo: main line cleared with a drum machine |
-| work-03.jpg | 1200 × 1600 | Job photo: sewer camera monitor view |
-| work-04.jpg | 1200 × 1600 | Job photo: new copper manifold |
-| work-05.jpg | 1200 × 1600 | Job photo: sump pump replacement |
-| work-06.jpg | 1200 × 1600 | Job photo: 50 gallon water heater swap |
-| work-07.jpg | 1200 × 1600 | Job photo: frozen pipe repair in a crawl space |
-| work-08.jpg | 1200 × 1600 | Job photo: grease trap pump out |
-| work-09.jpg | 1200 × 1600 | Job photo: kitchen faucet and disposal |
-| work-10.jpg | 1200 × 1600 | Job photo: PEX repipe in an unfinished basement |
-| work-11.jpg | 1200 × 1600 | Job photo: hydro jetting a restaurant line |
-| work-12.jpg | 1200 × 1600 | Job photo: excavated sewer lateral repair |
+Send photos at least the size shown, as JPG or PNG. We resize and compress them. The owner photo and the 12 job photos are portrait (taller than wide); the rest are landscape.
+
+| File name | Minimum size (px) | Photo needed | Now |
+| --- | --- | --- | --- |
+| home-intro.jpg | 1920 × 1440 | Plumber checking pipes under a kitchen sink | Stock for preview, replace with client photo before launch |
+| about-team.jpg | 1920 × 1440 | The team in front of the shop | Stock for preview, replace with client photo before launch |
+| owner.jpg | 1200 × 1500 | Owner portrait | Stock for preview, replace with client photo before launch |
+| contact-shop.jpg | 1920 × 1440 | Shop front and service vans | Stock for preview, replace with client photo before launch |
+| careers-crew.jpg | 1920 × 1440 | Technicians loading the truck | Stock for preview, replace with client photo before launch |
+| work-01.jpg | 1200 × 1600 | Job photo: tankless water heater install | Stock for preview, replace with client photo before launch |
+| work-02.jpg | 1200 × 1600 | Job photo: main line cleared with a drum machine | Stock for preview, replace with client photo before launch |
+| work-03.jpg | 1200 × 1600 | Job photo: sewer camera monitor view | Stock for preview, replace with client photo before launch |
+| work-04.jpg | 1200 × 1600 | Job photo: new copper manifold | Stock for preview, replace with client photo before launch |
+| work-05.jpg | 1200 × 1600 | Job photo: sump pump replacement | Stock for preview, replace with client photo before launch |
+| work-06.jpg | 1200 × 1600 | Job photo: 50 gallon water heater swap | Stock for preview, replace with client photo before launch |
+| work-07.jpg | 1200 × 1600 | Job photo: frozen pipe repair in a crawl space | Stock for preview, replace with client photo before launch |
+| work-08.jpg | 1200 × 1600 | Job photo: grease trap pump out | Stock for preview, replace with client photo before launch |
+| work-09.jpg | 1200 × 1600 | Job photo: kitchen faucet and disposal | Stock for preview, replace with client photo before launch |
+| work-10.jpg | 1200 × 1600 | Job photo: PEX repipe in an unfinished basement | Stock for preview, replace with client photo before launch |
+| work-11.jpg | 1200 × 1600 | Job photo: hydro jetting a restaurant line | Stock for preview, replace with client photo before launch |
+| work-12.jpg | 1200 × 1600 | Job photo: excavated sewer lateral repair | Stock for preview, replace with client photo before launch |
