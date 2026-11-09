@@ -1,0 +1,74 @@
+{
+  "title": "Preventive Drain Maintenance",
+  "order": 6,
+  "seoTitle": "Preventive Drain Maintenance in {state} | {shortName}",
+  "metaDescription": "Stop paying for the same backup twice. {shortName} sets up scheduled drain cleaning and camera checks for businesses and buildings. Call {phone}.",
+  "imageAlt": "Rows of gray pipes with elbow fittings running along a wall",
+  "cardText": "Scheduled drain cleaning, jetting and camera checks that catch buildup before it shuts down your business.",
+  "hero": {
+    "eyebrow": "Scheduled drain care for businesses",
+    "h1": "Preventive Drain Maintenance in {state}",
+    "sub": "Emergency backups always seem to happen at the worst time. Regular, planned drain cleaning keeps your lines open, cuts down on surprise calls and lets you budget for drain care instead of reacting to it."
+  },
+  "quickAnswer": "Call {name} at {phone} to set up a maintenance schedule. We inspect your lines, recommend a cleaning frequency based on what we find, and return on set dates to clean, jet and check them. Each visit is priced upfront and documented.",
+  "intro": [
+    "Most commercial drain emergencies are slow problems that finally reached a tipping point. Grease builds up in a kitchen line for months. Scale narrows an old cast iron main a little more each year. Roots creep into a joint and grow every season. By the time the line backs up, the problem has been there a long time.",
+    "Preventive maintenance catches that buildup early. On a set schedule, we clean the lines that cause you the most trouble, jet the ones that collect grease or scale, and run a camera through key sections to watch for changes. Each visit is quick and planned, usually at a time when your business is closed or slow.",
+    "The schedule is built around your building, not a generic plan. A busy restaurant may need its kitchen line cleaned often, while an office building may only need its main checked once or twice a year. We adjust the frequency as we learn how your lines behave, so you never pay for visits you do not need."
+  ],
+  "signs": {
+    "heading": "Signs Your Building Would Benefit From a Maintenance Plan",
+    "items": [
+      "You have called for the same drain backup more than once this year.",
+      "Your kitchen produces a steady stream of grease and food waste.",
+      "The building drains through older cast iron or clay pipe.",
+      "Trees grow close to the sewer line between the building and the street.",
+      "A backup would close your business or affect many tenants.",
+      "You want drain costs to be predictable and easy to budget."
+    ]
+  },
+  "covers": {
+    "heading": "What Our Preventive Drain Maintenance Covers",
+    "items": [
+      "An initial camera inspection of key drain lines",
+      "Scheduled cabling of trouble prone lines",
+      "Hydro jetting for grease, scale and sludge",
+      "Root cutting on recurring sewer line problems",
+      "Floor drain and trap primer checks",
+      "Written records after every scheduled visit"
+    ]
+  },
+  "bookLabel": "Start a Maintenance Plan",
+  "process": {
+    "heading": "How We Build Your Maintenance Plan",
+    "steps": [
+      { "title": "Inspect the Baseline", "text": "We run a camera through your main lines and problem branches to see the pipe material, its condition and where buildup collects." },
+      { "title": "Recommend a Schedule", "text": "Based on what we see and how the building is used, we suggest which lines to clean, which method to use and how often." },
+      { "title": "Service on Set Dates", "text": "We return on the agreed schedule, at times that suit your business, and clean or jet each line in the plan." },
+      { "title": "Review and Adjust", "text": "After each visit we note what we removed. If a line stays clean, we space out visits. If it builds up fast, we shorten the gap." }
+    ]
+  },
+  "local": {
+    "heading": "Why Maintenance Matters for {state} Drain Lines",
+    "paragraphs": [
+      "A large share of commercial buildings in New York still use their original cast iron or clay sewer lines. Cast iron scales and corrodes from the inside, while clay joints let in roots from the mature street trees common in older downtowns. Both conditions get worse slowly, which makes them well suited to scheduled cleaning.",
+      "Seasons shape the schedule too. Roots grow most in late spring and summer, grease clogs rise with holiday cooking, and freeze and thaw cycles can shift older pipe. Many of our maintenance plans include a fall visit to get lines clear before winter, when an emergency dig or backup is hardest to manage."
+    ]
+  },
+  "cost": {
+    "heading": "What Drives the Cost of Drain Maintenance",
+    "paragraphs": [
+      "Cost depends on how many lines are in the plan, their size and length, the cleaning method and how often we visit. A single kitchen line cleaned on a schedule costs far less than a full building with several stacks, a long sewer lateral and root problems. The first visit includes an inspection to set the baseline.",
+      "You get a firm price for each scheduled visit ahead of time, which makes it easy to include drain care in your yearly budget."
+    ]
+  },
+  "faqs": [
+    { "q": "How often do drains need preventive cleaning?", "a": "It depends on the building and what goes down the lines. Busy kitchens and lines with roots often need more frequent visits, while offices may need only one or two a year. We base the schedule on what our camera shows and adjust it over time." },
+    { "q": "Is preventive maintenance really cheaper than calling when it clogs?", "a": "For lines that clog regularly, it usually is. Planned visits happen during normal or slow hours, avoid emergency scheduling and prevent damage from backups. You also avoid lost business and tenant complaints that come with a sudden failure." },
+    { "q": "Do you send reminders before scheduled visits?", "a": "Yes. We contact you ahead of each visit to confirm the date and time. If your schedule changes, just let us know at {phone} and we will move the appointment." },
+    { "q": "Will you tell us if a line needs repair instead of cleaning?", "a": "Yes. Camera inspections often show cracks, sags or broken sections that cleaning cannot fix. We will show you the footage, explain the options and give you a price, so you can plan a repair before it becomes an emergency." },
+    { "q": "Can the plan cover several locations?", "a": "Yes. Businesses and property managers with multiple sites can put each location on its own schedule. We keep records separate by site and can send invoices to one central contact." }
+  ],
+  "related": ["commercial-drain-cleaning", "grease-trap-cleaning", "property-management-plumbing"],
+  "ctaHeading": "Ready to stop the repeat backups?"
+}

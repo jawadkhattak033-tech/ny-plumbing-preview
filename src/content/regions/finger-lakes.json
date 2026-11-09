@@ -1,0 +1,41 @@
+{
+  "name": "Finger Lakes",
+  "order": 7,
+  "counties": ["Genesee", "Livingston", "Monroe", "Ontario", "Orleans", "Seneca", "Wayne", "Wyoming", "Yates"],
+  "communities": ["Rochester", "Greece", "Irondequoit", "Brighton", "Pittsford", "Henrietta", "Webster", "Penfield", "Fairport", "Chili", "Gates", "Victor", "Canandaigua", "Geneva", "Seneca Falls", "Waterloo", "Penn Yan", "Newark", "Lyons", "Sodus", "Geneseo", "Batavia", "Albion", "Warsaw"],
+  "seoTitle": "Finger Lakes and Rochester Plumber | {shortName}",
+  "metaDescription": "{shortName} schedules plumbing work across the Finger Lakes region, from Rochester to Penn Yan. Lake cottages, wells and old sewers. Call {phone}.",
+  "imageAlt": "Taughannock Falls dropping into a rock gorge",
+  "cardText": "Scheduled plumbing for Rochester homes, lake cottages and farm towns across nine counties, with 24/7 phones.",
+  "hero": {
+    "eyebrow": "Finger Lakes plumbing",
+    "h1": "Plumber in the Finger Lakes Region, NY",
+    "sub": "Rochester, Canandaigua and the lake towns are a long drive from {city}. We plan visits here in advance, explain the price before we start and answer the phone around the clock."
+  },
+  "quickAnswer": "{name} serves the nine Finger Lakes counties, including Rochester and its suburbs, on a scheduled basis. Our shop is in {city}, several hours east, so we book most work ahead. Calls are answered 24/7, with honest arrival estimates for emergencies.",
+  "intro": [
+    "The Finger Lakes region covers Rochester, its suburbs, the lake towns and a lot of farmland in between. It is a long way from our shop in {city}, so we do not promise quick arrivals here. What we do offer is well planned work: sewer camera inspections, water heater replacements, repiping, cottage openings and drain repairs booked on dates that work for you.",
+    "Rochester has neighborhoods full of 1900s to 1920s homes with clay laterals and street trees whose roots have found them. The suburbs grew fast after the war, and many of those homes are due for new supply lines. Around the lakes, seasonal cottages pull water straight from the lake or from shallow wells and need careful opening and closing every year."
+  ],
+  "coverage": {
+    "heading": "How We Cover the Finger Lakes",
+    "paragraphs": [
+      "Seneca, Yates and Ontario counties are the nearer half of the region from {city}. Monroe, Wayne, Genesee, Orleans, Wyoming and Livingston are farther west, and work there is booked a day or more ahead and grouped by area.",
+      "We answer {hours}. For an emergency, we help you stop the water first, then route the call to the nearest available technician and give you a realistic arrival time, which may be several hours."
+    ]
+  },
+  "problems": [
+    { "title": "Root filled clay sewer laterals", "text": "Older Rochester neighborhoods drain through clay pipe under tree lined streets. Roots work into the joints and cause recurring backups. A camera shows how bad it is and whether lining or replacement makes sense." },
+    { "title": "Lake cottage openings and closings", "text": "Seasonal homes on Canandaigua, Keuka, Seneca and Cayuga lakes draw from lake intakes or shallow wells. Lines that were not fully drained in fall split over winter and leak at spring startup." },
+    { "title": "Lake effect cold off Lake Ontario", "text": "Wayne, Monroe and Orleans counties get cold wind and snow off the lake. Pipes along north facing walls and in crawl spaces freeze during long cold spells." },
+    { "title": "Hard well water on farms and in villages", "text": "Rural wells across Livingston, Genesee and Wyoming counties often carry hard water and sulfur smells. Testing the water first leads to the right softener or filter." }
+  ],
+  "faqs": [
+    { "q": "Do you serve Rochester and its suburbs?", "a": "Yes, on a scheduled basis. Rochester is several hours from our {city} shop, so most work in Monroe County is booked ahead and grouped with other calls in the area. We are clear about timing when you call." },
+    { "q": "Can you open or close my lake cottage?", "a": "We can. We drain lines, protect the water heater and fixtures in fall, then restore water and check for leaks in spring. Book early, since many owners want the same weeks." },
+    { "q": "What should I do if a pipe bursts while you are on the way?", "a": "Shut off the main valve, usually near where the water line enters the house, and turn off the water heater. Move valuables away from the leak. We stay on the phone with you until the water stops." },
+    { "q": "Is trenchless sewer repair possible in Rochester?", "a": "Often, yes. Many clay laterals can be lined or replaced with less digging. We run a camera first to see the condition and depth of the line before recommending any method." },
+    { "q": "What drives the cost of work in the Finger Lakes?", "a": "Travel distance, the condition of the existing pipe, access, and whether the home is year round or seasonal all affect the price. You get the full number before any work begins." }
+  ],
+  "ctaHeading": "Book a Plumber in the Finger Lakes"
+}

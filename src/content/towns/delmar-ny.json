@@ -1,0 +1,48 @@
+{
+  "name": "Delmar",
+  "order": 13,
+  "county": "Albany",
+  "region": "capital-region",
+  "zips": ["12054", "12159", "12077"],
+  "neighborhoods": ["Delmar Four Corners", "Elsmere", "Slingerlands", "Glenmont", "Normansville", "Hamagrael", "Bethlehem Center"],
+  "nearby": ["albany-ny", "guilderland-ny", "rensselaer-ny", "colonie-ny"],
+  "geo": { "lat": 42.6223, "lng": -73.8329 },
+  "seoTitle": "Plumber in Delmar, NY | Drains and Water Heaters | {shortName}",
+  "metaDescription": "Delmar, NY plumber for older Bethlehem homes in Elsmere, Slingerlands and Glenmont. Drains, sewer laterals, water heaters. Open 24/7. Call {phone}.",
+  "imageAlt": "White bungalow with a front porch among autumn trees",
+  "hero": {
+    "eyebrow": "Town of Bethlehem plumber",
+    "h1": "Plumber in Delmar, NY",
+    "sub": "Delmar's colonials and Cape Cods were built to last, but their original pipes were not. We repair, update and maintain plumbing across the Town of Bethlehem, day or night, with the price agreed first."
+  },
+  "intro": "{name} works in Delmar, Elsmere, Slingerlands and Glenmont every week. Many homes here were built between the 1920s and the 1950s, and a lot of them still carry pieces of their first plumbing. We are a short drive down Delaware Avenue from our {city} shop, so urgent calls get quick attention and planned upgrades fit easily into the schedule.",
+  "popular": ["drain-cleaning", "sewer-camera-inspection", "repiping", "water-heater-replacement", "sewer-line-repair", "leak-detection"],
+  "problems": [
+    { "title": "Galvanized supply lines closing up", "text": "Steel water pipe from the 1930s and 1940s rusts from the inside. Pressure fades slowly, then a fixture upstairs barely runs. Swapping those runs for copper or PEX brings the flow back.", "service": "repiping" },
+    { "title": "Clay laterals under big old maples", "text": "The shade trees that make Delmar streets so pleasant have had decades to find the joints in clay sewer pipe. Gurgling drains and slow basement floor drains are the early warnings.", "service": "sewer-camera-inspection" },
+    { "title": "Cracked cast iron drain stacks", "text": "Original cast iron stacks hidden in walls can split along the seam after eighty years. A faint sewer smell or a stain on a ceiling below a bathroom is often the first clue.", "service": "leak-detection" },
+    { "title": "Renovations that outgrow the pipes", "text": "A second bathroom or a bigger kitchen adds load that 1940s drains and a small water heater were never sized for. Planning the plumbing first keeps the project from stalling.", "service": "water-heater-replacement" }
+  ],
+  "housing": {
+    "heading": "Plumbing in Delmar's Older Neighborhoods",
+    "paragraphs": [
+      "The streets around the Four Corners, Elsmere and Hamagrael filled in with brick and clapboard colonials, Tudors and Capes from the 1920s through the postwar years. These houses usually have cast iron drains, a mix of galvanized and copper supply pipe, and basements that were never meant to be finished. We look at the whole system before suggesting a fix.",
+      "Farther out in Slingerlands and Glenmont, homes range from older farmhouses to 1970s and 1990s subdivisions. Lots near the Normans Kill ravine can run damp, so sump pumps and basement drains get more of a workout there after a wet spring."
+    ]
+  },
+  "howWeWork": {
+    "heading": "How We Handle Jobs in Bethlehem Homes",
+    "paragraphs": [
+      "Older Delmar houses often have finished basements, plaster walls and original woodwork. We protect floors, use cameras and listening tools to pinpoint problems, and keep any opening as small as the repair allows.",
+      "You hear what we found and what it will cost before any work starts. If a larger project like repiping makes sense, we explain the options and let you decide on the timing. We answer {hours}."
+    ]
+  },
+  "faqs": [
+    { "q": "Is it worth repiping an older Delmar home?", "a": "If you have galvanized pipe with low pressure or rusty water, usually yes. We can often work room by room through basements and closets to limit wall openings. A short visit tells us how much of the original pipe is left." },
+    { "q": "Why does my basement floor drain back up only sometimes?", "a": "Intermittent backups often point to roots or a sagging section in the sewer lateral. Water flows until debris catches on the problem spot. A camera inspection shows exactly where it is and whether cleaning or repair is the right move." },
+    { "q": "Can you work around plaster walls without a big mess?", "a": "Yes. We locate the problem with tools first, cut only where needed and cover the work area. We leave the opening clean and ready for patching, and we can explain what a plasterer will need to finish it." },
+    { "q": "Do you serve Slingerlands and Glenmont too?", "a": "We do. Our technicians cover all of the Town of Bethlehem, including Slingerlands, Glenmont, Elsmere and Selkirk, along with Delmar itself. Emergency calls in any of these areas are answered around the clock." },
+    { "q": "Should I have the sewer line checked before buying a house here?", "a": "For a Delmar home built before the 1960s, a pre purchase camera inspection is a smart step. It shows the condition of the lateral to the street and gives you real information before you close." }
+  ],
+  "ctaHeading": "Plumber in Delmar, Day or Night"
+}

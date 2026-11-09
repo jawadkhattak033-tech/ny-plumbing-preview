@@ -1,0 +1,74 @@
+{
+  "title": "Water Heater Repair",
+  "order": 7,
+  "seoTitle": "Water Heater Repair in {state} | {shortName} Plumbing",
+  "metaDescription": "No hot water, strange noises or a leaking tank? {shortName} repairs gas and electric water heaters day or night. Upfront price before any work. Call {phone}.",
+  "imageAlt": "Vintage copper water heater tank mounted on a wall",
+  "cardText": "Gas and electric tank heaters diagnosed and repaired, from pilot and thermocouple trouble to elements, valves and thermostats.",
+  "hero": {
+    "eyebrow": "Water heater repair",
+    "h1": "Water Heater Repair in {state}, Day or Night",
+    "sub": "Cold showers, rusty water, popping sounds or a puddle under the tank? We find out why your water heater stopped working and tell you honestly if a repair is worth it."
+  },
+  "quickAnswer": "Call {name} at {phone}. We answer {hours} and send a technician with common water heater parts on the truck. You get a diagnosis and a firm price before any repair, plus an honest opinion on whether repair or replacement makes more sense.",
+  "intro": [
+    "A water heater has only a handful of parts that usually fail. On gas units it is often the thermocouple, the pilot assembly, the gas valve or a blocked burner. On electric units it is usually a heating element or a thermostat. Most of these can be replaced in a single visit, and the tank goes back to work.",
+    "Some problems point to something larger. Water pooling under the tank, rust colored hot water, or a burner that keeps going out can mean the tank itself is failing or the venting is unsafe. Those need careful attention, not a quick part swap. A gas heater that is not venting properly can spill exhaust into the basement, so we check the draft before anything else.",
+    "We start by asking how old the heater is and what changed. A newer heater with a bad part is almost always worth fixing. An older tank that is starting to leak usually is not. Either way, we give you the facts and let you choose. You will never be pushed toward a new heater you do not need."
+  ],
+  "signs": {
+    "heading": "Signs Your Water Heater Needs Repair",
+    "items": [
+      "You have no hot water, or it runs out much faster than it used to.",
+      "The pilot light will not stay lit on a gas water heater.",
+      "Popping, rumbling or crackling sounds come from the tank.",
+      "Hot water looks rusty or smells like rotten eggs.",
+      "Water drips from the relief valve pipe or the base of the tank.",
+      "The water temperature swings from hot to lukewarm without warning."
+    ]
+  },
+  "covers": {
+    "heading": "What Our Water Heater Repair Covers",
+    "items": [
+      "Gas pilot, thermocouple and burner repairs",
+      "Gas control valve replacement",
+      "Electric heating element and thermostat replacement",
+      "Temperature and pressure relief valve replacement",
+      "Tank flushing to remove sediment",
+      "Venting and draft checks on gas units"
+    ]
+  },
+  "bookLabel": "Book Water Heater Repair",
+  "process": {
+    "heading": "How We Repair a Water Heater",
+    "steps": [
+      { "title": "Check Safety First", "text": "We look at the gas supply, venting, relief valve and electrical connections before anything else, so the unit is safe to work on." },
+      { "title": "Diagnose the Fault", "text": "We test the parts most likely to have failed and check the tank for leaks, corrosion and sediment buildup." },
+      { "title": "Give You the Options", "text": "You hear what is wrong, what it costs to fix and, if the tank is near the end of its life, what replacement would involve." },
+      { "title": "Repair and Test", "text": "We replace the faulty part, bring the heater back up to temperature and confirm hot water at your taps before we leave." }
+    ]
+  },
+  "local": {
+    "heading": "Why {state} Water Heaters Work So Hard",
+    "paragraphs": [
+      "In much of the state, incoming water gets very cold in winter. A water heater has to raise that water through a much larger temperature range in January than in July, so parts that were marginal in summer often fail in the first real cold spell. That is when our water heater calls pick up.",
+      "Hard water is common in many areas that rely on wells and some municipal supplies. Minerals settle at the bottom of the tank as sediment, which causes the popping sound homeowners notice and makes the burner or lower element work harder. Regular flushing helps a heater last."
+    ]
+  },
+  "cost": {
+    "heading": "What Drives the Cost of Water Heater Repair",
+    "paragraphs": [
+      "The failed part is the biggest factor. A thermocouple or element is a modest repair, while a gas control valve costs more. Access matters too, since a heater squeezed into a tight closet takes longer to work on than one in an open basement. Heavy sediment can add a flush to the visit.",
+      "We give you the repair price before we start, and we tell you if the money would be better spent on a new heater."
+    ]
+  },
+  "faqs": [
+    { "q": "Should I repair or replace my water heater?", "a": "If the tank itself is leaking, replacement is the only real fix. If a part such as an element, thermostat or thermocouple failed on a newer heater, repair usually makes sense. For older heaters with repeated problems, we will help you compare the cost of repair against a new unit." },
+    { "q": "Why is my water heater making popping noises?", "a": "Popping or rumbling usually means sediment has built up at the bottom of the tank. Water trapped under the sediment boils and bursts through it. Flushing the tank can quiet it down. If the buildup is heavy and the tank is older, it may be a sign the heater is wearing out." },
+    { "q": "Why does my hot water smell like rotten eggs?", "a": "That smell usually comes from a reaction between bacteria in the water and the magnesium anode rod inside the tank. It is common with well water. Flushing the tank and replacing the anode with a different type often solves it." },
+    { "q": "Is a dripping relief valve dangerous?", "a": "The relief valve protects the tank from too much pressure or heat. A drip can mean the valve is worn, or that pressure in the system is too high. Either way it should be checked soon. If it is discharging a lot of hot water, call us right away." },
+    { "q": "Can you repair a water heater the same day?", "a": "Often, yes. Our trucks carry common parts such as thermocouples, elements, thermostats and relief valves. Some gas valves and brand specific parts need to be ordered. If so, we will tell you how long it will take and look for ways to restore hot water sooner." }
+  ],
+  "related": ["water-heater-replacement", "tankless-water-heaters", "water-softener-installation"],
+  "ctaHeading": "No hot water this morning?"
+}

@@ -1,0 +1,74 @@
+---
+/**
+ * The service request form. Posts to /contact-handler.php (public/), which
+ * emails the lead and redirects to /thank-you/. Used by the popup, the
+ * contact page, careers and every town page.
+ */
+import Icon from './Icon.astro';
+import { getServices, getCommercial } from '../lib/site';
+
+interface Props { id: string; formName: string; submitLabel?: string; careers?: boolean; }
+const { id, formName, submitLabel = 'Request Service', careers = false } = Astro.props;
+const [services, commercial] = await Promise.all([getServices(), getCommercial()]);
+---
+<form class="form-grid lead-form" action="/contact-handler.php" method="POST" data-form={formName}>
+  <input type="text" name="company_website" class="hp-field" tabindex="-1" autocomplete="off" aria-hidden="true" />
+  <input type="hidden" name="form_ts" value="" class="js-ts" />
+  <input type="hidden" name="source_page" value="" class="js-src" />
+  <input type="hidden" name="form_name" value={formName} />
+  <p class="form-alert" role="alert" hidden></p>
+  <div class="form-row">
+    <input type="text" name="first_name" placeholder="First name" autocomplete="given-name" aria-label="First name" required maxlength="60" />
+    <input type="text" name="last_name" placeholder="Last name" autocomplete="family-name" aria-label="Last name" required maxlength="60" />
+  </div>
+  <input type="tel" name="phone" placeholder="Phone number" autocomplete="tel" aria-label="Phone number" required maxlength="30" />
+  <input type="email" name="email" placeholder="Email address" autocomplete="email" aria-label="Email address" maxlength="120" />
+  {careers ? (
+    <select name="service" aria-label="Position of interest" id={`${id}-service`} required>
+      <option value="" disabled selected>Position of interest</option>
+      <option>Licensed Plumber</option>
+      <option>Plumbing Apprentice</option>
+      <option>Drain Technician</option>
+      <option>Dispatcher or Office</option>
+      <option>Other</option>
+    </select>
+  ) : (
+    <>
+      <input type="text" name="location" placeholder="City or ZIP code" autocomplete="postal-code" aria-label="City or ZIP code" maxlength="80" />
+      <fieldset class="cust-type">
+        <legend class="sr-only">Property type</legend>
+        <label><input type="radio" name="customer_type" value="Home" checked /> Home</label>
+        <label><input type="radio" name="customer_type" value="Business" /> Business or rental property</label>
+      </fieldset>
+      <div class="biz-fields" hidden>
+        <select name="property_type" aria-label="Property type">
+          <option value="" selected>Type of property</option>
+          <option>Restaurant or food service</option>
+          <option>Apartment or multifamily building</option>
+          <option>Office</option>
+          <option>Retail store or plaza</option>
+          <option>Property management portfolio</option>
+          <option>Other commercial</option>
+        </select>
+        <div class="form-row">
+          <input type="text" name="units" placeholder="Units or locations" aria-label="Number of units or locations" inputmode="numeric" maxlength="10" />
+          <select name="recurring" aria-label="Recurring service">
+            <option value="" selected>Recurring service?</option>
+            <option>Yes, ongoing maintenance</option>
+            <option>No, one time job</option>
+            <option>Not sure yet</option>
+          </select>
+        </div>
+      </div>
+      <select name="service" aria-label="Service needed" id={`${id}-service`} required>
+        <option value="" disabled selected>What do you need help with?</option>
+        <optgroup label="Home plumbing">{services.map((s) => <option value={s.title}>{s.title}</option>)}</optgroup>
+        <optgroup label="Commercial">{commercial.map((s) => <option value={s.title}>{s.title}</option>)}</optgroup>
+        <option value="Something else">Something else</option>
+      </select>
+    </>
+  )}
+  <textarea name="message" rows="3" placeholder={careers ? 'Tell us about your experience (optional)' : 'Tell us what is going on (optional)'} aria-label="Message" maxlength="2000"></textarea>
+  <button type="submit" class="btn-submit">{submitLabel}</button>
+  <p class="privacy-note"><Icon name="lock" size={14} /> Your information is secure and never shared.</p>
+</form>

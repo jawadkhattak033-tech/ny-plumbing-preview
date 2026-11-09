@@ -1,0 +1,152 @@
+{
+  "_readme": "Fixed images. Service, commercial, region and town images are added automatically from their content files (keys service-<slug>, commercial-<slug>, region-<slug>, town-<slug>). To use a real photo, put <key>.jpg|png|webp in src/assets/photos/ and run npm run images. Each fixed image also carries its alt text here (read via imgAlt() in src/lib/site.ts); update it whenever the photo changes.",
+  "hero-home": {
+    "label": "technician at a customer's door",
+    "ratio": [
+      16,
+      9
+    ],
+    "style": "subtle",
+    "alt": "Gray shingled house with a wraparound white porch and a green lawn"
+  },
+  "home-intro": {
+    "label": "Plumber checking pipes under a kitchen sink",
+    "ratio": [
+      4,
+      3
+    ],
+    "alt": "Placeholder photo: plumber checking pipes under a kitchen sink"
+  },
+  "home-commercial": {
+    "label": "Commercial kitchen sinks and floor drains",
+    "ratio": [
+      4,
+      3
+    ],
+    "alt": "Restaurant kitchen with ladles hanging above stainless steel shelves and stacked plates"
+  },
+  "page-hero": {
+    "label": "Generic page hero: service van and crew",
+    "ratio": [
+      16,
+      9
+    ],
+    "alt": "Rows of gray pipes with elbow fittings running along a wall"
+  },
+  "about-team": {
+    "label": "The team in front of the shop",
+    "ratio": [
+      4,
+      3
+    ],
+    "alt": "Placeholder photo: tools in a workshop"
+  },
+  "owner": {
+    "label": "Owner portrait",
+    "ratio": [
+      4,
+      5
+    ],
+    "alt": "Placeholder photo for the owner section"
+  },
+  "contact-shop": {
+    "label": "Shop front and service vans",
+    "ratio": [
+      4,
+      3
+    ],
+    "alt": "Placeholder photo: shop front and work van"
+  },
+  "careers-crew": {
+    "label": "Technicians loading the truck",
+    "ratio": [
+      4,
+      3
+    ],
+    "alt": "Placeholder photo: tools being loaded for a job"
+  },
+  "work-01": {
+    "label": "Job photo: tankless water heater install",
+    "ratio": [
+      3,
+      4
+    ]
+  },
+  "work-02": {
+    "label": "Job photo: main line cleared with a drum machine",
+    "ratio": [
+      3,
+      4
+    ]
+  },
+  "work-03": {
+    "label": "Job photo: sewer camera monitor view",
+    "ratio": [
+      3,
+      4
+    ]
+  },
+  "work-04": {
+    "label": "Job photo: new copper manifold",
+    "ratio": [
+      3,
+      4
+    ]
+  },
+  "work-05": {
+    "label": "Job photo: sump pump replacement",
+    "ratio": [
+      3,
+      4
+    ]
+  },
+  "work-06": {
+    "label": "Job photo: 50 gallon water heater swap",
+    "ratio": [
+      3,
+      4
+    ]
+  },
+  "work-07": {
+    "label": "Job photo: frozen pipe repair in a crawl space",
+    "ratio": [
+      3,
+      4
+    ]
+  },
+  "work-08": {
+    "label": "Job photo: grease trap pump out",
+    "ratio": [
+      3,
+      4
+    ]
+  },
+  "work-09": {
+    "label": "Job photo: kitchen faucet and disposal",
+    "ratio": [
+      3,
+      4
+    ]
+  },
+  "work-10": {
+    "label": "Job photo: PEX repipe in an unfinished basement",
+    "ratio": [
+      3,
+      4
+    ]
+  },
+  "work-11": {
+    "label": "Job photo: hydro jetting a restaurant line",
+    "ratio": [
+      3,
+      4
+    ]
+  },
+  "work-12": {
+    "label": "Job photo: excavated sewer lateral repair",
+    "ratio": [
+      3,
+      4
+    ]
+  }
+}

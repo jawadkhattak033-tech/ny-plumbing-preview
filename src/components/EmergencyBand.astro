@@ -1,0 +1,8 @@
+---
+import Icon from './Icon.astro';
+import { business, tel } from '../lib/site';
+---
+<div class="emergency-band"><div class="container">
+  <div><strong>Plumbing emergency right now?</strong><p>Water spraying, sewage coming up or no water at all? Shut off the main valve if you can, then call. We pick up {business.hours.phrase}.</p></div>
+  <a href={tel} class="btn btn-white"><Icon name="phone" size={18} /> {business.phone}</a>
+</div></div>

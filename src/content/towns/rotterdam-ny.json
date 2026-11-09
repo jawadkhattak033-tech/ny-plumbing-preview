@@ -1,0 +1,48 @@
+{
+  "name": "Rotterdam",
+  "order": 15,
+  "county": "Schenectady",
+  "region": "capital-region",
+  "zips": ["12303", "12306", "12150"],
+  "neighborhoods": ["Rotterdam Junction", "Pattersonville", "Carman", "South Schenectady", "Mohonasen area", "Lower Rotterdam", "Hoffmans"],
+  "nearby": ["schenectady-ny", "guilderland-ny", "niskayuna-ny", "colonie-ny"],
+  "geo": { "lat": 42.787, "lng": -73.971 },
+  "seoTitle": "Plumber in Rotterdam, NY | Sump Pumps and Sewer | {shortName}",
+  "metaDescription": "Rotterdam, NY plumber for Mohawk River lowlands, Rotterdam Junction and Carman. Sump pumps, sewer lines, water heaters and frozen pipes 24/7. Call {phone}.",
+  "imageAlt": "Shingled house with a long covered porch beside tall trees",
+  "hero": {
+    "eyebrow": "Schenectady County plumber",
+    "h1": "Plumber in Rotterdam, NY",
+    "sub": "Low ground along the Mohawk, postwar Capes near Carman and rural lots out toward Pattersonville each bring different plumbing needs. We cover all of Rotterdam around the clock and quote before we start."
+  },
+  "intro": "{name} handles plumbing calls across Rotterdam, from the busy Altamont Avenue and Curry Road corridors to the river hamlets of Rotterdam Junction and Hoffmans. Much of the town grew fast after World War II, when workers at the big Schenectady plants needed houses. Those homes are now old enough that drains, sewer laterals and water lines need real attention.",
+  "popular": ["sump-pumps", "sewer-line-repair", "drain-cleaning", "emergency-plumbing", "water-heater-replacement", "frozen-pipe-repair"],
+  "problems": [
+    { "title": "High groundwater near the river", "text": "Homes on the Mohawk flats and along the Plotter Kill see water tables rise fast in spring and after big storms. A sump pump that runs constantly, or not at all, needs a look before the next downpour.", "service": "sump-pumps" },
+    { "title": "Postwar sewer laterals wearing out", "text": "Orangeburg and clay sewer pipe laid in the 1940s and 1950s can flatten, crack or separate. Repeat clogs in the same spot are a common sign the line itself has failed.", "service": "trenchless-sewer-replacement" },
+    { "title": "Flood cleanup plumbing", "text": "After high water, basements near the Junction often need water heaters, pumps and floor drains checked or replaced. We confirm everything is safe before it is put back in service.", "service": "emergency-plumbing" },
+    { "title": "Exposed pipes in crawl spaces", "text": "Ranches and slab additions sometimes run supply lines through cold crawl spaces or outside walls. A few windy nights below zero is all it takes to split a line.", "service": "frozen-pipe-repair" }
+  ],
+  "housing": {
+    "heading": "Plumbing in Rotterdam's River and Suburban Homes",
+    "paragraphs": [
+      "Neighborhoods off Curry Road, Guilderland Avenue and around Mohonasen are full of 1940s and 1950s Capes, ranches and small colonials. Most have cast iron or clay drains, a mix of copper and galvanized supply pipe, and a sewer lateral that has never been inspected. Small repairs now often prevent a dug up front lawn later.",
+      "Out toward Rotterdam Junction, Pattersonville and the Princetown line, lots get larger and the river is closer. Basements sit near the water table, and some older properties still rely on private wells or septic. We adjust our approach to match the ground each house sits on."
+    ]
+  },
+  "howWeWork": {
+    "heading": "Reaching Every Corner of Rotterdam",
+    "paragraphs": [
+      "Rotterdam stretches a long way west along the Mohawk, but Interstate 890 and Route 5S make it quick to cross. We plan routes so a technician can reach the Junction as easily as a house near Rotterdam Square.",
+      "On every call we explain the problem in plain terms, give you the price and then do the work. When storms push groundwater up, we prioritize active flooding and failed sump pumps. Calls are answered {hours}."
+    ]
+  },
+  "faqs": [
+    { "q": "How do I know if my sump pump is big enough?", "a": "If it runs almost nonstop during a storm or the pit nearly overflows, it is likely undersized or the float is failing. We check the pump, the pit and the discharge line and recommend a size based on how much water your basement actually sees." },
+    { "q": "Can you replace a sewer line without digging up my yard?", "a": "In many Rotterdam homes, yes. If a camera inspection shows the old pipe is round enough to work with, trenchless lining or bursting can replace it through small access points. We tell you honestly when digging is the better option." },
+    { "q": "My basement flooded. What should I do first?", "a": "Shut off power to the basement if it is safe, and do not touch equipment standing in water. Then call us. We check the water heater, furnace connections and drains before anything is turned back on." },
+    { "q": "Do you work on homes in Rotterdam Junction and Pattersonville?", "a": "Yes. We serve the whole town, including the Junction, Pattersonville, Hoffmans and South Schenectady. Rural calls often involve well tanks, sump pumps and frozen lines, and we handle all of them." },
+    { "q": "Why do my drains gurgle when the washing machine empties?", "a": "Gurgling usually means air cannot move freely through the drain or vent. A partial clog in the main line or a blocked roof vent is the usual cause, and both are simple to diagnose." }
+  ],
+  "ctaHeading": "Plumber in Rotterdam, 24/7"
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Albany",
+  "order": 1,
+  "county": "Albany",
+  "region": "capital-region",
+  "zips": ["12202", "12203", "12204", "12206", "12207", "12208", "12209", "12210"],
+  "neighborhoods": ["Center Square", "Pine Hills", "Helderberg", "Arbor Hill", "South End", "Mansion District", "Buckingham Pond", "Whitehall", "Park South"],
+  "nearby": ["rensselaer-ny", "troy-ny", "colonie-ny", "delmar-ny", "guilderland-ny", "latham-ny"],
+  "geo": { "lat": 42.6526, "lng": -73.7562 },
+  "seoTitle": "Plumber in Albany, NY | 24/7 Local Plumbing | {shortName}",
+  "metaDescription": "Albany, NY plumber for Center Square rowhouses, Pine Hills homes and downtown buildings. Leaks, drains, water heaters and old pipe. 24/7. Call {phone}.",
+  "imageAlt": "New York State Capitol in Albany, with a statue and lawns in front",
+  "hero": {
+    "eyebrow": "Albany County plumber",
+    "h1": "Plumber in Albany, NY",
+    "sub": "Albany is our home city. From Center Square rowhouses to Buckingham Pond capes, we know how these homes were piped, answer at any hour and give you a price before work begins."
+  },
+  "intro": "{name} works out of Albany, so the city gets our shortest drive times. We handle plumbing for homeowners, landlords and small businesses from Arbor Hill to Whitehall, and for the offices and shops that keep downtown running. Emergency calls often have a technician nearby already, and routine jobs can usually be scheduled within a day or two.",
+  "popular": ["emergency-plumbing", "drain-cleaning", "repiping", "leak-detection", "water-heater-replacement", "frozen-pipe-repair"],
+  "problems": [
+    { "title": "Old lead and galvanized service lines", "text": "Many older Albany homes still get water through a lead or galvanized line from the curb. These lines restrict flow and corrode from the inside. Replacing them improves pressure and peace of mind.", "service": "repiping" },
+    { "title": "Leaks that cross a party wall", "text": "In attached rowhouses, a leak next door can show up as a stain in your ceiling or wall. Finding which side it started on takes careful testing before anyone opens plaster.", "service": "leak-detection" },
+    { "title": "Grease in busy restaurant kitchens", "text": "Restaurants along Lark Street and downtown run their kitchens hard. Without regular grease trap service, buildup reaches the main line and backs up into the dining room or the unit upstairs.", "service": "grease-trap-cleaning" },
+    { "title": "Frozen pipes in rear additions", "text": "Kitchens and baths in back additions and enclosed porches often sit over a cold crawlspace. Those are the first lines to freeze when January temperatures drop below zero.", "service": "frozen-pipe-repair" }
+  ],
+  "housing": {
+    "heading": "Rowhouses, Brownstones and Postwar Homes in Albany",
+    "paragraphs": [
+      "Center Square, the Mansion District and Park South are lined with 19th century brick and brownstone rowhouses, many split into apartments over the years. Their plumbing often climbs through narrow chases and shares walls with the neighbors. Before we open anything, we map where the lines actually run so repairs stay small.",
+      "Farther west in Pine Hills, Helderberg, Buckingham Pond and Whitehall, homes date mostly from the 1910s through the 1950s. Original cast iron drains and old water service lines are common, and many basements have been finished over the plumbing. A camera look at the main drain helps before any remodel."
+    ]
+  },
+  "howWeWork": {
+    "heading": "Plumbing Help From Our Own City",
+    "paragraphs": [
+      "Because our shop is in Albany, a technician is rarely far from your block. We answer {hours}, and we plan around downtown parking, permit rules and buildings where water has to be shut off for several units at once.",
+      "Every job starts with a plain explanation of the problem and an upfront price. When the repair is done, we test it, clean up and leave you with a short summary of what we found."
+    ]
+  },
+  "faqs": [
+    { "q": "How do I know if my Albany home has a lead service line?", "a": "Look where the water line enters the basement. Lead is dull gray, soft and shows a shiny scratch when scraped with a key. If you are unsure, we can check it during any visit, confirm the material and explain your replacement options." },
+    { "q": "Can you work in a rowhouse that is split into apartments?", "a": "Yes. We work in converted rowhouses across Center Square and Park South regularly. We plan shutoffs with the owner so tenants lose water for as little time as possible and are told ahead of time." },
+    { "q": "Do you service downtown offices and state-adjacent businesses?", "a": "We do. We handle restrooms, break rooms, water heaters and drain lines for offices, shops and restaurants downtown, and can schedule work before or after business hours to keep disruption low." },
+    { "q": "Why does my older Albany home have such low water pressure?", "a": "The usual cause is old galvanized pipe that has narrowed with rust inside, or an undersized service line from the street. We test pressure at several fixtures to find where the restriction is before suggesting any repiping." },
+    { "q": "What should I do if a pipe freezes in my back addition?", "a": "Shut off the main water valve if you see any leaking, then open the faucet on that line. Do not use an open flame to thaw it. Call us and we will thaw it safely and check for splits." }
+  ],
+  "ctaHeading": "Albany Plumber, 24/7"
+}

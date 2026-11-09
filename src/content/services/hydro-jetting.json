@@ -1,0 +1,74 @@
+{
+  "title": "Hydro Jetting",
+  "order": 3,
+  "seoTitle": "Hydro Jetting Service in {state} | {shortName} Plumbing",
+  "metaDescription": "Grease, scale or roots that a snake cannot clear? {shortName} hydro jets drain and sewer lines clean, with a camera check first. Upfront pricing. Call {phone}.",
+  "imageAlt": "Light reflecting on water inside a dark, round tunnel",
+  "cardText": "High pressure water scours grease, scale and root growth off the pipe walls, restoring full flow in drains and sewer lines.",
+  "hero": {
+    "eyebrow": "Hydro jetting for stubborn lines",
+    "h1": "Hydro Jetting in {state} for Drains That Keep Clogging",
+    "sub": "When a cable only punches a hole through the clog, a jetter washes the pipe clean wall to wall. We check the line on camera first so jetting is safe for your pipe."
+  },
+  "quickAnswer": "Call {name} at {phone} to schedule hydro jetting. We run a sewer camera first to confirm the pipe can handle it, then use high pressure water to strip grease, scale and roots from the walls. You get a firm price before we start.",
+  "intro": [
+    "Hydro jetting uses a hose with a special nozzle that sprays water backward and forward at high pressure. The rear jets pull the hose deep into the line while the front jet breaks up the blockage. As it is reeled back, it scrubs the full circle of the pipe instead of just boring a path through the middle.",
+    "It is the right tool when a line has a coating problem rather than a single plug. Kitchen lines lined with years of hardened grease, cast iron drains crusted with scale, and sewer laterals with fine root hairs all respond better to water than to a cutting blade. The result is a pipe that flows close to its original size.",
+    "Jetting is not for every pipe. A cracked clay line or badly rusted cast iron could be damaged by the pressure. That is why we look first with a camera and tell you plainly if jetting is a good idea or if a repair should come first. You see the same footage we do before any decision is made."
+  ],
+  "signs": {
+    "heading": "Signs Your Line Needs Hydro Jetting",
+    "items": [
+      "The same drain clogs again within weeks of being snaked.",
+      "Your kitchen line backs up after big meals or holiday cooking.",
+      "Several fixtures drain slowly at once, pointing to the main line.",
+      "A camera inspection showed heavy grease, scale or root hair growth.",
+      "You hear gurgling from floor drains when the washer empties.",
+      "Sewer odor lingers in the basement even when nothing is backed up."
+    ]
+  },
+  "covers": {
+    "heading": "What Our Hydro Jetting Service Covers",
+    "items": [
+      "Pre-jetting camera inspection of the line",
+      "Kitchen and laundry branch line jetting",
+      "Main building drain and sewer lateral jetting",
+      "Grease, sludge and mineral scale removal",
+      "Fine root growth clearing in sewer lines",
+      "Post-jetting camera check to confirm a clean pipe"
+    ]
+  },
+  "bookLabel": "Schedule Hydro Jetting",
+  "process": {
+    "heading": "How Our Hydro Jetting Works",
+    "steps": [
+      { "title": "Camera the Line First", "text": "We run a sewer camera through the pipe to see what is inside, measure how far the trouble runs and confirm the pipe is sound enough for pressure." },
+      { "title": "Choose Nozzle and Pressure", "text": "Grease, scale and roots each call for a different nozzle. We set pressure to match the pipe material and size, gentler for older lines." },
+      { "title": "Jet the Full Run", "text": "The hose travels the length of the problem section and is pulled back slowly so the walls are scoured clean all the way around." },
+      { "title": "Verify on Camera", "text": "A second camera pass shows you the cleaned pipe. We point out any cracks, sags or joints worth watching in the future." }
+    ]
+  },
+  "local": {
+    "heading": "Why Hydro Jetting Helps Older {state} Homes",
+    "paragraphs": [
+      "Many houses across the state were built with cast iron drains that have been in place for most of a century. Inside, those pipes grow a rough layer of rust and scale called tuberculation. A cable slides past it, but grease and paper keep catching. Jetting at the right pressure knocks that crust loose without cutting the pipe.",
+      "Maple, willow and other thirsty trees are common on older residential streets, and their fine roots work into clay sewer joints. Jetting clears those root hairs fully, which can buy real time before a line needs repair or replacement."
+    ]
+  },
+  "cost": {
+    "heading": "What Drives the Cost of Hydro Jetting",
+    "paragraphs": [
+      "Cost depends on the length of the line, how heavy the buildup is and how easy it is to reach. An accessible outdoor cleanout makes for a faster setup than jetting through a roof vent or pulling a toilet. Lines with thick grease or roots take more passes than light scale.",
+      "The camera inspection before and after is part of doing the job right. We include it in the price we give you, so you know the full cost before we begin."
+    ]
+  },
+  "faqs": [
+    { "q": "Is hydro jetting safe for old pipes?", "a": "It is safe for most pipes in reasonable condition, including older cast iron, when the pressure is set correctly. It is not safe for pipes that are already cracked, collapsed or badly corroded. That is why we always inspect with a camera before jetting and tell you if a repair should come first." },
+    { "q": "How is hydro jetting different from snaking a drain?", "a": "A snake or cable cuts through a clog and opens a path. Jetting scrubs the full inside surface of the pipe, removing the coating that causes new clogs. Snaking is often fine for a single blockage, while jetting is better for recurring grease, scale or root problems." },
+    { "q": "How long do the results last?", "a": "That depends on what caused the buildup. A grease line can stay clear for a long time if cooking fats go in the trash. Roots will eventually regrow into cracked joints. We will tell you what we saw and give you a realistic sense of when the line may need attention again." },
+    { "q": "Will hydro jetting make a mess in my house?", "a": "We jet from a cleanout whenever possible, which keeps water and debris inside the pipe and out of your living space. If we have to work from an indoor fixture, we lay down protection and clean up before we leave." },
+    { "q": "Can hydro jetting remove tree roots?", "a": "Jetting with a root cutting nozzle clears fine and medium roots well. Large, woody roots may need a mechanical cutter first. Jetting removes the roots inside the pipe but does not seal the joint they came through, so a repair may still be worth considering." }
+  ],
+  "related": ["drain-cleaning", "sewer-camera-inspection", "sewer-line-repair"],
+  "ctaHeading": "Tired of the same clog coming back?"
+}

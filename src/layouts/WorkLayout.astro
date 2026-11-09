@@ -1,0 +1,30 @@
+---
+/** /our-work/. Copy: src/content/pages/our-work.json; photos: src/data/work.json */
+import BaseLayout from './BaseLayout.astro';
+import { PageHero, TrustStrip, Reviews, Faq, CtaBand, WorkGrid, LinkTile } from '../components/sections';
+import { url, getPage, getServices, getCommercial, imgAlt } from '../lib/site';
+
+const [p, services, commercial] = await Promise.all([getPage('our-work'), getServices(), getCommercial()]);
+const crumbs = [{ name: 'Home', path: '/' }, { name: 'Our Work', path: '/our-work/' }];
+---
+<BaseLayout title={p.seoTitle} description={p.metaDescription} crumbs={crumbs} faqs={p.faqs}>
+  <PageHero eyebrow={p.hero.eyebrow} h1={p.hero.h1} sub={p.hero.sub} image="page-hero" imageAlt={imgAlt('page-hero')} crumbs={crumbs} />
+  <TrustStrip />
+
+  <section class="section"><div class="container">
+    <div class="section-head"><span class="eyebrow">Sample work</span><h2>{p.galleryHeading}</h2><p class="lead">{p.galleryLead}</p></div>
+    <WorkGrid bare gallery />
+  </div></section>
+
+  <section class="section section-soft"><div class="container">
+    <div class="section-head"><span class="eyebrow">Services</span><h2>{p.servicesHeading}</h2></div>
+    <div class="link-grid">
+      {services.map((s) => <LinkTile href={url.service(s.slug)} label={s.title} />)}
+      {commercial.map((s) => <LinkTile href={url.commercial(s.slug)} label={s.title} />)}
+    </div>
+  </div></section>
+
+  <Reviews offset={5} />
+  <Faq heading={p.faqHeading} items={p.faqs} />
+  <CtaBand heading={p.ctaHeading} />
+</BaseLayout>

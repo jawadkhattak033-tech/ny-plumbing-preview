@@ -1,0 +1,70 @@
+---
+import Icon from './Icon.astro';
+import Logo from './Logo.astro';
+import { business, facts, tel, mapsLink, mapsEmbed, fullAddress, a, url, getServices, getRegions } from '../lib/site';
+
+const [services, regions] = await Promise.all([getServices(), getRegions()]);
+const year = new Date().getFullYear();
+const social = [
+  { key: 'facebook', label: 'Facebook', href: business.social.facebook },
+  { key: 'yelp', label: 'Yelp', href: business.social.yelp },
+  { key: 'google', label: 'Google', href: business.social.google },
+  { key: 'instagram', label: 'Instagram', href: business.social.instagram },
+].filter((s) => s.href) as { key: 'facebook' | 'yelp' | 'google' | 'instagram'; label: string; href: string }[];
+const company = [
+  ['/about/', 'About Us'], ['/our-work/', 'Our Work'], ['/guides/', 'Guides'], ['/reviews/', 'Reviews'],
+  ['/service-areas/', 'Service Areas'], ['/commercial/', 'Commercial'], ['/careers/', 'Careers'],
+  ['/contact/', 'Contact'], ['/privacy-policy/', 'Privacy Policy'], ['/terms-of-service/', 'Terms of Service'],
+];
+---
+<footer class="footer">
+  <div class="container">
+    <div class="footer-grid">
+      <div>
+        <div class="footer-logo-plate"><Logo /></div>
+        <p>{business.name} is a 24/7 plumbing and drain cleaning company based in {a.city}, {a.state}, serving homes and businesses across {a.stateName}.{facts.years && ` ${facts.years} years in business.`} Fully insured.{facts.license && ` License ${facts.license}.`}</p>
+        <div class="footer-social">
+          {social.map((s) => (
+            <a href={s.href} target="_blank" rel="noopener noreferrer" aria-label={`${business.name} on ${s.label}`}><Icon name={s.key} size={18} /></a>
+          ))}
+        </div>
+      </div>
+      <div>
+        <h4>Company</h4>
+        <div class="footer-links">{company.map(([href, label]) => <a href={href}>{label}</a>)}</div>
+      </div>
+      <div>
+        <h4>Plumbing Services</h4>
+        <div class="footer-links">
+          {services.slice(0, 10).map((s) => <a href={url.service(s.slug)}>{s.title}</a>)}
+          <a href="/plumbing/">All plumbing services</a>
+        </div>
+      </div>
+      <div>
+        <h4>Contact</h4>
+        <div class="footer-contact-item"><Icon name="pin" size={18} /><div><a href={mapsLink} target="_blank" rel="noopener noreferrer">{a.street}<br />{a.city}, {a.state} {a.zip}</a></div></div>
+        <div class="footer-contact-item"><Icon name="phone" size={18} /><div><a href={tel}>{business.phone}</a></div></div>
+        <div class="footer-contact-item"><Icon name="mail" size={18} /><div><a href={`mailto:${business.email}`}>{business.email}</a></div></div>
+        <div class="footer-contact-item"><Icon name="clock" size={18} /><div>{business.hours.summary}<br />{business.hours.detail}</div></div>
+        <div class="footer-map">
+          <iframe src={mapsEmbed} loading="lazy" referrerpolicy="strict-origin-when-cross-origin" title={`Map of ${business.name} in ${a.city}, ${a.state}`}></iframe>
+          <p>Based in {a.city}. Serving all of {a.stateName}.</p>
+        </div>
+      </div>
+    </div>
+    <div class="footer-areas"><strong>Serving {a.stateName}:</strong>{regions.map((r) => <a href={url.region(r.slug)}>{r.name}</a>)}</div>
+  </div>
+  <div class="footer-bottom"><div class="container">
+    <span>&copy; {year} {business.legalName}. All rights reserved.</span>
+    <span>{fullAddress} &middot; <a href={tel}>{business.phone}</a></span>
+  </div></div>
+</footer>
+
+<div class="side-cta">
+  <a href={tel} class="s-phone" aria-label={`Call ${business.phone}`}><Icon name="phone" size={16} /> Call 24/7</a>
+  <a href="#request" data-popup="book" class="s-book">Request Service</a>
+</div>
+<div class="mobile-bar">
+  <a href={tel} class="m-phone"><Icon name="phone" size={18} /> Call Now</a>
+  <a href="#request" data-popup="book" class="m-book">Request Service</a>
+</div>

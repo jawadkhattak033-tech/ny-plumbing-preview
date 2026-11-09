@@ -1,0 +1,16 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Icon from '../components/Icon.astro';
+import { business, tel } from '../lib/site';
+---
+<BaseLayout title={`Thank You | ${business.name}`} description="Your service request was received." crumbs={[{ name: 'Home', path: '/' }, { name: 'Thank You', path: '/thank-you/' }]} noindex>
+  <section class="center-page"><div class="container" style="max-width:680px">
+    <div class="icon-big"><Icon name="check" size={42} /></div>
+    <h1>Thanks, we got your request</h1>
+    <p class="lead">Our team usually calls back within two hours. If water is actively leaking or sewage is backing up, please call now so we can dispatch right away.</p>
+    <div class="btn-row">
+      <a href={tel} class="btn btn-red"><Icon name="phone" size={18} /> {business.phone}</a>
+      <a href="/" class="btn btn-outline-navy">Back to home</a>
+    </div>
+  </div></section>
+</BaseLayout>

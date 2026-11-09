@@ -1,0 +1,48 @@
+{
+  "name": "Clifton Park",
+  "order": 3,
+  "county": "Saratoga",
+  "region": "capital-region",
+  "zips": ["12065", "12019"],
+  "neighborhoods": ["Rexford", "Vischer Ferry", "Jonesville", "Clifton Knolls", "Country Knolls", "Grooms Corners", "Elnora"],
+  "nearby": ["halfmoon-ny", "niskayuna-ny", "ballston-spa-ny", "mechanicville-ny", "schenectady-ny", "latham-ny"],
+  "geo": { "lat": 42.8656, "lng": -73.7710 },
+  "seoTitle": "Plumber in Clifton Park, NY | Open 24/7 | {shortName}",
+  "metaDescription": "Clifton Park, NY plumber for subdivision homes from the 1970s to today. Water heaters, sump pumps, softeners and leak repair. Open 24/7. Call {phone}.",
+  "imageAlt": "Gray shingled house with a wraparound white porch and a green lawn",
+  "hero": {
+    "eyebrow": "Saratoga County plumber",
+    "h1": "Plumber in Clifton Park, NY",
+    "sub": "Clifton Park homes were built in waves from the 1970s on, and each wave has its own plumbing habits. We know them, answer any hour and give a firm price first."
+  },
+  "intro": "{name} handles plumbing across Clifton Park, from Rexford and Vischer Ferry to the neighborhoods off Exit 9 and Exit 10. The Northway puts the town within easy reach of our {city} shop. Most of our work here is in family homes: water heaters near the end of their life, wet basements, hard water and remodels.",
+  "popular": ["water-heater-replacement", "tankless-water-heaters", "sump-pumps", "water-softener-installation", "leak-detection", "drain-cleaning"],
+  "problems": [
+    { "title": "Builder-grade water heaters wearing out", "text": "Many homes still run the water heater the builder installed. When a whole street was built at once, those tanks tend to fail around the same time. Watch for rust at the base or lukewarm showers.", "service": "water-heater-replacement" },
+    { "title": "Wet basements in clay soil", "text": "Much of Clifton Park sits on dense clay that holds water against foundations. Sump pumps here run often in spring, and an old or undersized pump can leave a finished basement soaked.", "service": "sump-pumps" },
+    { "title": "Scale from hard water", "text": "Hard water leaves white crust on faucets, clouds glassware and shortens the life of water heaters and dishwashers. A properly sized softener protects the appliances and fixtures you just paid for.", "service": "water-softener-installation" },
+    { "title": "Plastic supply lines from the 1980s", "text": "Some homes from that era were plumbed with gray polybutylene tubing. It can turn brittle and fail at the fittings without warning. Replacing it before a leak is far easier than after.", "service": "repiping" }
+  ],
+  "housing": {
+    "heading": "Subdivision Plumbing in Clifton Park",
+    "paragraphs": [
+      "Neighborhoods like Clifton Knolls and Country Knolls went up in the 1970s and 1980s, with ranches, splits and colonials that now carry original fixtures, aging shutoff valves and second or third water heaters. These houses are easy to work on, and most repairs are quick once we confirm what materials were used.",
+      "Newer developments from the 1990s and 2000s often have finished basements, larger bathrooms and more fixtures on one system. That means bigger hot water demand and more places for a slow leak to hide. Older hamlets like Rexford and Jonesville mix in farmhouses with their own surprises."
+    ]
+  },
+  "howWeWork": {
+    "heading": "Easy to Book, Easy to Work With",
+    "paragraphs": [
+      "We answer {hours} and can often fit Clifton Park appointments around school runs and work schedules. If you are planning a remodel or replacing an appliance, we are glad to talk through options before you commit.",
+      "You get the price before we touch anything. We protect floors and finished spaces as we work, haul away old equipment and clean up before we leave."
+    ]
+  },
+  "faqs": [
+    { "q": "Is a tankless water heater a good fit for a Clifton Park colonial?", "a": "It can be, especially for larger families or homes with a finished basement bath. It depends on your gas line size, venting options and how many showers run at once. We look at those first and give you an honest recommendation." },
+    { "q": "How often should my sump pump be replaced?", "a": "There is no fixed schedule, but pumps that cycle hard every spring wear out sooner. Test it by pouring water into the pit. If it hums, struggles or runs without stopping, it is time to have it checked." },
+    { "q": "How can I tell if I have polybutylene pipe?", "a": "Look at the supply lines near the water heater or under sinks. Polybutylene is usually gray, flexible plastic, often stamped PB. If you find it, we can inspect the fittings and talk through replacing it." },
+    { "q": "Do I need a water softener in Clifton Park?", "a": "Not every home needs one. If you see scale on fixtures, spots on dishes or short appliance life, a test will show how hard your water is. We size a softener to the result and your household." },
+    { "q": "Can you find a leak in a finished basement without tearing it apart?", "a": "Usually. We use moisture meters, thermal imaging and pressure tests to narrow the spot before opening anything. That keeps the repair to a small, neat patch instead of a whole wall." }
+  ],
+  "ctaHeading": "Clifton Park Plumber, 24/7"
+}

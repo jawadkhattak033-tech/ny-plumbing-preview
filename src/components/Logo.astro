@@ -1,0 +1,27 @@
+---
+/**
+ * Wordmark built from business.json. If business.logo is set to an image path
+ * (e.g. "/images/logo/logo.webp"), that image is used instead.
+ */
+import { business } from '../lib/site';
+interface Props { href?: string | null; class?: string; }
+const { href = '/', class: cls } = Astro.props;
+const Tag = href ? 'a' : 'span';
+const nameWords = business.name.split(' ');
+const main = nameWords.slice(0, 2).join(' ');
+const rest = nameWords.slice(2).join(' ');
+---
+<Tag href={href ?? undefined} class:list={['logo', cls]} aria-label={href ? `${business.name} home` : undefined}>
+  {business.logo ? (
+    <img src={business.logo} alt={`${business.name} logo`} width="210" height="54" />
+  ) : (
+    <>
+      <svg class="logo-mark" viewBox="0 0 64 64" aria-hidden="true">
+        <rect width="64" height="64" rx="14" fill="#0a2a66" />
+        <path d="M32 11c-7 9.5-14 18.4-14 27a14 14 0 0 0 28 0c0-8.6-7-17.5-14-27z" fill="#e1262e" />
+        <path d="M26 39a6 6 0 0 0 6 6" stroke="#fff" stroke-width="3.5" stroke-linecap="round" fill="none" />
+      </svg>
+      <span class="logo-text">{main}{rest && <small>{rest}</small>}</span>
+    </>
+  )}
+</Tag>

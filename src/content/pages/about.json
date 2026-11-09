@@ -1,0 +1,38 @@
+{
+  "seoTitle": "About {name} | {city}, {stateAbbr} Plumbers",
+  "metaDescription": "Meet {shortName}: an owner operated plumbing company in {city}, {stateAbbr}. Licensed, insured and answering the phone 24/7. Call {phone}.",
+  "hero": {
+    "eyebrow": "About us",
+    "h1": "About {name}",
+    "sub": "An owner operated plumbing company in {city} that grew by doing a few simple things every time: answering the phone, showing up, and charging what we said we would."
+  },
+  "story": {
+    "eyebrow": "Our story",
+    "heading": "Built One Answered Call at a Time",
+    "paragraphs": [
+      "{owner} opened {shortName} with one truck and a phone that never went to voicemail. Too many neighbors had stories about waiting days for a plumber who never called back. The fix seemed obvious: pick up, give a straight answer and get someone there.",
+      "The company has grown since then, with more trucks, more technicians and customers across the state, but the rules have not changed. Every technician explains the problem before quoting it. Every quote is approved before work starts. Every job ends with a test and a clean floor.",
+      "We still think of ourselves as a neighborhood shop. Most of our crew lives within a short drive of {city}, and plenty of our customers have called us for a second, third and tenth time."
+    ]
+  },
+  "values": {
+    "heading": "What You Can Count On",
+    "items": [
+      { "icon": "headset", "title": "We Answer", "text": "Calls are answered {hours}. You talk to a person who can schedule a plumber." },
+      { "icon": "message", "title": "We Explain", "text": "You hear what failed, why it failed and what your options are before any work starts." },
+      { "icon": "wrench", "title": "We Fix It Right", "text": "Repairs are done to code, tested before we leave and backed by a team that answers if anything seems off." },
+      { "icon": "broom", "title": "We Clean Up", "text": "Shoe covers, drop cloths and a wiped down work area. We leave your home how we found it." }
+    ]
+  },
+  "reviewsHeading": "In Our Customers' Words",
+  "servicesHeading": "Our Plumbing Services",
+  "featured": ["emergency-plumbing", "drain-cleaning", "sewer-line-repair", "water-heater-repair", "frozen-pipe-repair", "commercial-plumbing"],
+  "faqHeading": "About {shortName}",
+  "faqs": [
+    { "q": "Who owns {shortName}?", "a": "{name} is owned and run by {owner}, {ownerTitle}. {ownerFirst} is involved in daily operations and trains every new technician." },
+    { "q": "Are your plumbers employees or subcontractors?", "a": "Our technicians are our own trained crew. We do not hand your job to a stranger from a referral network, so the person who shows up follows our standards." },
+    { "q": "Are you licensed and insured?", "a": "Yes. We are licensed and carry full liability insurance. License details and proof of coverage are available on request." },
+    { "q": "Where is your shop?", "a": "Our shop is at {address}. Most of our crew is based nearby, which is why Capital Region calls get the fastest response." }
+  ],
+  "ctaHeading": "Need a plumber right now?"
+}

@@ -1,0 +1,10 @@
+---
+/* One page per file in src/content/commercial/. */
+import { getCollection } from 'astro:content';
+import ServiceLayout from '../../layouts/ServiceLayout.astro';
+export async function getStaticPaths() {
+  return (await getCollection('commercial')).map((e) => ({ params: { slug: e.id } }));
+}
+const { slug } = Astro.params;
+---
+<ServiceLayout kind="commercial" slug={slug!} />

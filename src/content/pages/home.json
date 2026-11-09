@@ -1,0 +1,77 @@
+{
+  "seoTitle": "24/7 Plumber in {city}, {stateAbbr} | Drains, Sewers | {shortName}",
+  "metaDescription": "{shortName} is a 24/7 plumber in {city}, {stateAbbr} serving homes and businesses statewide. Drains, sewers, water heaters, burst pipes. Call {phone}.",
+  "hero": {
+    "eyebrow": "{city} plumber and drain cleaning. Serving all of {state}.",
+    "h1": "24/7 Plumber in {city}, {stateAbbr} and Across {state}",
+    "sub": "Water where it should not be, a drain that will not move, a cold shower at 6am? Call {shortName}. A real person answers every hour of the day, you get the price first, and we leave the place clean."
+  },
+  "intro": {
+    "eyebrow": "A plumber who picks up",
+    "heading": "Plumbing and Drain Cleaning for {state} Homes and Businesses",
+    "quickAnswer": "{name} is a 24/7 plumbing company based in {city}, {stateAbbr}. We clear drains and sewer lines, repair and replace water heaters, fix frozen and burst pipes, find leaks and repair fixtures for homes and businesses across {state}, with upfront pricing and insured technicians.",
+    "paragraphs": [
+      "Pipes break on their own schedule, so we keep ours open. {shortName} was built on taking the calls that other shops let go to voicemail: the toilet that overflows during a dinner party, the water heater that quits on the coldest morning of the year, the sewer line that backs up into a finished basement on a holiday weekend.",
+      "Every visit follows the same pattern. Your technician finds the cause, explains it in plain language, lays out the options and gives you a price before touching a wrench. When a pipe is out of sight, our camera puts it on a screen so you can see the problem yourself. Then we fix it, test it and clean up.",
+      "Plumbing in this part of the country takes a beating. Century old cast iron, clay sewer laterals, hard water and long freezing winters each cause their own failures. Our technicians work on all of it every week and stock their trucks to match."
+    ]
+  },
+  "services": {
+    "eyebrow": "Plumbing services",
+    "heading": "What We Fix, Day and Night",
+    "lead": "From a dripping faucet to a collapsed sewer lateral, one phone call covers it. Every service below is available around the clock.",
+    "featured": ["emergency-plumbing", "drain-cleaning", "sewer-line-repair", "water-heater-repair", "water-heater-replacement", "tankless-water-heaters", "frozen-pipe-repair", "sewer-camera-inspection", "hydro-jetting"],
+    "moreHeading": "More plumbing services"
+  },
+  "commercial": {
+    "eyebrow": "Commercial plumbing",
+    "heading": "Commercial Plumbing That Keeps Your Doors Open",
+    "paragraphs": [
+      "When a restaurant floor drain backs up or a grease trap overflows, the business can close until it is fixed. Apartment buildings, offices and retail stores face the same pressure: tenants and customers notice fast. We schedule around your hours, work after close when it helps, and send invoices your bookkeeper can actually use.",
+      "Property managers and owners can set up recurring drain maintenance, grease trap service and priority dispatch, so small problems get caught on a schedule instead of during the Friday dinner rush."
+    ]
+  },
+  "work": {
+    "heading": "Sample Work"
+  },
+  "reviews": {
+    "eyebrow": "Customer reviews",
+    "heading": "Rated {rating} Stars by Our Customers"
+  },
+  "why": {
+    "eyebrow": "Why {shortName}",
+    "heading": "Why Neighbors Call {shortName} First",
+    "items": [
+      { "icon": "headset", "title": "A Real Person, Any Hour", "text": "Nights, weekends and holidays, your call reaches someone who can dispatch a plumber, not a machine that takes a message." },
+      { "icon": "tag", "title": "The Price Comes First", "text": "You approve a clear quote before work begins. The number on the invoice matches the number we gave you." },
+      { "icon": "shield", "title": "Licensed and Insured", "text": "Licensed plumbers, fully insured on every job we take. Proof of coverage is available any time you ask." },
+      { "icon": "camera", "title": "See It for Yourself", "text": "Our sewer cameras show you the inside of your pipe live, so you know exactly what we found and why we recommend a fix." },
+      { "icon": "star", "title": "{rating} Stars on Google", "text": "{reviews} reviews from homeowners, landlords and business owners who would call us again." },
+      { "icon": "broom", "title": "We Leave It Clean", "text": "Shoe covers on the way in, drop cloths under the work and a wiped floor on the way out." }
+    ]
+  },
+  "owner": {
+    "eyebrow": "Owner operated",
+    "heading": "Meet {owner}",
+    "paragraphs": [
+      "{owner} started {shortName} after years of watching homeowners wait days for a callback. The idea was simple: answer the phone, show up when we say we will, and charge what we quoted. That is still how the company runs.",
+      "{ownerFirst} still takes calls, reviews jobs and trains every new technician on the same rules. If something about your visit is not right, you can ask for the owner and you will get one."
+    ]
+  },
+  "areas": {
+    "eyebrow": "Service areas",
+    "heading": "Plumbing Service Across {state}",
+    "lead": "Our shop is in {city}, and our technicians cover every region of the state. Capital Region towns get the quickest arrival times.",
+    "townsHeading": "Capital Region towns we serve every day"
+  },
+  "faqHeading": "Questions Our Customers Ask",
+  "faqs": [
+    { "q": "Are you really open 24 hours?", "a": "Yes. Our phones are answered {hours}, including holidays. Emergency calls go to the nearest available technician, and we give you an honest arrival window before we hang up." },
+    { "q": "What areas do you serve?", "a": "We are based in {city} and serve all of {state}. Capital Region homes and businesses usually see the fastest response. Farther regions are scheduled, and emergency calls are routed to the nearest available technician." },
+    { "q": "How much will my repair cost?", "a": "It depends on the problem, access and parts, so we diagnose first and then give you a firm price. You approve the price before any work starts, and there are no add-on surprises on the invoice." },
+    { "q": "Do you work on older homes?", "a": "All the time. Cast iron stacks, galvanized supply lines, clay sewers and patched-together basements are a big part of our work. We know how to tie old materials into new ones safely." },
+    { "q": "Do you handle commercial properties?", "a": "Yes. We work with restaurants, apartment buildings, offices, retail stores and property managers, including after-hours service and recurring maintenance plans." },
+    { "q": "Are your plumbers licensed and insured?", "a": "Yes. {name} is licensed and carries full insurance on every job. Ask for license details or proof of coverage any time, and we will send them." }
+  ],
+  "ctaHeading": "Need a plumber right now?"
+}

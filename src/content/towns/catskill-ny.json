@@ -1,0 +1,48 @@
+{
+  "name": "Catskill",
+  "order": 11,
+  "county": "Greene",
+  "region": "capital-region",
+  "zips": ["12414", "12463", "12451"],
+  "neighborhoods": ["Village of Catskill", "Main Street", "Catskill Point", "Jefferson Heights", "Leeds", "Palenville", "Kiskatom", "Cementon"],
+  "nearby": ["hudson-ny", "delmar-ny", "albany-ny", "rensselaer-ny"],
+  "geo": { "lat": 42.2176, "lng": -73.8646 },
+  "seoTitle": "Plumber in Catskill, NY | Wells, Floods, Repairs | {shortName}",
+  "metaDescription": "Catskill, NY plumber for village homes, riverfront buildings and houses on wells in Leeds and Palenville. Sump pumps, water heaters and more. Call {phone}.",
+  "imageAlt": "Hudson River between wooded mountains, framed by tree branches",
+  "hero": {
+    "eyebrow": "Greene County plumber",
+    "h1": "Plumber in Catskill, NY",
+    "sub": "Village homes by the creek, Main Street buildings and mountain houses on private wells each bring their own plumbing needs. We answer at any hour and quote the work first."
+  },
+  "intro": "{name} handles plumbing for Catskill homeowners, rental owners and Main Street businesses, from the village out to Leeds and Palenville. Catskill is a longer drive from our {city} shop, so routine visits are booked in advance. Emergencies are answered 24/7 and sent to the nearest available technician with a straight arrival estimate.",
+  "popular": ["sump-pumps", "water-heater-repair", "frozen-pipe-repair", "water-softener-installation", "emergency-plumbing", "drain-cleaning"],
+  "problems": [
+    { "title": "Flooding along the creek and river", "text": "Low parts of the village near Catskill Creek and the Hudson can flood in big storms. A dependable sump pump, a backup power source and raised equipment help protect the basement.", "service": "sump-pumps" },
+    { "title": "Sediment from private wells", "text": "Homes outside the village often draw from wells that carry sand, iron or minerals. That sediment settles in the water heater, causing popping noises, rusty water and early failure.", "service": "water-heater-repair" },
+    { "title": "Cabins and rentals in Palenville", "text": "Mountain houses and short term rentals near the Catskill Mountains see long, cold winters and stretches with no one home. Exposed lines in crawlspaces and bump-outs freeze quickly.", "service": "frozen-pipe-repair" },
+    { "title": "Shared drains on Main Street", "text": "Older Main Street buildings often tie several shops and apartments into one aging drain line. A clog from one tenant can back up into another business below.", "service": "commercial-drain-cleaning" }
+  ],
+  "housing": {
+    "heading": "Village, Riverfront and Mountain Homes",
+    "paragraphs": [
+      "The Village of Catskill grew as a river port, and its Main Street and side streets hold 19th century brick commercial buildings and wood frame homes. Many sit close to Catskill Creek or the Hudson, with low basements that see high water. Their plumbing has been updated in stages, so we always trace the system before making changes.",
+      "Outside the village, Leeds, Kiskatom and Palenville have farmhouses, newer homes and cabins on larger lots, most with private wells and septic systems. Jefferson Heights and Cementon add postwar houses. These homes depend on good well water treatment and lines that are protected from deep winter cold."
+    ]
+  },
+  "howWeWork": {
+    "heading": "Dependable Service for Catskill",
+    "paragraphs": [
+      "We answer {hours}, and during storms or deep freezes we prioritize active flooding and burst lines. For second homes and rentals, we can work with your property manager and send photos of what we find.",
+      "You get an upfront price before work starts. When the repair is done, we test it, clean up and give you practical tips to prevent the same issue next season."
+    ]
+  },
+  "faqs": [
+    { "q": "How long does it take you to reach Catskill?", "a": "Catskill is farther from {city} than our closer service towns, so routine work is scheduled ahead. Emergency calls are answered around the clock, routed to the nearest available technician, and we tell you honestly when to expect us." },
+    { "q": "What should I do after my basement floods?", "a": "Stay out of standing water until power to the area is off. Once it is safe, we can check the sump pump, water heater and any equipment that got wet, and help plan protection for next time." },
+    { "q": "Why does my water heater make popping noises?", "a": "That sound usually comes from sediment at the bottom of the tank. Well water with sand or minerals makes it build faster. Flushing the tank helps, and a filter on the well line can slow it down." },
+    { "q": "Can you treat hard or iron-rich well water?", "a": "Yes. We test your water first, then recommend a softener, iron filter or sediment filter based on the results. The right setup protects your fixtures, laundry and appliances for years of use." },
+    { "q": "How can I protect a mountain rental from frozen pipes?", "a": "Keep the heat at a safe level, insulate exposed lines and add a remote temperature alert. For long vacancies, we can drain the system so there is nothing left to freeze." }
+  ],
+  "ctaHeading": "Catskill Plumber, 24/7"
+}

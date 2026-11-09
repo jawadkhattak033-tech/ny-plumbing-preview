@@ -1,0 +1,74 @@
+{
+  "title": "Emergency Plumbing",
+  "order": 1,
+  "seoTitle": "24/7 Emergency Plumber in {state} | {shortName} Plumbing",
+  "metaDescription": "Burst pipe, sewage backup or no water at 2 a.m.? {shortName} answers {hours} and sends the nearest technician. Upfront price before work. Call {phone}.",
+  "imageAlt": "Plumber in a red t-shirt reaching under a sink to work on the white drain trap",
+  "cardText": "Burst pipes, backups, gas water heater trouble and no water calls handled any hour, with the price agreed before we start.",
+  "hero": {
+    "eyebrow": "Emergency plumbing, any hour",
+    "h1": "Emergency Plumber in {state}, Answering 24/7",
+    "sub": "Water pouring through a ceiling, sewage coming up a floor drain, no water on a freezing night? A real person picks up, helps you stop the damage over the phone and sends a technician."
+  },
+  "quickAnswer": "Call {name} at {phone}. Someone answers {hours}, walks you through shutting off water if needed, and dispatches the closest available technician with a stocked truck. You get a clear price before any repair begins, even in the middle of the night.",
+  "intro": [
+    "A plumbing emergency is any problem where waiting makes it worse. Water spreading across a floor, a sewer line pushing waste back into the house, a water heater leaking from the tank, or a home with no running water at all. In those moments the first few minutes matter more than anything a plumber does later.",
+    "That is why our first job happens on the phone. We help you find the main shutoff, kill power to an electric water heater, or keep people away from a sewage backup while the truck is on the way. Many callers have the leak stopped before we arrive, which limits the cleanup and the repair.",
+    "Once on site, the goal is to make the home safe and working again. Sometimes that is a full repair on the spot. Other times it is a solid temporary fix that holds until parts arrive. Either way, we explain the options and the price before we touch anything. When we leave, you know what failed and what to watch."
+  ],
+  "signs": {
+    "heading": "When to Call an Emergency Plumber",
+    "items": [
+      "Water is spraying, pouring or dripping through a ceiling or wall.",
+      "Sewage or dirty water is coming up through a floor drain, tub or toilet.",
+      "You have no water anywhere in the house during cold weather.",
+      "Your water heater is leaking from the tank or the relief valve will not stop.",
+      "You smell gas near a gas water heater or other gas appliance.",
+      "The main shutoff will not close or is broken."
+    ]
+  },
+  "covers": {
+    "heading": "What Our Emergency Service Covers",
+    "items": [
+      "Burst and split pipe repairs, including frozen lines",
+      "Main sewer line backups and overflowing toilets",
+      "Leaking or failed water heaters",
+      "Broken or stuck main water shutoff valves",
+      "Sump pump failures during heavy rain or snowmelt",
+      "Temporary repairs to stop damage until parts arrive"
+    ]
+  },
+  "bookLabel": "Get Emergency Help",
+  "process": {
+    "heading": "How We Handle an Emergency Call",
+    "steps": [
+      { "title": "Talk You Through It", "text": "The person who answers helps you stop the water or isolate the problem right away, then gets your address and a quick picture of what is happening." },
+      { "title": "Send the Nearest Tech", "text": "We route the call to the closest available technician and give you a realistic arrival window instead of a vague promise." },
+      { "title": "Stabilize and Quote", "text": "On arrival we make the area safe, find the source and give you a firm price for the repair before any work starts." },
+      { "title": "Repair and Clean Up", "text": "We complete the fix or a reliable temporary one, test it, clean our work area and tell you what to watch for next." }
+    ]
+  },
+  "local": {
+    "heading": "Why {state} Emergencies Spike in Winter",
+    "paragraphs": [
+      "Deep cold snaps are the busiest nights of the year for emergency plumbing across the state. Pipes running through outside walls, crawl spaces and unheated porches freeze first, and they often do not leak until the ice thaws the next morning. Seasonal homes and camps left without heat are especially at risk.",
+      "Spring brings a second wave. Snowmelt and heavy rain push groundwater up against basement walls, and a sump pump that sat idle all winter can fail just when it is needed most. Older city neighborhoods with combined sewers also see more backups when storms overload the system."
+    ]
+  },
+  "cost": {
+    "heading": "What Drives the Cost of Emergency Plumbing",
+    "paragraphs": [
+      "The biggest factors are what failed, where it is and what it takes to reach it. A split pipe in an open basement ceiling is a quicker job than one inside a finished wall. Parts matter too, as does whether the repair can be finished on the first visit or needs a temporary fix first.",
+      "Time of day can affect the rate, and we tell you that on the phone. Whatever the hour, you agree to the price before we begin."
+    ]
+  },
+  "faqs": [
+    { "q": "What should I do while I wait for the plumber?", "a": "Shut off the main water valve if water is leaking. It is usually where the water line enters the basement or utility room. Turn off power to an electric water heater if it is involved, move valuables away from the water, and keep children and pets clear of any sewage." },
+    { "q": "Do you really answer at night and on holidays?", "a": "Yes. We answer {hours}, including holidays and weekends. You will talk to a person, not a voicemail box, and we will give you an honest arrival estimate based on where our technicians are at that moment." },
+    { "q": "Is a slow drip an emergency?", "a": "Usually not, unless it is coming through a ceiling, near electrical wiring or getting worse quickly. A slow drip under a sink can often wait for a regular appointment. If you are unsure, call and describe it. We will tell you honestly whether it can wait." },
+    { "q": "What if I smell gas?", "a": "Leave the house first, then call your gas utility or 911 from outside. Do not flip switches or light anything. Once the utility has made the area safe, we can repair or replace the gas water heater or connection that caused the problem." },
+    { "q": "Can you fix everything on the first visit?", "a": "Most emergency calls are fully repaired the same visit because our trucks carry common pipe, fittings and valves. If a special part or a larger repair is needed, we put in a safe temporary fix so you have water and no active leak until we return." }
+  ],
+  "related": ["burst-pipe-repair", "frozen-pipe-repair", "sewer-line-repair"],
+  "ctaHeading": "Plumbing emergency right now?"
+}

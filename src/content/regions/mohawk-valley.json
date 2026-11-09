@@ -1,0 +1,41 @@
+{
+  "name": "Mohawk Valley",
+  "order": 5,
+  "counties": ["Fulton", "Herkimer", "Montgomery", "Oneida", "Otsego", "Schoharie"],
+  "communities": ["Utica", "Rome", "New Hartford", "Whitesboro", "Yorkville", "Sherrill", "Boonville", "Herkimer", "Ilion", "Mohawk", "Little Falls", "Dolgeville", "Amsterdam", "Canajoharie", "Fonda", "St. Johnsville", "Gloversville", "Johnstown", "Oneonta", "Cooperstown", "Richfield Springs", "Cobleskill", "Schoharie", "Middleburgh"],
+  "seoTitle": "Mohawk Valley Plumber | Utica to Oneonta | {shortName}",
+  "metaDescription": "{shortName} serves the Mohawk Valley from Amsterdam to Utica and Oneonta. Mill town homes, frozen pipes, wells and flood prone basements. Call {phone}.",
+  "imageAlt": "Highway winding through a valley between mountains in fall color",
+  "cardText": "Plumbing for mill town homes, farms and villages across six counties west of {city}, with calls answered 24/7.",
+  "hero": {
+    "eyebrow": "Mohawk Valley plumbing",
+    "h1": "Plumber in the Mohawk Valley, NY",
+    "sub": "Amsterdam and Schoharie are an easy drive from {city}. Utica, Rome and Oneonta take longer, so we plan those visits ahead and give you a clear arrival window and price."
+  },
+  "quickAnswer": "{name} serves all six Mohawk Valley counties. The eastern end near Amsterdam and Schoharie is close to our {city} shop and often reached the same day. Utica, Rome and Otsego County are usually scheduled, and emergency calls are answered 24/7.",
+  "intro": [
+    "The Mohawk Valley starts just west of our shop in {city} and stretches along the Thruway past Utica and Rome. The eastern towns are close enough for same day service on most days. The western and southern parts of the region, including Oneida and Otsego counties, are a longer trip, and we schedule that work so the technician arrives prepared.",
+    "This is mill country. Amsterdam, Gloversville, Little Falls and Ilion are lined with houses built for factory workers a century ago, many still on cast iron drains and original sewer laterals. Outside the villages, farms and rural homes run on wells and septic. Winters are long and cold, and the valley floor has a history of flooding along the river and its creeks."
+  ],
+  "coverage": {
+    "heading": "How We Cover the Mohawk Valley",
+    "paragraphs": [
+      "Montgomery, Schoharie and Fulton counties are within a reasonable drive of {city}, so we can often get there the same day. Herkimer, Oneida and Otsego are farther west and south, and we usually book those calls a day or more out and group them by area.",
+      "If you have an emergency, call. We answer {hours}, help you shut off water and route the call to the nearest available technician, with an honest estimate of how long it will take."
+    ]
+  },
+  "problems": [
+    { "title": "Original drains in mill town homes", "text": "Hundred year old cast iron stacks and clay laterals crack, scale over and collect roots. Repeated backups in the basement floor drain usually point to the main line, and a camera confirms it." },
+    { "title": "Frozen and split supply lines", "text": "Cold snaps here are long and deep. Pipes in fieldstone foundations, unheated porches and old additions freeze often, and the damage shows up as soon as they thaw." },
+    { "title": "Flooded basements near the river", "text": "Low lying neighborhoods along the Mohawk and Schoharie Creek take on water during spring melt and heavy storms. A working sump pump and a backwater valve can limit the damage." },
+    { "title": "Well water and hard water", "text": "Rural homes in Otsego, Herkimer and Schoharie counties often have hard or iron heavy well water. It scales water heaters and fixtures, and a simple water test points to the right fix." }
+  ],
+  "faqs": [
+    { "q": "Do you come out as far as Utica and Rome?", "a": "Yes. Utica and Rome are a longer drive from {city}, so most work there is scheduled a day or more ahead. For emergencies we answer right away and give you an honest arrival estimate." },
+    { "q": "How fast can you reach Amsterdam or Cobleskill?", "a": "Those towns are among the closest in the region to our shop. On most days we can reach them the same day, though timing depends on what calls are already on the board." },
+    { "q": "Can you install a backwater valve to stop sewer backups?", "a": "We can. For homes in low areas where the municipal sewer surcharges during storms, a backwater valve on the main line keeps sewage from coming up through the basement drain. We check the line with a camera first." },
+    { "q": "Do you service farms and rural properties?", "a": "We work on well tanks, frost free hydrants, barn water lines and farmhouse plumbing. Rural calls in the western counties are scheduled, and we bring parts for older systems so one trip is usually enough." },
+    { "q": "How do you price jobs this far from {city}?", "a": "Every job is quoted before work starts. Travel distance, the age of the plumbing, access and the materials needed all affect the price. We walk you through it so nothing on the bill is a surprise." }
+  ],
+  "ctaHeading": "Book a Plumber in the Mohawk Valley"
+}

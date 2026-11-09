@@ -1,0 +1,44 @@
+---
+/**
+ * /guides/. Copy: src/content/pages/guides.json. Guides are grouped; each card
+ * holds a short guide and links to the matching service page.
+ */
+import BaseLayout from './BaseLayout.astro';
+import { PageHero, ServiceCard, Faq, CtaBand, Icon } from '../components/sections';
+import { getPage, getServices, url, img, serviceLink, imgAlt } from '../lib/site';
+
+const [p, services] = await Promise.all([getPage('guides'), getServices()]);
+const groups = await Promise.all(
+  p.groups.map(async (g: any) => ({ ...g, guides: await Promise.all(g.guides.map(async (x: any) => ({ ...x, link: await serviceLink(x.service) }))) })),
+);
+const cta = p.ctaServices.map((s: string) => services.find((x) => x.slug === s)).filter(Boolean) as typeof services;
+const crumbs = [{ name: 'Home', path: '/' }, { name: 'Guides', path: '/guides/' }];
+---
+<BaseLayout title={p.seoTitle} description={p.metaDescription} crumbs={crumbs} faqs={p.faqs}>
+  <PageHero eyebrow={p.hero.eyebrow} h1={p.hero.h1} sub={p.hero.sub} image="page-hero" imageAlt={imgAlt('page-hero')} crumbs={crumbs} />
+
+  {groups.map((g: any, i: number) => (
+    <section class:list={['section', { 'section-soft': i % 2 === 1 }]}><div class="container">
+      <div class="section-head left"><span class="eyebrow">{g.eyebrow}</span><h2>{g.heading}</h2><p class="lead">{g.lead}</p></div>
+      <div class="grid-3">
+        {g.guides.map((x: any) => (
+          <article class="guide-card" id={x.id}>
+            <span class="tag">{x.tag}</span>
+            <h3>{x.title}</h3>
+            <p>{x.summary}</p>
+            <ul>{x.points.map((pt: string) => <li>{pt}</li>)}</ul>
+            <a href={x.link.href} class="card-link">{x.link.title} service <Icon name="arrow" size={16} /></a>
+          </article>
+        ))}
+      </div>
+    </div></section>
+  ))}
+
+  <section class="section"><div class="container">
+    <div class="section-head"><span class="eyebrow">Skip the reading</span><h2>{p.ctaServicesHeading}</h2></div>
+    <div class="grid-3">{cta.map((s) => <ServiceCard href={url.service(s.slug)} title={s.title} text={s.cardText} image={img.service(s.slug)} alt={s.imageAlt} />)}</div>
+  </div></section>
+
+  <Faq heading={p.faqHeading} items={p.faqs} />
+  <CtaBand heading={p.ctaHeading} />
+</BaseLayout>

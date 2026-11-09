@@ -1,0 +1,32 @@
+{
+  "seoTitle": "Sample Work: Plumbing Jobs We Handle | {shortName}",
+  "metaDescription": "Sample photos of the plumbing work {shortName} handles: water heaters, drain and sewer work, repipes, fixtures and commercial kitchens across {state}. Call {phone}.",
+  "hero": {
+    "eyebrow": "Sample work",
+    "h1": "Sample Work: What {shortName} Handles",
+    "sub": "Water heaters, sewer lines, repipes and restaurant drains. Click any photo for a closer look at the kinds of jobs we take on."
+  },
+  "galleryHeading": "Sample Work",
+  "galleryLead": "These are stock photos that show the kinds of work we do. They are samples, not photos from our own jobs.",
+  "servicesHeading": "The Services Behind This Work",
+  "faqHeading": "About Our Work",
+  "faqs": [
+    {
+      "q": "Are these photos from your own jobs?",
+      "a": "No. The photos on this page are stock samples that show the kinds of plumbing work we handle. They are not from our own jobs."
+    },
+    {
+      "q": "Can I see photos of my own job?",
+      "a": "Yes. Technicians photograph the before and after on most jobs, and camera inspections can be recorded. Ask and we will send them to you."
+    },
+    {
+      "q": "Do you clean up after a job?",
+      "a": "Always. We use shoe covers and drop cloths, haul away old fixtures and water heaters, and wipe down the work area before we leave."
+    },
+    {
+      "q": "Do you guarantee your work?",
+      "a": "If something we installed or repaired is not working right, call us and we will come back to make it right. Ask your technician about specific coverage for parts and labor on your job."
+    }
+  ],
+  "ctaHeading": "Want this kind of work on your property?"
+}

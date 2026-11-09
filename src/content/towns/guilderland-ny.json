@@ -1,0 +1,48 @@
+{
+  "name": "Guilderland",
+  "order": 17,
+  "county": "Albany",
+  "region": "capital-region",
+  "zips": ["12084", "12085", "12009", "12203"],
+  "neighborhoods": ["McKownville", "Westmere", "Fort Hunter", "Guilderland Center", "Altamont", "Dunnsville", "Guilderland hamlet"],
+  "nearby": ["albany-ny", "delmar-ny", "rotterdam-ny", "schenectady-ny", "colonie-ny"],
+  "geo": { "lat": 42.7042, "lng": -73.9118 },
+  "seoTitle": "Plumber in Guilderland, NY | 24/7 Plumbing | {shortName}",
+  "metaDescription": "Guilderland, NY plumber for McKownville, Westmere, Guilderland Center and Altamont. Drains, water heaters, well water and sewer service 24/7. Call {phone}.",
+  "imageAlt": "Blue two-story house with a white front porch and a leafy street tree",
+  "hero": {
+    "eyebrow": "Albany County plumber",
+    "h1": "Plumber in Guilderland, NY",
+    "sub": "Guilderland runs from busy Western Avenue suburbs to farm country below the Helderbergs. Wherever your home sits, we fix drains, water heaters and leaks, answer around the clock and quote first."
+  },
+  "intro": "{name} serves all of Guilderland, from McKownville at the Albany line out to the village of Altamont. The eastern half of town is classic suburb, with houses on public water and sewer. The western half is quieter and more rural, where wells, septic systems and long driveways are the norm. Our technicians work in both settings every week.",
+  "popular": ["drain-cleaning", "water-heater-repair", "tankless-water-heaters", "water-softener-installation", "sewer-camera-inspection", "toilet-repair"],
+  "problems": [
+    { "title": "Aging builder grade water heaters", "text": "Many Westmere and Fort Hunter homes from the 1970s through 1990s still have their second or third tank in the same spot. When it starts leaking at the base, replacement is the only fix.", "service": "water-heater-repair" },
+    { "title": "Mineral heavy wells near Altamont", "text": "Wells drilled into the rock below the Helderberg escarpment often produce hard water. Scale builds in fixtures, dishwashers and water heaters faster than most owners expect.", "service": "water-softener-installation" },
+    { "title": "Kitchen line clogs in split levels", "text": "Long horizontal kitchen drains in split level and raised ranch homes collect grease over the years. The result is a sink that backs up into the other side every few months.", "service": "drain-cleaning" },
+    { "title": "Toilets that run all night", "text": "Worn flappers and fill valves in original bathrooms waste a surprising amount of water. In homes on wells, they also keep the pump cycling at all hours.", "service": "toilet-repair" }
+  ],
+  "housing": {
+    "heading": "Suburban and Rural Plumbing in Guilderland",
+    "paragraphs": [
+      "McKownville and Westmere grew up around Western Avenue and Route 20 from the 1940s on, with Capes and ranches near the city line and larger colonials and split levels farther west. The sandy Pine Bush soil drains well, but it lets tree roots travel a long way to reach a sewer joint. Camera inspections help here.",
+      "Past Guilderland Center, homes thin out toward Altamont and the escarpment. Older village houses, farmhouses and newer homes on acreage rely on private wells and septic in many spots. Those systems need plumbing choices that protect the well and keep solids out of the tank."
+    ]
+  },
+  "howWeWork": {
+    "heading": "How We Serve Guilderland Homeowners",
+    "paragraphs": [
+      "Western Avenue and the Thruway put most of Guilderland within easy reach of our {city} shop. We can usually reach eastern neighborhoods quickly, and Altamont calls are planned around the rest of the day's route.",
+      "Every job starts with a diagnosis and an upfront price. For water heater replacements we help you weigh tank versus tankless based on your household and space. We are reachable {hours}."
+    ]
+  },
+  "faqs": [
+    { "q": "Is a tankless water heater a good fit for a Guilderland home?", "a": "It can be, especially in larger colonials where several people shower in the morning. It depends on your gas line, venting options and water quality. On hard well water, we usually pair tankless units with treatment to protect the heat exchanger." },
+    { "q": "Do you serve homes in Altamont and Dunnsville?", "a": "Yes. We cover the village of Altamont, Dunnsville, Guilderland Center and the rural roads in between. Many of those calls involve well water treatment, frozen lines and water heaters, and emergency calls out there are answered at any hour." },
+    { "q": "Why does my kitchen sink keep clogging?", "a": "In split level homes the kitchen drain often runs a long way before reaching the main stack. Grease and food coat the pipe and slowly narrow it. A thorough cleaning clears it, and we can tell you how to slow the buildup." },
+    { "q": "How do I know if tree roots are in my sewer line?", "a": "Slow drains throughout the house, gurgling toilets and backups after heavy laundry days are common signs. A camera inspection confirms roots and shows where they entered so we can recommend cleaning or repair." },
+    { "q": "Can a running toilet affect my well?", "a": "Yes. A toilet that runs constantly makes the well pump turn on far more than it should, which wears the pump and pressure switch. A simple valve or flapper repair usually stops it." }
+  ],
+  "ctaHeading": "Plumber in Guilderland, 24/7"
+}

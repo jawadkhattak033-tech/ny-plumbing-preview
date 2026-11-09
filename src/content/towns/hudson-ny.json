@@ -1,0 +1,48 @@
+{
+  "name": "Hudson",
+  "order": 8,
+  "county": "Columbia",
+  "region": "capital-region",
+  "zips": ["12534"],
+  "neighborhoods": ["Warren Street", "Union Street", "Allen Street", "Columbia Street", "Front Street", "Parade Hill", "Greenport"],
+  "nearby": ["catskill-ny", "delmar-ny", "rensselaer-ny", "albany-ny"],
+  "geo": { "lat": 42.2529, "lng": -73.7909 },
+  "seoTitle": "Plumber in Hudson, NY | Historic Homes and Shops | {shortName}",
+  "metaDescription": "Hudson, NY plumber for Warren Street buildings, historic row homes and weekend houses. Repiping, sewer camera work, leaks and water heaters. Call {phone}.",
+  "imageAlt": "Hudson River between wooded mountains, framed by tree branches",
+  "hero": {
+    "eyebrow": "Columbia County plumber",
+    "h1": "Plumber in Hudson, NY",
+    "sub": "Hudson's historic brick buildings and weekend homes need plumbers who respect old construction. We answer around the clock, plan our trips down from {city} and quote before we start."
+  },
+  "intro": "{name} works with Hudson homeowners, renovators and Warren Street businesses. Hudson is a longer drive south from our {city} shop, so most work is scheduled ahead. Emergency calls are still answered 24/7 and sent to the nearest available technician, and we always give you an honest arrival time.",
+  "popular": ["repiping", "sewer-camera-inspection", "leak-detection", "water-heater-replacement", "drain-cleaning", "emergency-plumbing"],
+  "problems": [
+    { "title": "Plumbing for gut renovations", "text": "Many Hudson buildings are being restored down to the studs. That is the right time to replace old supply and drain lines, size them for modern baths and plan clean access for the future.", "service": "repiping" },
+    { "title": "Leaks in weekend homes", "text": "When a house sits empty from Monday to Friday, a small leak can run for days before anyone sees it. Water damage in old plaster and wide plank floors is costly to repair.", "service": "leak-detection" },
+    { "title": "Mystery sewer laterals", "text": "Old lines from these buildings to the street can be brick, clay or cast iron, and records are rare. A camera shows the route, material and condition before you renovate.", "service": "sewer-camera-inspection" },
+    { "title": "Restaurants in historic storefronts", "text": "Warren Street kitchens often operate in buildings never meant for commercial cooking. Dish sinks, floor drains and grease lines need careful layout to work within tight old basements.", "service": "restaurant-plumbing" }
+  ],
+  "housing": {
+    "heading": "Historic Buildings on Warren Street and Beyond",
+    "paragraphs": [
+      "Hudson has one of the richest collections of 18th and 19th century architecture in the state. Warren Street and the side streets around it are lined with Federal, Greek Revival and Italianate buildings, many with shops below and living space above. Plumbing was added over many decades, and some lines still run through spaces no one has opened in years.",
+      "Toward Front Street and the waterfront, homes sit closer to the river and the ground can stay wet. Up the hill on Allen and Union Streets, larger houses and restored row homes often have older laterals and mixed pipe. Next door in Greenport, homes are newer and more spread out."
+    ]
+  },
+  "howWeWork": {
+    "heading": "Careful Work in Old Hudson Buildings",
+    "paragraphs": [
+      "We answer {hours}. For planned projects, we can meet with you or your contractor early so plumbing is laid out before walls close. For weekend homeowners, we can work while you are away and send updates and photos.",
+      "Every job comes with an upfront price. We protect historic floors and trim while we work, clean up when we are done and explain what we found so you can plan the next phase."
+    ]
+  },
+  "faqs": [
+    { "q": "How long does it take you to get to Hudson?", "a": "Hudson is farther from {city} than most towns we serve, so routine visits are booked in advance. Emergencies are answered any time and routed to the nearest available technician, and we give you a straight estimate on arrival." },
+    { "q": "Can you work alongside my general contractor on a renovation?", "a": "Yes. We coordinate with contractors on rough-in, inspections and fixture setting. We can also walk the building early to flag problems with existing lines before demolition or framing reaches them." },
+    { "q": "How can I protect my weekend house from leaks while I am away?", "a": "Shut the main water valve when you leave if the heat does not depend on it, and consider an automatic shutoff valve with leak sensors. We can install one and show you how it works." },
+    { "q": "Should I scope the sewer line before buying a historic building?", "a": "We recommend it. Laterals in old Hudson buildings can be over a century old and made of materials that crack or collapse. A camera inspection gives you facts to use in planning and negotiations." },
+    { "q": "Can you add a bathroom to an old row house?", "a": "Often, yes. The key is finding a clear path for the drain and vent to reach the main stack. We look at the structure and existing lines first and explain the options and what drives cost." }
+  ],
+  "ctaHeading": "Hudson Plumber, 24/7"
+}

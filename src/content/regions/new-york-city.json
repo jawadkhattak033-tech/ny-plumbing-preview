@@ -1,0 +1,41 @@
+{
+  "name": "New York City",
+  "order": 2,
+  "counties": ["Bronx", "Kings", "New York", "Queens", "Richmond"],
+  "communities": ["Manhattan", "Brooklyn", "Queens", "The Bronx", "Staten Island", "Harlem", "Washington Heights", "Upper West Side", "Park Slope", "Williamsburg", "Bay Ridge", "Bensonhurst", "Astoria", "Long Island City", "Flushing", "Jackson Heights", "Forest Hills", "Jamaica", "Riverdale", "Pelham Bay", "St. George", "Tottenville"],
+  "seoTitle": "Plumber for New York City Properties | {shortName}",
+  "metaDescription": "{shortName} takes scheduled plumbing work in all five boroughs, from prewar risers to brownstone sewers. Calls answered 24/7. Call {phone}.",
+  "imageAlt": "Lower Manhattan skyline at dusk seen across the East River",
+  "cardText": "Scheduled plumbing work across the five boroughs for building owners and managers, with phones answered around the clock.",
+  "hero": {
+    "eyebrow": "New York City plumbing",
+    "h1": "Plumbing Service for New York City Buildings",
+    "sub": "Our shop is in {city}, a long drive from the boroughs. We plan New York City jobs ahead, show up with the right parts, and answer the phone at any hour."
+  },
+  "quickAnswer": "{name} takes planned plumbing work in New York City, mostly for building owners and property managers. Because we drive in from {city}, most visits are booked ahead. Calls are answered 24/7, and for urgent problems we tell you honestly how soon a technician can arrive.",
+  "intro": [
+    "We are not a neighborhood shop in Queens or Brooklyn, and we will not pretend to be. Our trucks start in {city}, roughly three hours north on a good day. What we offer New York City customers is planned work done carefully: riser repairs, drain line replacements, water heater swaps and camera inspections booked on a date that works for the building.",
+    "City plumbing is its own world. Prewar walkups still run on cast iron stacks and galvanized branch lines. Brownstones drain through old house traps under the cellar floor. High rises depend on booster pumps, pressure reducing valves and risers that serve dozens of units at once. A shutdown in one of those buildings affects a lot of people, so we plan every step before we open a wall."
+  ],
+  "coverage": {
+    "heading": "How We Handle New York City Work",
+    "paragraphs": [
+      "Most New York City jobs are scheduled several days out so we can coordinate water shutdowns with the super, give tenants notice and arrange parking and access. We group trips so a technician can spend full days in the city rather than rushing between calls.",
+      "For emergencies, call anyway. We answer {hours}, help you shut off water and limit damage, and give a straight answer about arrival. If we cannot get there fast enough to help, we will say so on the phone."
+    ]
+  },
+  "problems": [
+    { "title": "Corroded risers in prewar buildings", "text": "Galvanized and cast iron risers rust from the inside, choking pressure on upper floors and leaking through ceilings. Replacing a riser section takes careful planning so the rest of the line stays in service." },
+    { "title": "Stack backups in tall buildings", "text": "When a shared waste stack clogs, the lowest units on the line get the overflow. Grease, wipes and old pipe scale are the usual causes, and a camera shows where the blockage sits." },
+    { "title": "Old house traps and street sewers", "text": "Many brownstones and rowhouses still have a house trap near the front wall. When it clogs or the line to the street sags, the cellar floor drain is the first place to back up." },
+    { "title": "Low pressure on upper floors", "text": "Worn booster pumps, failing pressure reducing valves and scale in branch lines leave top floor tenants with weak showers. We trace the cause before recommending any equipment." }
+  ],
+  "faqs": [
+    { "q": "Do you really come down to New York City from {city}?", "a": "Yes, for scheduled work. Most of our city jobs are planned a few days ahead so we can bring the right parts and coordinate with the building. It is a long drive, so we are upfront about timing before you book." },
+    { "q": "Can you respond to a burst pipe in Manhattan right away?", "a": "We answer the phone at any hour and will walk you through shutting the water off. Because of the distance, we may not be the fastest option for an active flood. We will give you an honest arrival time so you can decide." },
+    { "q": "Do you work with supers and property managers?", "a": "Most of our New York City work comes from them. We coordinate shutdowns, tenant notices and access, send photos and camera footage, and give a written price before work begins so the owner can approve it." },
+    { "q": "Can you work on high rise risers and booster pumps?", "a": "We repair and replace riser sections, shutoff valves, pressure reducing valves and water heaters in multifamily buildings. For larger booster systems we start with a site visit so we can see the equipment and plan the job properly." },
+    { "q": "How do you price jobs in the city?", "a": "Every job gets an upfront price before work starts. In New York City, travel, parking, building access rules and how many units are affected by a shutdown all shape that price, and we explain each part of it." }
+  ],
+  "ctaHeading": "Plan Your New York City Plumbing Work"
+}

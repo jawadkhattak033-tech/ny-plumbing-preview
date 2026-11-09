@@ -1,0 +1,14 @@
+---
+import Icon from './Icon.astro';
+import Img from './Img.astro';
+interface Props { href: string; title: string; text: string; image: string; alt: string; }
+const { href, title, text, image, alt } = Astro.props;
+---
+<article class="card">
+  <a href={href} class="card-img" tabindex="-1" aria-hidden="true"><Img name={image} alt={alt} sizes="(max-width: 767px) 100vw, (max-width: 1023px) 50vw, 380px" maxWidth={1200} /></a>
+  <div class="card-body">
+    <h3><a href={href}>{title}</a></h3>
+    <p>{text}</p>
+    <a href={href} class="card-link" aria-label={`Learn more about ${title}`}>Learn more <Icon name="arrow" size={16} /></a>
+  </div>
+</article>

@@ -1,0 +1,16 @@
+---
+/** FAQ accordion. FAQPage schema for the same items is emitted by BaseLayout. */
+interface Props { items: { q: string; a: string }[]; heading: string; soft?: boolean; }
+const { items, heading, soft = true } = Astro.props;
+---
+<section class:list={['section', { 'section-soft': soft }]}><div class="container">
+  <div class="section-head"><span class="eyebrow">FAQ</span><h2>{heading}</h2></div>
+  <div class="faq-list">
+    {items.map((f) => (
+      <div class="faq-item">
+        <button class="faq-q" type="button" aria-expanded="false">{f.q}<span class="plus" aria-hidden="true">+</span></button>
+        <div class="faq-a"><p>{f.a}</p></div>
+      </div>
+    ))}
+  </div>
+</div></section>

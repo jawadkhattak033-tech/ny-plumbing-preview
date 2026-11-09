@@ -1,0 +1,10 @@
+---
+/* Town pages at /<town>-ny/, one per file in src/content/towns/. */
+import { getCollection } from 'astro:content';
+import TownLayout from '../layouts/TownLayout.astro';
+export async function getStaticPaths() {
+  return (await getCollection('towns')).map((e) => ({ params: { town: e.id } }));
+}
+const { town } = Astro.params;
+---
+<TownLayout slug={town!} />

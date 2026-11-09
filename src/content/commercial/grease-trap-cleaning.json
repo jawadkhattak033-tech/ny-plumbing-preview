@@ -1,0 +1,74 @@
+{
+  "title": "Grease Trap Cleaning",
+  "order": 3,
+  "seoTitle": "Grease Trap Cleaning and Repair in {state} | {shortName}",
+  "metaDescription": "Full grease trap, kitchen odors or slow floor sinks? {shortName} cleans and repairs grease traps on a schedule that fits your kitchen. Call {phone}.",
+  "imageAlt": "Restaurant kitchen with ladles hanging above stainless steel shelves and stacked plates",
+  "cardText": "Grease traps and interceptors cleaned, inspected and repaired, with records you can show an inspector or landlord.",
+  "hero": {
+    "eyebrow": "Grease trap service for kitchens",
+    "h1": "Grease Trap Cleaning and Repair in {state}",
+    "sub": "A full grease trap means odors, slow sinks and a real risk of a kitchen backup in the middle of service. We clean, inspect and repair traps so your line keeps moving and your records stay in order."
+  },
+  "quickAnswer": "Call {name} at {phone} to schedule grease trap cleaning or report an overflow. We pump or hand clean the trap, inspect baffles and fittings, and leave a dated service record. Upfront pricing, and we can come before prep or after close.",
+  "intro": [
+    "Every commercial kitchen sends fats, oils and food solids down the drain, and the grease trap is what keeps them out of the sewer. As the trap fills, grease hardens on top and solids settle on the bottom until there is little room left for water to pass. That is when odors start, floor sinks slow down and backups happen.",
+    "We service small under sink traps and larger in ground interceptors. Cleaning means removing all the grease and solids, scraping the walls and baffles, and checking that inlet and outlet pipes are clear. We also look for cracked lids, missing gaskets, damaged baffles and leaking fittings, because a broken trap lets grease pass straight into your drain line.",
+    "After each visit you get a written record of the date, the condition of the trap and what was removed. Many restaurant owners keep these records on hand for health inspections, landlords and local sewer authorities. Over several visits, those records also show how quickly your trap fills, which helps us set a cleaning interval that fits your menu and volume instead of guessing. If your kitchen adds a fryer or extends its hours, we can adjust the schedule to match."
+  ],
+  "signs": {
+    "heading": "Signs Your Grease Trap Needs Service",
+    "items": [
+      "A rancid or sour smell near the dish area or floor sinks.",
+      "Three compartment sinks drain slowly during cleanup.",
+      "Grease or food bits appear in floor drains or floor sinks.",
+      "Water backs up around the trap lid or cleanout.",
+      "It has been longer than usual since the last pumping.",
+      "An inspector or landlord has asked for service records."
+    ]
+  },
+  "covers": {
+    "heading": "What Our Grease Trap Service Covers",
+    "items": [
+      "Under sink grease trap cleaning",
+      "In ground grease interceptor service",
+      "Baffle, lid, gasket and fitting repairs",
+      "Inlet and outlet line clearing and jetting",
+      "Grease trap replacement and resizing",
+      "Dated service records after every visit"
+    ]
+  },
+  "bookLabel": "Book Grease Trap Service",
+  "process": {
+    "heading": "How We Service a Grease Trap",
+    "steps": [
+      { "title": "Schedule Around Service", "text": "We set a time before prep or after close, so the kitchen is quiet and the trap has had a chance to settle." },
+      { "title": "Remove Grease and Solids", "text": "We pump or hand clean the trap completely, scrape grease from the walls and baffles, and remove the settled solids from the bottom." },
+      { "title": "Inspect and Repair", "text": "We check baffles, lids, gaskets and connecting pipes. If anything is cracked or leaking, we explain it and price the repair before doing it." },
+      { "title": "Record the Visit", "text": "We reassemble the trap, run water to confirm flow and leave a dated service record you can keep for inspections." }
+    ]
+  },
+  "local": {
+    "heading": "Grease Trap Requirements in New York Communities",
+    "paragraphs": [
+      "Many cities and sewer districts in New York require food service businesses to keep grease out of the public sewer, and inspectors may ask how often your trap is cleaned. Rules and pumping schedules vary by municipality, so we recommend checking with your local sewer authority. We will gladly provide records that help you show regular maintenance.",
+      "Cold weather matters too. Grease hardens faster in pipes running through cold basements and along exterior walls in winter, which can clog the line between the trap and the sewer. Kitchens that are busy during the holidays often need more frequent service in the colder months."
+    ]
+  },
+  "cost": {
+    "heading": "What Drives the Cost of Grease Trap Service",
+    "paragraphs": [
+      "Cost depends on the size and type of trap, how full it is and how hard it is to reach. A small under sink unit is quicker to clean than a large in ground interceptor. Traps that have gone a long time between cleanings take more labor, and repairs to baffles or fittings are priced separately.",
+      "Regular scheduled service usually costs less over a year than emergency cleanouts. We give you a firm price before every visit."
+    ]
+  },
+  "faqs": [
+    { "q": "How often should our grease trap be cleaned?", "a": "It depends on the trap size and how much grease your kitchen produces. Busy fryer kitchens may need service much more often than a café. We look at how full the trap is at each visit and suggest a schedule that keeps it from getting too full." },
+    { "q": "Can you clean the trap without closing our kitchen?", "a": "Yes. We schedule cleanings before prep starts or after the kitchen closes. Most under sink traps take a short visit, and we clean up the area before we leave so your staff can get right back to work." },
+    { "q": "Do you provide records for health inspections?", "a": "Yes. After every cleaning we leave a dated record showing the trap's condition and the work performed. Keep these with your other kitchen records so they are ready if an inspector or landlord asks." },
+    { "q": "What should staff avoid putting down the drain?", "a": "Scrape plates into the trash before washing, keep fryer oil out of sinks, and use strainers on floor sinks. Hot water and dish soap do not dissolve grease. They only move it farther down the line, where it hardens." },
+    { "q": "Can you replace a broken or undersized grease trap?", "a": "Yes. If your trap is damaged or too small for your kitchen's volume, we can price a replacement. Before any work, we will discuss sizing and any local approvals that may be required." }
+  ],
+  "related": ["restaurant-plumbing", "commercial-drain-cleaning", "preventive-drain-maintenance"],
+  "ctaHeading": "Is your grease trap due for service?"
+}

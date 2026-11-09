@@ -1,0 +1,74 @@
+{
+  "title": "Sewer Camera Inspection",
+  "order": 6,
+  "seoTitle": "Sewer Camera Inspection in {state} | {shortName} Plumbing",
+  "metaDescription": "See inside your sewer line before you buy, dig or keep paying for cleanings. {shortName} records the footage and explains it in plain terms. Call {phone}.",
+  "imageAlt": "Light reflecting on water inside a dark, round tunnel",
+  "cardText": "A waterproof camera travels the drain or sewer line so you can see roots, cracks, sags and buildup before deciding on a fix.",
+  "hero": {
+    "eyebrow": "Sewer camera inspection",
+    "h1": "Sewer Camera Inspection in {state}",
+    "sub": "Stop guessing what is wrong underground. We send a camera through your line, show you the footage live, and explain what it means for your home and your budget."
+  },
+  "quickAnswer": "Call {name} at {phone} to book a sewer camera inspection. A technician runs a camera from a cleanout or fixture, shows you the footage, marks problem spots from above ground, and gives you an honest summary. You get the price before we start.",
+  "intro": [
+    "A sewer camera is a small waterproof camera on a flexible push rod. We feed it into the line and watch the inside of the pipe on a monitor as it travels toward the street. Roots, cracks, separated joints, low spots that hold water and heavy buildup all show up clearly.",
+    "The camera head also carries a small transmitter. A handheld locator picks up its signal through the ground, so when we spot a problem we can mark exactly where it sits in your yard and how deep. That turns a vague repair into a precise one. Instead of digging a long trench to search for the break, a crew can open a small hole right where it is.",
+    "Many homeowners book an inspection after a backup, before buying a house, or after paying for the same cleaning more than once. The goal is simple. Know what is down there, so you spend money on the right fix and nothing more. Sometimes the answer is that the pipe is in good shape, and that is worth knowing too."
+  ],
+  "signs": {
+    "heading": "When a Sewer Camera Inspection Makes Sense",
+    "items": [
+      "You are buying an older home and want to know the sewer condition.",
+      "The main line has backed up more than once in the past year.",
+      "A plumber recommended replacement and you want to see why.",
+      "Large trees grow between the house and the street.",
+      "You are finishing a basement and want to check the drain first.",
+      "Drains slow down after heavy rain or snowmelt."
+    ]
+  },
+  "covers": {
+    "heading": "What Our Camera Inspection Includes",
+    "items": [
+      "Live viewing of the camera footage with the technician",
+      "Inspection of the main drain and sewer lateral",
+      "Locating and marking problem spots from the surface",
+      "Depth readings for any section needing repair",
+      "A recording of the footage you can keep",
+      "A plain language summary of what we found"
+    ]
+  },
+  "bookLabel": "Book a Camera Inspection",
+  "process": {
+    "heading": "How a Sewer Camera Inspection Works",
+    "steps": [
+      { "title": "Find an Access Point", "text": "We use an existing cleanout when there is one. If not, we can go in through a toilet flange or roof vent, depending on the layout." },
+      { "title": "Run the Camera", "text": "The camera travels the length of the line while we watch together on the monitor and note each joint, bend and problem area." },
+      { "title": "Locate and Mark", "text": "At each issue we use the locator to find the camera head from above ground and mark the spot and depth on your property." },
+      { "title": "Review Your Options", "text": "We walk through the footage with you, explain what is urgent and what can wait, and price any work before it is scheduled." }
+    ]
+  },
+  "local": {
+    "heading": "Why Inspections Matter for {state} Home Buyers",
+    "paragraphs": [
+      "A large share of homes across the state were built long before plastic sewer pipe was common. Clay tile, cast iron and Orangeburg laterals are typical in many older neighborhoods, and they rarely show any problem during a walk through. A standard home inspection usually does not look inside the sewer at all.",
+      "Because homeowners in many New York communities own the lateral out to the main, a damaged line becomes the buyer's problem after closing. A camera inspection before you sign gives you facts to bring to the negotiating table."
+    ]
+  },
+  "cost": {
+    "heading": "What Drives the Cost of a Camera Inspection",
+    "paragraphs": [
+      "Access is the biggest factor. An easy outdoor or basement cleanout makes for a quick inspection. Pulling a toilet or working from a roof vent takes more time. If the line is fully blocked, it may need clearing first so the camera can pass through.",
+      "Line length and whether you need a recording and written summary also play a part. You will know the price before we start."
+    ]
+  },
+  "faqs": [
+    { "q": "Do you give me a copy of the camera footage?", "a": "Yes. We can provide a recording of the inspection so you can share it with a home inspector, a real estate agent, your insurance company or another contractor for a second opinion." },
+    { "q": "Should I get a sewer inspection before buying a house?", "a": "For any home more than a few decades old, or one with large trees in the yard, it is a smart step. A standard home inspection usually stops at the floor drain. A camera shows the condition of the pipe all the way to the street." },
+    { "q": "Can the camera go through a clogged line?", "a": "Not through a full blockage. If the line is backed up, we clear it first with a cable or jetter, then send the camera through to see what caused the clog. That way you learn why it happened, not just that it happened." },
+    { "q": "How long does a sewer camera inspection take?", "a": "Most residential inspections take about an hour, including setup, the camera run, locating and talking through the results. Long lines, difficult access or a line that needs clearing first can add time." },
+    { "q": "Will you push me to buy a repair?", "a": "No. Many inspections end with good news or a simple maintenance tip. When we do find damage, we show it to you on screen, explain how urgent it is and let you decide. You are welcome to take the footage elsewhere." }
+  ],
+  "related": ["sewer-line-repair", "hydro-jetting", "drain-cleaning"],
+  "ctaHeading": "Want to see inside your sewer line?"
+}

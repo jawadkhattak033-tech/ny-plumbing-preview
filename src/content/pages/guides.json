@@ -1,0 +1,106 @@
+{
+  "seoTitle": "Plumbing Guides and Cost Guides for {state} | {shortName}",
+  "metaDescription": "Plain-language plumbing guides from {shortName}: what drives repair costs, how to prevent frozen pipes and what to do in the first minutes of a leak.",
+  "hero": {
+    "eyebrow": "Guides",
+    "h1": "Plumbing Guides and Cost Guides for {state}",
+    "sub": "Straight answers to the questions we hear on the phone every day. Read up, then call when you would rather have a professional handle it."
+  },
+  "groups": [
+    {
+      "eyebrow": "Cost guides",
+      "heading": "What Plumbing Repairs Cost and Why",
+      "lead": "We do not publish one-size prices because two jobs with the same name can be very different. These guides explain what moves the price up or down.",
+      "guides": [
+        {
+          "id": "drain-cleaning-cost",
+          "tag": "Cost guide",
+          "title": "What Drives the Cost of Drain Cleaning",
+          "summary": "The biggest factor is where the clog sits and how we reach it.",
+          "points": [
+            "A single fixture trap is a short visit; a main line takes heavier equipment.",
+            "An accessible cleanout keeps the price down. No cleanout means pulling a toilet or going through a roof vent.",
+            "Repeat clogs may need a camera inspection to find the real cause."
+          ],
+          "service": "drain-cleaning"
+        },
+        {
+          "id": "water-heater-cost",
+          "tag": "Cost guide",
+          "title": "Water Heater Replacement: What Changes the Price",
+          "summary": "Tank size and fuel type matter, but so does everything around the heater.",
+          "points": [
+            "Gas, electric and tankless units carry very different equipment costs.",
+            "Venting, gas line and code upgrades can add to the job.",
+            "Tight basements and stairs affect how long removal and install take."
+          ],
+          "service": "water-heater-replacement"
+        },
+        {
+          "id": "sewer-repair-cost",
+          "tag": "Cost guide",
+          "title": "Sewer Line Repair: Spot Fix or Full Replacement",
+          "summary": "A camera inspection tells you which one you are dealing with.",
+          "points": [
+            "A single cracked joint can often be repaired without replacing the whole line.",
+            "Depth, length and what sits on top (driveways, trees, patios) drive excavation cost.",
+            "Trenchless methods can cost less overall when digging would mean restoring landscaping."
+          ],
+          "service": "sewer-line-repair"
+        }
+      ]
+    },
+    {
+      "eyebrow": "Winter guides",
+      "heading": "Cold Weather Plumbing Guides",
+      "lead": "Long, hard winters are tough on pipes. A little prep in the fall saves a lot of water damage in January.",
+      "guides": [
+        {
+          "id": "burst-pipe-first-steps",
+          "tag": "Emergency guide",
+          "title": "Burst Pipe? Your First Ten Minutes",
+          "summary": "Fast action keeps a repair from becoming a renovation.",
+          "points": [
+            "Shut off the main water valve. Know where it is before you need it.",
+            "Turn off power to any wet area at the breaker if it is safe to reach.",
+            "Open faucets to drain the lines, move valuables, then call us and take photos for insurance."
+          ],
+          "service": "burst-pipe-repair"
+        },
+        {
+          "id": "prevent-frozen-pipes",
+          "tag": "Prevention guide",
+          "title": "How to Keep Pipes From Freezing",
+          "summary": "Most frozen pipes are on outside walls, over garages or in crawl spaces.",
+          "points": [
+            "Disconnect hoses and shut off outdoor spigots from inside before the first freeze.",
+            "Open cabinet doors on outside walls during cold snaps and keep the heat at least in the mid 50s.",
+            "Insulate exposed pipes in unheated spaces and seal drafts near them."
+          ],
+          "service": "frozen-pipe-repair"
+        },
+        {
+          "id": "commercial-winterization",
+          "tag": "Business guide",
+          "title": "Winterizing a Commercial Building",
+          "summary": "Vacant units and seasonal closures are where freezes cause the most damage.",
+          "points": [
+            "Keep heat on in vacant units and check them on a schedule.",
+            "Drain and shut off supply to unheated areas, irrigation and exterior fixtures.",
+            "Test sump pumps and backflow devices before snowmelt season."
+          ],
+          "service": "property-management-plumbing"
+        }
+      ]
+    }
+  ],
+  "ctaServicesHeading": "When You Need a Plumber, Not a Guide",
+  "ctaServices": ["emergency-plumbing", "drain-cleaning", "water-heater-replacement"],
+  "faqHeading": "Guide Questions",
+  "faqs": [
+    { "q": "Why don't you list exact prices?", "a": "Because access, materials and the condition of your system change the job. A posted price would be wrong for most homes. Instead, we diagnose first and give you a firm quote before any work starts." },
+    { "q": "Is it safe to do my own plumbing repairs?", "a": "Simple jobs like replacing a flapper or cleaning an aerator are fine for most homeowners. Gas lines, water heaters, sewer work and anything that needs a permit should be left to a licensed plumber." },
+    { "q": "Can you look at a problem before I decide what to do?", "a": "Yes. Book a diagnostic visit and we will explain what we find and your options, with prices, so you can decide without pressure." }
+  ],
+  "ctaHeading": "Need a plumber right now?"
+}

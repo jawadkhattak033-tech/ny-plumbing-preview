@@ -1,0 +1,56 @@
+---
+/** Region page (/regions/<slug>/). Copy: src/content/regions/<slug>.json */
+import BaseLayout from './BaseLayout.astro';
+import { PageHero, TrustStrip, Reviews, Faq, CtaBand, LinkTile, Icon } from '../components/sections';
+import { business, tel, url, img, getRegions, getTowns, getServices } from '../lib/site';
+
+interface Props { slug: string; }
+const { slug } = Astro.props;
+const [regions, towns, services] = await Promise.all([getRegions(), getTowns(), getServices()]);
+const r = regions.find((x) => x.slug === slug)!;
+const regionTowns = towns.filter((t) => t.region === slug);
+const crumbs = [{ name: 'Home', path: '/' }, { name: 'Service Areas', path: '/service-areas/' }, { name: r.name, path: url.region(slug) }];
+---
+<BaseLayout title={r.seoTitle} description={r.metaDescription} crumbs={crumbs} faqs={r.faqs} area={{ type: 'AdministrativeArea', name: `${r.name}, ${business.address.stateName}` }} locality={r.name}>
+  <PageHero eyebrow={r.hero.eyebrow} h1={r.hero.h1} sub={r.hero.sub} image={img.region(slug)} imageAlt={r.imageAlt} crumbs={crumbs} />
+  <TrustStrip />
+
+  <section class="section"><div class="container grid-2 top">
+    <div class="prose">
+      <div class="callout"><p><strong>Quick answer:</strong> {r.quickAnswer}</p></div>
+      {r.intro.map((t) => <p>{t}</p>)}
+    </div>
+    <div class="prose">
+      <span class="eyebrow">Coverage</span><h2>{r.coverage.heading}</h2>
+      {r.coverage.paragraphs.map((t) => <p>{t}</p>)}
+      <div class="btn-row"><a href={tel} class="btn btn-red"><Icon name="phone" size={18} /> {business.phone}</a></div>
+    </div>
+  </div></section>
+
+  <section class="section section-soft"><div class="container">
+    <div class="section-head"><span class="eyebrow">Local conditions</span><h2>Plumbing Problems We See Most in the {r.name}</h2></div>
+    <div class="grid-4">{r.problems.map((p) => <div class="icon-card"><h3>{p.title}</h3><p>{p.text}</p></div>)}</div>
+  </div></section>
+
+  <section class="section"><div class="container">
+    <div class="section-head"><span class="eyebrow">Counties</span><h2>Counties We Serve in the {r.name}</h2></div>
+    <div class="link-grid">{r.counties.map((c) => <LinkTile label={`${c} County`} />)}</div>
+    {regionTowns.length > 0 && (
+      <>
+        <div class="section-head sub"><h3>Towns with dedicated pages</h3></div>
+        <div class="link-grid">{regionTowns.map((t) => <LinkTile href={url.town(t.slug)} label={`${t.name}, ${business.address.state}`} />)}</div>
+      </>
+    )}
+    <div class="section-head sub"><h3>Communities we serve in the {r.name}</h3></div>
+    <ul class="chips center">{r.communities.map((c) => <li>{c}</li>)}</ul>
+  </div></section>
+
+  <section class="section section-soft"><div class="container">
+    <div class="section-head"><span class="eyebrow">Services</span><h2>Plumbing Services in the {r.name}</h2></div>
+    <div class="link-grid">{services.map((s) => <LinkTile href={url.service(s.slug)} label={s.title} />)}</div>
+  </div></section>
+
+  <Reviews offset={r.order} />
+  <Faq heading={`${r.name} Plumbing Questions`} items={r.faqs} />
+  <CtaBand heading={r.ctaHeading} />
+</BaseLayout>

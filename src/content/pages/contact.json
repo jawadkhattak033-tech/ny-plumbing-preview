@@ -1,0 +1,29 @@
+{
+  "seoTitle": "Contact {name} | 24/7 Plumber in {city}",
+  "metaDescription": "Call {shortName} at {phone}, any hour, or request service online. Shop at {city}, {stateAbbr}. Serving homes and businesses across {state}.",
+  "hero": {
+    "eyebrow": "Contact",
+    "h1": "Contact {shortName}, 24/7",
+    "sub": "Call for anything urgent. For everything else, send a request and our team will call you back, usually within two hours."
+  },
+  "heading": "Talk to a Real Person, Any Hour",
+  "intro": [
+    "For a burst pipe, sewage backup, flooding or no water, call {phone} right away. Our phones are answered {hours}, and emergency calls go straight to dispatch.",
+    "Planning a water heater replacement, a remodel or a camera inspection? Use the form and tell us a little about the job. We will call back to set a time that works for you."
+  ],
+  "areaText": "Based in {city} and serving all of {state}.",
+  "formHeading": "Request Service",
+  "stepsHeading": "After You Reach Out",
+  "steps": [
+    { "title": "We pick up or call back", "text": "Phone calls are answered live. Online requests get a callback, usually within two hours." },
+    { "title": "We ask a few questions", "text": "What you are seeing, where it is and how urgent it feels, so we send the right tech with the right gear." },
+    { "title": "A plumber is scheduled", "text": "You get an arrival window and a heads up when your technician is on the way." },
+    { "title": "You get the price first", "text": "The technician diagnoses the problem and gives you a firm quote before any work starts." }
+  ],
+  "faqHeading": "Contact Questions",
+  "faqs": [
+    { "q": "What is the fastest way to reach you?", "a": "Call {phone}. The phone is answered live {hours}. The online form is best for non-urgent work." },
+    { "q": "Can I email photos of the problem?", "a": "Yes. Send them to {email} with your name and address, and mention them when you call. Photos help us bring the right parts." },
+    { "q": "Do you give quotes over the phone?", "a": "We can give a general idea for common jobs, but firm prices come after a technician sees the problem. That way the quote is one we can stand behind." }
+  ]
+}

@@ -1,0 +1,76 @@
+---
+/**
+ * One layout for all 26 service pages. Residential copy lives in
+ * src/content/services/<slug>.json, commercial in src/content/commercial/<slug>.json.
+ */
+import BaseLayout from './BaseLayout.astro';
+import { PageHero, TrustStrip, ServiceCard, Reviews, Faq, CtaBand, WorkGrid, LinkTile, Img } from '../components/sections';
+import { business, url, img, imgAlt, getServices, getCommercial, getTowns } from '../lib/site';
+
+type Kind = 'services' | 'commercial';
+interface Props { kind: Kind; slug: string; }
+const { kind, slug } = Astro.props;
+
+const [services, commercial, towns] = await Promise.all([getServices(), getCommercial(), getTowns()]);
+const list = kind === 'services' ? services : commercial;
+const s = list.find((x) => x.slug === slug)!;
+const href = kind === 'services' ? url.service : url.commercial;
+const imageKey = kind === 'services' ? img.service : img.commercial;
+const heroKey = kind === 'services' ? 'page-hero' : 'home-commercial';
+const hub = kind === 'services' ? { name: 'Plumbing', path: '/plumbing/' } : { name: 'Commercial', path: '/commercial/' };
+const crumbs = [{ name: 'Home', path: '/' }, hub, { name: s.title, path: href(slug) }];
+const related = s.related.map((r) => list.find((x) => x.slug === r)).filter(Boolean) as typeof list;
+const index = list.findIndex((x) => x.slug === slug);
+---
+<BaseLayout title={s.seoTitle} description={s.metaDescription} crumbs={crumbs} faqs={s.faqs} service={{ name: s.title, description: s.metaDescription }}>
+  {/* The hero uses the shared hub background; the service's own photo shows once, beside the intro. */}
+  <PageHero eyebrow={s.hero.eyebrow} h1={s.hero.h1} sub={s.hero.sub} image={heroKey} imageAlt={imgAlt(heroKey)} crumbs={crumbs} />
+  <TrustStrip />
+
+  <section class="section"><div class="container grid-2">
+    <div class="prose">
+      <div class="callout"><p><strong>Quick answer:</strong> {s.quickAnswer}</p></div>
+      {s.intro.map((t) => <p>{t}</p>)}
+    </div>
+    <figure class="media-frame"><Img name={imageKey(slug)} alt={s.imageAlt} sizes="(max-width: 767px) 100vw, 560px" maxWidth={1200} /></figure>
+  </div></section>
+
+  <section class="section section-soft"><div class="container grid-2 top">
+    <div><span class="eyebrow">Warning signs</span><h2>{s.signs.heading}</h2><ul class="check-list">{s.signs.items.map((i) => <li>{i}</li>)}</ul></div>
+    <div>
+      <span class="eyebrow">What is included</span><h2>{s.covers.heading}</h2><ul class="check-list">{s.covers.items.map((i) => <li>{i}</li>)}</ul>
+      <div class="btn-row" style="margin-top:26px"><a href="#request" data-popup="book" class="btn btn-red">{s.bookLabel}</a></div>
+    </div>
+  </div></section>
+
+  <section class="section"><div class="container">
+    <div class="section-head"><span class="eyebrow">How it works</span><h2>{s.process.heading}</h2></div>
+    <div class="steps">{s.process.steps.map((st) => <div class="step"><h3>{st.title}</h3><p>{st.text}</p></div>)}</div>
+  </div></section>
+
+  <section class="section section-soft"><div class="container grid-2 top">
+    <div class="prose"><span class="eyebrow">Local know how</span><h2>{s.local.heading}</h2>{s.local.paragraphs.map((t) => <p>{t}</p>)}</div>
+    <div class="prose">
+      <span class="eyebrow">Pricing</span><h2>{s.cost.heading}</h2>{s.cost.paragraphs.map((t) => <p>{t}</p>)}
+      <div class="callout"><p><strong>Call {business.phone}</strong> for an upfront quote. We answer {business.hours.phrase} and explain the price before any work starts.</p></div>
+      <div class="link-grid"><LinkTile href="/guides/" label="Plumbing cost guides" /></div>
+    </div>
+  </div></section>
+
+  <WorkGrid heading={kind === 'services' ? 'Sample Plumbing Work' : 'Sample Commercial Work'} offset={index * 2} />
+  <Reviews offset={index} />
+
+  <section class="section section-soft"><div class="container">
+    <div class="section-head"><span class="eyebrow">Local service</span><h2>{s.title} Near You</h2><p class="lead">We provide {s.title.toLowerCase()} across {business.address.stateName} from our {business.address.city} shop. These are the towns our trucks reach most often.</p></div>
+    <div class="link-grid">{towns.map((t) => <LinkTile href={url.town(t.slug)} label={`${s.title} in ${t.name}`} />)}</div>
+  </div></section>
+
+  <Faq heading={`${s.title} Questions, Answered`} items={s.faqs} soft={false} />
+
+  <section class="section section-soft"><div class="container">
+    <div class="section-head"><span class="eyebrow">Related services</span><h2>Related {kind === 'services' ? 'Plumbing' : 'Commercial'} Services</h2></div>
+    <div class="grid-3">{related.map((r) => <ServiceCard href={href(r.slug)} title={r.title} text={r.cardText} image={imageKey(r.slug)} alt={r.imageAlt} />)}</div>
+  </div></section>
+
+  <CtaBand heading={s.ctaHeading} />
+</BaseLayout>

@@ -1,0 +1,41 @@
+{
+  "name": "Central New York",
+  "order": 6,
+  "counties": ["Cayuga", "Cortland", "Madison", "Onondaga", "Oswego"],
+  "communities": ["Syracuse", "Liverpool", "Clay", "Cicero", "DeWitt", "Manlius", "Fayetteville", "Camillus", "Baldwinsville", "Skaneateles", "Auburn", "Weedsport", "Cortland", "Homer", "Oneida", "Canastota", "Cazenovia", "Hamilton", "Chittenango", "Oswego", "Fulton", "Pulaski", "Phoenix", "Mexico"],
+  "seoTitle": "Central New York Plumber | Syracuse Area | {shortName}",
+  "metaDescription": "{shortName} takes scheduled plumbing work across Central New York, from Syracuse to Oswego. Lake effect cold, old sewers and wells. Call {phone}.",
+  "imageAlt": "Highway winding through a valley between mountains in fall color",
+  "cardText": "Booked plumbing visits around Syracuse, Auburn, Cortland and Oswego, with phones answered at any hour.",
+  "hero": {
+    "eyebrow": "Central New York plumbing",
+    "h1": "Plumber in Central New York",
+    "sub": "Syracuse and the surrounding counties are a few hours from our {city} shop. We schedule work here, arrive with the parts for the job and give you a price before we begin."
+  },
+  "quickAnswer": "{name} serves Cayuga, Cortland, Madison, Onondaga and Oswego counties with scheduled plumbing work. Because we travel from {city}, most visits are booked ahead. Calls are answered 24/7 and urgent problems get an honest arrival estimate.",
+  "intro": [
+    "Central New York is a solid drive west of our shop in {city}, so we treat it as scheduled territory. We book drain and sewer repairs, water heater replacements, frozen pipe repairs and camera inspections ahead of time, and we group visits so a technician can cover Syracuse and its suburbs in one trip.",
+    "Syracuse gets some of the heaviest snow of any city in the country, and Oswego County sits right in the path of lake effect bands off Lake Ontario. That means deep cold, long freezes and heavy spring melt. The housing ranges from Syracuse two family homes from the early 1900s to postwar suburbs in Clay and Liverpool to rural homes on wells in Madison and Cortland counties."
+  ],
+  "coverage": {
+    "heading": "How We Cover Central New York",
+    "paragraphs": [
+      "Madison County is the closest part of the region to {city}. Onondaga, Cayuga, Cortland and Oswego are farther, and we usually schedule work there one or more days out. We stack calls by area so travel time does not crowd out the actual work.",
+      "Emergency calls are answered {hours}. During a lake effect storm, travel can slow to a crawl, and we will tell you plainly how long it may take for a technician to reach you."
+    ]
+  },
+  "problems": [
+    { "title": "Lake effect freeze ups", "text": "Long stretches below freezing and wind driven snow push cold into rim joists and outside walls. Supply lines in those spots freeze and split, often in homes that never had trouble before." },
+    { "title": "Old Syracuse two family plumbing", "text": "Early 1900s doubles and flats often share one main drain and have decades of patched supply lines. Clogs and leaks in one unit tend to affect the other, so we check both." },
+    { "title": "Sump pumps during spring melt", "text": "When heavy snowpack melts quickly, groundwater rises and basements take on water. Pumps that sat idle all winter often fail on the first big day of melt." },
+    { "title": "Hard well water in rural towns", "text": "Homes on wells in Madison, Cortland and Cayuga counties often deal with hard water and sediment. Scale shortens water heater life and clogs aerators and valves." }
+  ],
+  "faqs": [
+    { "q": "Do you have a shop in Syracuse?", "a": "No. Our shop is in {city}, and we travel to Central New York for scheduled work. We are upfront about that so you can plan, and we book visits on days when a technician is already in the area." },
+    { "q": "Can you come during a lake effect snowstorm?", "a": "We answer the phone during storms and help you protect the house. Travel in heavy lake effect bands can be slow or unsafe, so we give you an honest estimate and arrive as soon as the roads allow." },
+    { "q": "How do I keep pipes from freezing in a Central New York winter?", "a": "Seal drafts near the rim joist, insulate pipes on outside walls, keep cabinet doors open on the coldest nights and shut off outdoor hose lines in fall. If a line freezes anyway, call before it splits." },
+    { "q": "Do you work in Oswego and Fulton?", "a": "Yes, on a scheduled basis. Oswego County is one of the farther parts of the region from {city}, so we usually group calls there and book them a day or more ahead." },
+    { "q": "Do you install water softeners for well water?", "a": "We do. We start by testing your water so we know the hardness and whether iron or sediment is also an issue, then recommend equipment sized for your household and how much water you use." }
+  ],
+  "ctaHeading": "Schedule a Plumber in Central New York"
+}

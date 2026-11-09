@@ -1,0 +1,17 @@
+{
+  "seoTitle": "{shortName} Plumbing Reviews | {rating} Stars on Google",
+  "metaDescription": "Read what homeowners and business owners say about {name}. Rated {rating} stars across {reviews} Google reviews. Call {phone}, open 24/7.",
+  "hero": {
+    "eyebrow": "Reviews",
+    "h1": "{shortName} Plumbing Reviews",
+    "sub": "{rating} stars across {reviews} Google reviews. Here is what customers say about calling us, from late night emergencies to scheduled upgrades."
+  },
+  "reviewsHeading": "Rated {rating} Stars by Our Customers",
+  "faqHeading": "Review Questions",
+  "faqs": [
+    { "q": "Where do your reviews come from?", "a": "Reviews shown here are taken from our Google Business Profile, shared word for word with the customer's permission." },
+    { "q": "What happens if I am not happy with a job?", "a": "Call us first. A manager will listen, look at what went wrong and send someone back to make it right. We read every review, good or bad, and use them to train our team." },
+    { "q": "How can I leave a review?", "a": "Use the Google review link on this page or the one in the follow up text after your visit. Honest feedback of any kind helps neighbors choose a plumber." }
+  ],
+  "ctaHeading": "Ready to see why customers rate us {rating} stars?"
+}

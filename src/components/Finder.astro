@@ -1,0 +1,13 @@
+---
+/** Town / ZIP search. Reads /data/places.json (generated at build) on first use. */
+interface Props { id: string; }
+const { id } = Astro.props;
+---
+<div class="finder" data-index="/data/places.json">
+  <label for={`finder-${id}`}>Find your local plumber: enter your town or ZIP</label>
+  <div class="finder-box">
+    <input id={`finder-${id}`} type="text" placeholder="e.g. Albany, Troy, 12180" autocomplete="off" role="combobox" aria-expanded="false" aria-controls={`finder-${id}-results`} />
+    <button type="button">Find</button>
+  </div>
+  <div class="finder-results" id={`finder-${id}-results`} role="listbox"></div>
+</div>

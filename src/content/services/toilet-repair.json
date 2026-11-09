@@ -1,0 +1,74 @@
+{
+  "title": "Toilet Repair",
+  "order": 14,
+  "seoTitle": "Toilet Repair in {state}, 24/7 | {shortName} Plumbing",
+  "metaDescription": "Running, rocking, leaking or clogged toilet? {shortName} repairs and replaces toilets of every style, day or night, with a firm price upfront. Call {phone}.",
+  "imageAlt": "White wall-hung toilet with the lid up in a white-tiled bathroom",
+  "cardText": "Running, leaking, wobbly and clogged toilets fixed, or replaced with a new one set level and sealed on a fresh wax ring.",
+  "hero": {
+    "eyebrow": "Toilet repair and replacement",
+    "h1": "Toilet Repair in {state}, Available 24/7",
+    "sub": "A toilet that runs all night, rocks when you sit, leaks at the base or clogs every few days? We find the real cause, fix the worn part or reset the bowl, and test it before we leave."
+  },
+  "quickAnswer": "Call {name} at {phone}. We answer {hours} and carry common flappers, fill valves, wax rings and flanges on the truck. Most toilet repairs are finished in one visit, and you get the price before we touch anything.",
+  "intro": [
+    "Toilets are simple machines, but small parts wear out. A flapper hardens and lets water seep into the bowl. A fill valve sticks and keeps running. The wax ring under the bowl dries out, and a slow leak starts soaking the subfloor. Each of these is usually a straightforward repair once you know which part has failed.",
+    "We start by watching a full flush and refill cycle, then check the tank parts, the supply connection, the bolts and the seal at the floor. If the toilet rocks, we look at the flange and the floor around it, because a loose bowl will break any new seal in weeks.",
+    "Sometimes replacement is the better choice, such as a cracked tank or bowl, or an old toilet that clogs constantly. We will tell you honestly which way makes sense. If you choose a new toilet, we install it level on a fresh seal, connect a new supply line and take the old one away with us."
+  ],
+  "signs": {
+    "heading": "Signs Your Toilet Needs Repair",
+    "items": [
+      "The tank refills on its own every so often without a flush.",
+      "Water runs constantly or hisses after the tank fills.",
+      "The bowl rocks or shifts when you sit down.",
+      "Water collects around the base after flushing.",
+      "The toilet clogs often with normal use.",
+      "You see a crack in the tank or bowl, or a stain on the ceiling below."
+    ]
+  },
+  "covers": {
+    "heading": "What Our Toilet Repair Covers",
+    "items": [
+      "Flapper, fill valve and flush valve replacement",
+      "Handle, chain and tank bolt repair",
+      "Wax ring and closet flange replacement",
+      "Clearing toilet clogs with a closet auger",
+      "Supply line and shutoff valve replacement",
+      "New toilet installation and old toilet haul away"
+    ]
+  },
+  "bookLabel": "Book Toilet Repair",
+  "process": {
+    "heading": "How We Fix a Toilet",
+    "steps": [
+      { "title": "Watch It Work", "text": "We flush and watch the full refill cycle, then check the base, tank and supply line to see exactly where the problem starts." },
+      { "title": "Explain the Fix", "text": "You hear which part has failed, whether a repair or a new toilet makes more sense, and the price for each option." },
+      { "title": "Repair or Reset", "text": "Worn tank parts are replaced, or the bowl is lifted, the flange checked and a new seal set so the toilet sits solid on the floor." },
+      { "title": "Test and Tidy", "text": "We run several flushes, check for leaks at every connection and clean the area so the bathroom is ready to use." }
+    ]
+  },
+  "local": {
+    "heading": "Toilet Problems Common in {state} Homes",
+    "paragraphs": [
+      "Many older homes in the state have cast iron closet flanges set into wood floors that have shifted over the decades. When the flange corrodes or the floor settles, the toilet starts rocking and the wax seal fails. Fixing the flange properly matters more than swapping in a new wax ring.",
+      "Hard water is another factor in parts of the state, especially in homes on wells. Mineral scale builds on flappers and fill valves and clogs the small rim holes under the bowl, which leads to weak flushes. If your toilet parts wear out quickly, scale is often the reason."
+    ]
+  },
+  "cost": {
+    "heading": "What Drives the Cost of Toilet Repair",
+    "paragraphs": [
+      "Simple tank repairs like a flapper or fill valve are the quickest visits. Pulling the toilet to replace a wax ring takes longer, and a rusted or broken flange or soft subfloor adds more time and parts. A new toilet depends on the model you choose and whether the rough in measurement fits a standard size.",
+      "We give you the price before we start, including any choice between repairing and replacing, so you can decide with all the facts."
+    ]
+  },
+  "faqs": [
+    { "q": "Why does my toilet keep running?", "a": "The usual causes are a worn flapper that lets water leak into the bowl, a chain that is too short, or a fill valve set too high so water spills into the overflow tube. All three are quick repairs, and we carry the parts with us." },
+    { "q": "Is water around the base of the toilet serious?", "a": "It should be checked soon. It often means the wax seal under the bowl has failed, which lets water soak into the subfloor each time you flush. Over time that can rot the floor and stain the ceiling below. It can also be a sweating tank or a loose supply line." },
+    { "q": "Should I repair or replace my toilet?", "a": "Repair makes sense for worn tank parts and seals. Replacement is usually better if the tank or bowl is cracked, the toilet clogs all the time, or it is very old and uses a lot of water per flush. We will give you both options and prices." },
+    { "q": "Can you unclog a toilet that a plunger will not clear?", "a": "Yes. We use a closet auger designed to work through the toilet trap without scratching the porcelain. If several fixtures are backing up at once, the clog is likely in the main line and we will clear it there." },
+    { "q": "Do you install toilets I bought myself?", "a": "Yes. We will check that the rough in measurement fits your bathroom, set it on a new seal, connect a new supply line and haul away the old one if you want. Let us know the model when you call {phone}." }
+  ],
+  "related": ["drain-cleaning", "faucet-and-sink-repair", "leak-detection"],
+  "ctaHeading": "Toilet acting up?"
+}

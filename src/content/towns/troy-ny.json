@@ -1,0 +1,48 @@
+{
+  "name": "Troy",
+  "order": 6,
+  "county": "Rensselaer",
+  "region": "capital-region",
+  "zips": ["12180", "12182"],
+  "neighborhoods": ["Downtown", "Lansingburgh", "South Troy", "Sycaway", "Eastside", "Frear Park", "Little Italy"],
+  "nearby": ["rensselaer-ny", "latham-ny", "albany-ny", "colonie-ny", "niskayuna-ny", "halfmoon-ny"],
+  "geo": { "lat": 42.7284, "lng": -73.6918 },
+  "seoTitle": "Plumber in Troy, NY | 24/7 Drain and Sewer | {shortName}",
+  "metaDescription": "Troy, NY plumber for rowhouse drains, sewer backups, water heaters and frozen pipes in Lansingburgh, South Troy and downtown. Open 24/7. Call {phone}.",
+  "imageAlt": "Shingled house with a long covered porch beside tall trees",
+  "hero": {
+    "eyebrow": "Rensselaer County plumber",
+    "h1": "Plumber in Troy, NY",
+    "sub": "Brick rowhouses, hillside homes and student rentals all have their own plumbing quirks. Our technicians know them well, answer at any hour and quote before they start."
+  },
+  "intro": "{name} handles plumbing for Troy homeowners, landlords and businesses from downtown to Lansingburgh. We are a quick hop across the river from our {city} shop, so emergency calls in Troy usually get a fast response, and routine work can often be booked the same week.",
+  "popular": ["emergency-plumbing", "drain-cleaning", "sewer-line-repair", "water-heater-repair", "frozen-pipe-repair", "sewer-camera-inspection"],
+  "problems": [
+    { "title": "Basement backups in heavy rain", "text": "Parts of Troy share sewers that carry both storm water and household waste. A hard rain can push water back up through low floor drains. A backwater valve often solves it for good.", "service": "sewer-line-repair" },
+    { "title": "Patchwork pipe in old rowhouses", "text": "A century of repairs leaves many rowhouses with cast iron, galvanized and copper all spliced together. Those mixed joints are where leaks and low pressure start.", "service": "repiping" },
+    { "title": "Hard use in rental units", "text": "Multi tenant buildings near the colleges see constant use and slow reporting. Small drips and running toilets become big water bills fast.", "service": "multifamily-apartment-plumbing" },
+    { "title": "Roots under old sidewalks", "text": "Mature street trees send roots toward clay sewer joints looking for water. Repeat main line clogs on tree lined blocks usually trace back to them.", "service": "hydro-jetting" }
+  ],
+  "housing": {
+    "heading": "Rowhouse and Riverfront Plumbing in Troy",
+    "paragraphs": [
+      "Much of downtown and South Troy was built in the 1800s, when plumbing was added to houses that were never designed for it. Drain stacks run through odd chases, basements sit close to the water table, and earlier owners have often rerouted lines more than once. We take time to trace a system before we cut into anything.",
+      "Farther up the hill in Sycaway, Frear Park and the Eastside, homes are newer but many still rely on original clay sewer laterals running under mature trees. A camera inspection before a sale or renovation can save a lot of guesswork."
+    ]
+  },
+  "howWeWork": {
+    "heading": "Fast Plumbing Help Anywhere in Troy",
+    "paragraphs": [
+      "Troy sits just across the Hudson from our home base, so a technician can usually be on the way within minutes of your call. We answer {hours}, including the holidays when drains seem most likely to back up.",
+      "Before any work begins you get a clear explanation and a firm price. When we finish, we test the repair, clean the work area and walk you through what we found."
+    ]
+  },
+  "faqs": [
+    { "q": "How quickly can you get to Troy?", "a": "Troy is one of the closest cities to our {city} shop. Emergency calls are prioritized and most get a technician the same day, often within a couple of hours. We give you an honest estimate when you call." },
+    { "q": "Can you repair rowhouse plumbing without opening walls?", "a": "Often we can. Many runs in Troy rowhouses are reachable from the basement or an existing access panel. We use a camera and leak detection tools first so any opening we do make is as small as possible." },
+    { "q": "Do you work with landlords and property managers?", "a": "Yes. We handle tenant calls, unit turnovers and preventive maintenance for rental owners across Troy and Lansingburgh, and keep you updated so you can communicate with tenants." },
+    { "q": "What can I do about my basement backing up in storms?", "a": "Start with a camera inspection to confirm the line is clear and intact. In many Troy homes, installing a backwater valve on the main drain stops storm surges from pushing water back into the basement." },
+    { "q": "Do you replace water heaters in tight basements?", "a": "Yes. We install tank and tankless water heaters in narrow rowhouse basements and closets, haul the old unit away and pull any permits the job requires." }
+  ],
+  "ctaHeading": "Plumber in Troy, 24/7"
+}

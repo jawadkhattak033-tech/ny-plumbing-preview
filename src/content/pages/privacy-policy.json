@@ -1,0 +1,18 @@
+{
+  "seoTitle": "Privacy Policy | {name}",
+  "metaDescription": "How {name} collects, uses and protects the information you share through our website, phone line and service request forms.",
+  "title": "Privacy Policy",
+  "effective": "January 1, 2026",
+  "notice": "Placeholder policy. Have it reviewed by a qualified attorney before launch.",
+  "sections": [
+    { "heading": "Who we are", "paragraphs": ["This policy covers the website of {legalName} (\"we\", \"us\"), located at {address}. Questions about it can be sent to {email} or by phone at {phone}."] },
+    { "heading": "Information we collect", "paragraphs": ["When you request service, call us or apply for a job, we collect the details you choose to share: your name, phone number, email address, service address, a description of the plumbing problem and, for business customers, property details.", "Like most websites, our server and analytics tools record basic technical data such as your browser type, the pages you visit and the approximate location derived from your IP address."] },
+    { "heading": "How we use it", "paragraphs": ["We use your information to respond to your request, schedule and perform service, send estimates and invoices, follow up on completed work and improve our website. We may send a review request after a job. We do not sell your personal information."] },
+    { "heading": "Sharing", "paragraphs": ["We share information only with providers that help us run the business, such as scheduling, payment, email and hosting services, and only as needed for them to do that work. We may disclose information when required by law."] },
+    { "heading": "Cookies and analytics", "paragraphs": ["Our site may use cookies and similar tools to understand how visitors use it. You can block or delete cookies in your browser settings; the site will still work. The site also stores your recently viewed town in your browser session to show it in the top bar."] },
+    { "heading": "Data retention and security", "paragraphs": ["We keep customer records as long as needed to provide service, meet warranty and tax obligations and resolve disputes. We use reasonable safeguards to protect your information, but no method of transmission over the internet is completely secure."] },
+    { "heading": "Your choices", "paragraphs": ["You may ask us to update or delete your contact information, or to stop sending you follow up messages, by emailing {email}. We will respond within a reasonable time."] },
+    { "heading": "Children", "paragraphs": ["Our site is not directed to children under 13, and we do not knowingly collect information from them."] },
+    { "heading": "Changes", "paragraphs": ["We may update this policy from time to time. The effective date above shows when it was last changed."] }
+  ]
+}

@@ -1,0 +1,48 @@
+---
+/**
+ * Hero used on every page. `home` gives the tall homepage version; inner pages
+ * get the compact version with visible breadcrumbs. Extra content (finder,
+ * trust row) goes in the default slot under the buttons.
+ */
+import Icon from './Icon.astro';
+import Img from './Img.astro';
+import { business, tel } from '../lib/site';
+
+export interface Crumb { name: string; path: string; }
+interface Props {
+  eyebrow?: string;
+  h1: string;
+  sub?: string;
+  image: string;
+  imageAlt: string;
+  crumbs?: Crumb[];
+  home?: boolean;
+}
+const { eyebrow, h1, sub, image, imageAlt, crumbs = [], home = false } = Astro.props;
+---
+<section class:list={['hero', { 'page-hero': !home }]}>
+  <div class="hero-media"><Img name={image} alt={imageAlt} eager sizes="100vw" /></div>
+  <div class="container">
+    {!home && crumbs.length > 0 && (
+      <nav class="breadcrumbs" aria-label="Breadcrumb">
+        {crumbs.map((c, i) =>
+          i < crumbs.length - 1 ? (
+            <><a href={c.path}>{c.name}</a><span class="sep" aria-hidden="true">&rsaquo;</span></>
+          ) : (
+            <span aria-current="page">{c.name}</span>
+          ),
+        )}
+      </nav>
+    )}
+    <div class="hero-inner">
+      {eyebrow && <span class="eyebrow">{eyebrow}</span>}
+      <h1>{h1}</h1>
+      {sub && <p class="hero-sub">{sub}</p>}
+      <div class="btn-row">
+        <a href={tel} class="btn btn-red"><Icon name="phone" size={18} /> Call {business.phone}</a>
+        <a href="#request" data-popup="book" class="btn btn-outline">Request Service Online</a>
+      </div>
+      <slot />
+    </div>
+  </div>
+</section>

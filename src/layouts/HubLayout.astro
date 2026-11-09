@@ -1,0 +1,39 @@
+---
+/**
+ * Service hub (/plumbing/ and /commercial/). Copy: src/content/pages/plumbing.json
+ * and src/content/pages/commercial.json.
+ */
+import BaseLayout from './BaseLayout.astro';
+import { PageHero, TrustStrip, ServiceCard, Reviews, Faq, CtaBand, LinkTile } from '../components/sections';
+import { url, img, imgAlt, getPage, getServices, getCommercial } from '../lib/site';
+
+interface Props { kind: 'services' | 'commercial'; }
+const { kind } = Astro.props;
+const pageId = kind === 'services' ? 'plumbing' : 'commercial';
+const [p, services, commercial] = await Promise.all([getPage(pageId), getServices(), getCommercial()]);
+const list = kind === 'services' ? services : commercial;
+const other = kind === 'services' ? commercial : services;
+const href = kind === 'services' ? url.service : url.commercial;
+const otherHref = kind === 'services' ? url.commercial : url.service;
+const heroKey = kind === 'services' ? 'page-hero' : 'home-commercial';
+const imageKey = kind === 'services' ? img.service : img.commercial;
+const crumbs = [{ name: 'Home', path: '/' }, { name: p.crumb, path: `/${pageId}/` }];
+---
+<BaseLayout title={p.seoTitle} description={p.metaDescription} crumbs={crumbs} faqs={p.faqs}>
+  <PageHero eyebrow={p.hero.eyebrow} h1={p.hero.h1} sub={p.hero.sub} image={heroKey} imageAlt={imgAlt(heroKey)} crumbs={crumbs} />
+  <TrustStrip />
+
+  <section class="section"><div class="container">
+    <div class="section-head left" style="max-width:900px">{p.intro.map((t: string) => <p>{t}</p>)}</div>
+    <div class="grid-3">{list.map((s) => <ServiceCard href={href(s.slug)} title={s.title} text={s.cardText} image={imageKey(s.slug)} alt={s.imageAlt} />)}</div>
+  </div></section>
+
+  <section class="section section-soft"><div class="container">
+    <div class="section-head"><span class="eyebrow">{p.cross.eyebrow}</span><h2>{p.cross.heading}</h2><p class="lead">{p.cross.lead}</p></div>
+    <div class="link-grid">{other.map((s) => <LinkTile href={otherHref(s.slug)} label={s.title} />)}</div>
+  </div></section>
+
+  <Reviews offset={kind === 'services' ? 0 : 2} />
+  <Faq heading={p.faqHeading} items={p.faqs} />
+  <CtaBand heading={p.ctaHeading} />
+</BaseLayout>

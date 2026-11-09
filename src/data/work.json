@@ -1,0 +1,17 @@
+{
+  "_readme": "Job photo gallery. Each image key must exist in src/data/images.json. Replace captions when real photos go in.",
+  "items": [
+    { "image": "work-01", "caption": "Tankless water heater mounted with new gas and water lines", "tags": ["water-heater"] },
+    { "image": "work-02", "caption": "Main building drain cleared with a sectional drum machine", "tags": ["drain"] },
+    { "image": "work-03", "caption": "Sewer camera view showing roots at a clay pipe joint", "tags": ["sewer"] },
+    { "image": "work-04", "caption": "New copper supply manifold with labeled shutoffs", "tags": ["repipe"] },
+    { "image": "work-05", "caption": "Sump pump replacement with check valve and battery backup", "tags": ["home"] },
+    { "image": "work-06", "caption": "50 gallon gas water heater swap in a tight basement", "tags": ["water-heater"] },
+    { "image": "work-07", "caption": "Split supply line repaired after a winter freeze", "tags": ["emergency"] },
+    { "image": "work-08", "caption": "Restaurant grease trap pumped and baffles inspected", "tags": ["commercial"] },
+    { "image": "work-09", "caption": "Kitchen faucet and garbage disposal installed together", "tags": ["home"] },
+    { "image": "work-10", "caption": "PEX repipe run through an unfinished basement ceiling", "tags": ["repipe"] },
+    { "image": "work-11", "caption": "Hydro jetting a commercial kitchen line after close", "tags": ["commercial", "drain"] },
+    { "image": "work-12", "caption": "Excavated sewer lateral with a new section ready to connect", "tags": ["sewer"] }
+  ]
+}

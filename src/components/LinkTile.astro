@@ -1,0 +1,11 @@
+---
+/** Tile link. With `small`, the note sits on the right instead of the arrow. */
+import Icon from './Icon.astro';
+interface Props { href?: string; label: string; small?: string; }
+const { href, label, small } = Astro.props;
+---
+{href ? (
+  <a class="link-tile" href={href}>{label}{small ? <small>{small}</small> : <Icon name="arrow" size={16} />}</a>
+) : (
+  <span class="link-tile">{label}{small && <small>{small}</small>}</span>
+)}

@@ -1,0 +1,48 @@
+{
+  "name": "Colonie",
+  "order": 9,
+  "county": "Albany",
+  "region": "capital-region",
+  "zips": ["12205", "12211", "12110", "12047"],
+  "neighborhoods": ["Loudonville", "Village of Colonie", "Maplewood", "Roessleville", "Stanford Heights", "West Albany", "Verdoy"],
+  "nearby": ["albany-ny", "latham-ny", "niskayuna-ny", "guilderland-ny", "schenectady-ny", "troy-ny"],
+  "geo": { "lat": 42.7179, "lng": -73.8335 },
+  "seoTitle": "Plumber in Colonie, NY | 24/7 Home and Business | {shortName}",
+  "metaDescription": "Colonie, NY plumber for Loudonville homes, postwar neighborhoods and Wolf Road businesses. Sewer lines, leaks, drains, water heaters. 24/7. Call {phone}.",
+  "imageAlt": "Shingled house with a long covered porch beside tall trees",
+  "hero": {
+    "eyebrow": "Albany County plumber",
+    "h1": "Plumber in Colonie, NY",
+    "sub": "Colonie covers Loudonville estates, postwar streets in Roessleville and the busy Wolf Road corridor. We know the town well, answer any hour and price each job before we begin."
+  },
+  "intro": "{name} serves homes and businesses across the Town of Colonie, from Loudonville to Stanford Heights and the Village of Colonie. Colonie borders {city}, so our technicians are often minutes away. We handle sewer and drain work, hidden leaks, water heaters and commercial calls along Wolf Road and Central Avenue.",
+  "popular": ["sewer-line-repair", "drain-cleaning", "leak-detection", "water-heater-replacement", "sewer-camera-inspection", "emergency-plumbing"],
+  "problems": [
+    { "title": "Sagging sewer lines in sandy soil", "text": "Parts of Colonie sit on the sandy ground of the Pine Bush. Over time, sewer lines can settle and form low spots where waste collects. Repeat clogs in the same place are the clue.", "service": "sewer-line-repair" },
+    { "title": "Long water service runs in Loudonville", "text": "Large lots set the house far from the street, so the water line runs a long way underground. A leak out in the yard can raise your bill long before you see wet grass.", "service": "leak-detection" },
+    { "title": "Water heaters boxed into finished basements", "text": "Many homes have finished basements built around the water heater closet. When the tank fails, it can soak carpet and drywall. Planning a replacement before that day saves the room.", "service": "water-heater-replacement" },
+    { "title": "Drain backups in retail and dining", "text": "Restaurants, shops and offices along Wolf Road and Central Avenue move a lot of water through their drains each day. Scheduled cleaning prevents backups during the busiest hours.", "service": "commercial-drain-cleaning" }
+  ],
+  "housing": {
+    "heading": "Homes Across the Town of Colonie",
+    "paragraphs": [
+      "Loudonville has some of the area's oldest suburban homes, from 1920s colonials and Tudors to midcentury houses on wooded lots. They often have long sewer and water lines, original cast iron and plenty of large trees near the pipes. We locate lines carefully before suggesting any digging.",
+      "Roessleville, Maplewood, Stanford Heights and West Albany are mostly postwar capes, ranches and split levels, many now on their second or third owner. Newer subdivisions toward Verdoy and the north end add larger homes with more bathrooms. Each era needs a slightly different approach."
+    ]
+  },
+  "howWeWork": {
+    "heading": "Close By and Ready to Help",
+    "paragraphs": [
+      "Colonie is right next door to our shop, so most calls get a technician quickly. We answer {hours} and carry common parts on every truck to finish the job in one visit whenever possible.",
+      "We give you an upfront price before work begins. When we are done, we clean the work area, test the repair and explain any other issues we noticed so you can plan ahead."
+    ]
+  },
+  "faqs": [
+    { "q": "How fast can you get to Colonie?", "a": "Colonie borders {city}, so it is one of our quickest service areas. Emergencies are handled first, and many routine calls can be booked the same day or the next morning, depending on the schedule." },
+    { "q": "What causes the same drain to clog over and over?", "a": "A repeat clog in the same spot often means a belly, crack or root intrusion in the line. Clearing it only buys time. A camera inspection shows the cause so we can fix it properly." },
+    { "q": "How do I know if my water line is leaking in the yard?", "a": "Watch for a rising water bill, a meter that moves when everything is off or a soft green patch in the lawn. We can test the line and pinpoint the leak before any digging." },
+    { "q": "Can you replace a water heater in a finished basement without damage?", "a": "Yes. We protect floors and walls, remove the old tank carefully and can add a drain pan or leak sensor so a future failure does not ruin the finished room." },
+    { "q": "Do you offer scheduled drain service for businesses?", "a": "We do. We set up regular drain cleaning for restaurants, stores and offices along Wolf Road and Central Avenue, timed around your opening hours so it does not interrupt your business or customers." }
+  ],
+  "ctaHeading": "Colonie Plumber, 24/7"
+}

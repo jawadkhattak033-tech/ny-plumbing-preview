@@ -1,0 +1,74 @@
+{
+  "title": "Water Heater Replacement",
+  "order": 8,
+  "seoTitle": "Water Heater Replacement in {state} | {shortName} Plumbing",
+  "metaDescription": "Leaking or worn out tank? {shortName} removes the old water heater, installs a properly sized new one and hauls the old unit away. Upfront price. Call {phone}.",
+  "imageAlt": "Vintage copper water heater tank mounted on a wall",
+  "cardText": "Gas and electric tank water heaters sized for your household, installed to code, and the old tank hauled away the same day.",
+  "hero": {
+    "eyebrow": "Water heater replacement",
+    "h1": "Water Heater Replacement in {state}",
+    "sub": "When the tank is leaking or the heater has reached the end of its life, we help you choose the right size and fuel, install it cleanly and take the old one with us."
+  },
+  "quickAnswer": "Call {name} at {phone}. We confirm the size and fuel type you need, give you a firm installed price, and in many cases replace the heater the same day or next. Removal of the old tank and cleanup are part of the job.",
+  "intro": [
+    "Tank water heaters do not last forever. Over years, the steel tank corrodes from the inside, and once it starts leaking at the seams there is no repair. Many homeowners find out when they see a puddle on the basement floor or a sudden rush of cold water in the shower.",
+    "Replacing a heater is a good moment to ask whether the old one ever fit your household. A family that has grown, a new soaking tub or a second bathroom may call for a larger tank or a faster recovery model. A smaller household might be fine with less. We walk through that before you choose.",
+    "Installation is more than swapping one tank for another. Venting, gas lines, expansion tanks, relief valve piping and drain pans all have to meet current code. We bring those pieces up to standard so the new heater runs safely for years. Many older setups were installed before some of these rules existed, so a few upgrades are common."
+  ],
+  "signs": {
+    "heading": "Signs It Is Time for a New Water Heater",
+    "items": [
+      "Water is leaking from the tank body or pooling around the base.",
+      "Your heater is past the typical lifespan printed on its label or manual.",
+      "Rusty water comes from hot taps but not cold ones.",
+      "Repairs are adding up and the same problems keep returning.",
+      "Hot water no longer keeps up with your household's daily routine.",
+      "Rust or corrosion is visible on the tank jacket or fittings."
+    ]
+  },
+  "covers": {
+    "heading": "What Our Water Heater Replacement Covers",
+    "items": [
+      "Sizing advice based on your household and fixtures",
+      "Gas, electric and power vented tank installations",
+      "Draining, disconnecting and hauling away the old tank",
+      "New shutoff valves, connectors and relief valve piping",
+      "Expansion tank and drain pan where needed",
+      "Venting and gas line checks to meet current code"
+    ]
+  },
+  "bookLabel": "Schedule a Replacement",
+  "process": {
+    "heading": "How We Replace a Water Heater",
+    "steps": [
+      { "title": "Size and Quote", "text": "We look at your current heater, venting and space, ask how your household uses hot water, and give you a firm installed price." },
+      { "title": "Remove the Old Unit", "text": "We shut off fuel and water, drain the old tank, disconnect it and carry it out without dragging it across your floors." },
+      { "title": "Install to Code", "text": "The new heater is set level, connected with new fittings and valves, and vented properly. We add an expansion tank or pan if needed." },
+      { "title": "Fire Up and Explain", "text": "We fill and start the heater, check for leaks and proper draft, set the temperature and show you the shutoffs." }
+    ]
+  },
+  "local": {
+    "heading": "Water Heater Replacement in {state} Homes",
+    "paragraphs": [
+      "Many older homes across the state have water heaters tucked into tight basement corners, under stairs or in closets that were sized for smaller tanks. Current models are often a bit taller or wider because of added insulation, so we measure the space before you choose and plan around tight doorways.",
+      "Older chimneys can also be an issue. When a furnace is upgraded to a high efficiency model that vents through the wall, the water heater may be left alone in an oversized chimney that does not draft well. We check for that and suggest a power vent or liner where it makes sense."
+    ]
+  },
+  "cost": {
+    "heading": "What Drives the Cost of Water Heater Replacement",
+    "paragraphs": [
+      "Tank size, fuel type and venting style set most of the price. A standard atmospheric gas tank is simpler to install than a power vented model. Code updates such as a new expansion tank, gas sediment trap or relief valve line add to the job. Tight access, stairs and permit requirements matter too.",
+      "You get one firm installed price before any work begins, including haul away and cleanup."
+    ]
+  },
+  "faqs": [
+    { "q": "How long does a water heater replacement take?", "a": "A straight swap of a similar tank usually takes a few hours. Switching fuel types, moving the location or upgrading venting can take longer. Once the new tank is filled and running, it needs some time to heat a full tank of water." },
+    { "q": "What size water heater do I need?", "a": "It depends on how many people live in the home, how many bathrooms you have and whether you have large tubs or run several showers at once. We ask about your routine and look at your current heater to recommend a size that will keep up without wasting energy." },
+    { "q": "Should I switch to a tankless water heater?", "a": "It can make sense if you want endless hot water, have limited space or plan to stay in the home for many years. It is a bigger installation because of gas line and venting needs. We can price both options so you can compare." },
+    { "q": "Do you remove the old water heater?", "a": "Yes. Draining, disconnecting and hauling away the old tank is part of every replacement. We also clean up the work area, so all you see when we leave is the new heater." },
+    { "q": "Do I need a permit to replace a water heater?", "a": "Many New York municipalities require a permit for water heater replacement, especially for gas units. Requirements vary by town. We know the local rules where we work and handle the permit when one is needed." }
+  ],
+  "related": ["water-heater-repair", "tankless-water-heaters", "emergency-plumbing"],
+  "ctaHeading": "Ready for a new water heater?"
+}

@@ -1,0 +1,74 @@
+{
+  "title": "Faucet and Sink Repair",
+  "order": 15,
+  "seoTitle": "Faucet and Sink Repair in {state} | {shortName} Plumbing",
+  "metaDescription": "Dripping faucet, leaky sink trap or weak spray? {shortName} repairs and installs kitchen and bath faucets and sinks with a firm price first. Call {phone}.",
+  "imageAlt": "White kitchen sink with a black gooseneck faucet under a window",
+  "cardText": "Dripping faucets, leaking traps and loose sinks repaired, or new kitchen and bathroom faucets installed and leak checked.",
+  "hero": {
+    "eyebrow": "Kitchen and bathroom fixtures",
+    "h1": "Faucet and Sink Repair in {state}",
+    "sub": "A faucet that drips all night, a puddle under the sink cabinet or a sprayer with barely any pressure? We repair the worn parts or install a new fixture, then check every connection for leaks."
+  },
+  "quickAnswer": "Call {name} at {phone} to book a visit. We repair cartridges, valves, traps and supply lines, or install a new faucet or sink you have chosen. You get a firm price before we start, and we test for leaks before we close the cabinet.",
+  "intro": [
+    "A dripping faucet is easy to ignore, but it wastes water every hour and usually gets worse. Most drips come from a worn cartridge, washer or O ring inside the handle. Under the sink, leaks tend to come from a loose slip nut on the trap, a cracked supply line or a failing seal where the drain meets the sink.",
+    "We identify the faucet brand and style first, because many use their own cartridges. If we can rebuild it, we will. If parts are no longer available or the body is corroded, we will show you why a new faucet is the better spend and install it with fresh supply lines.",
+    "We also handle sink work: resealing a loose undermount, replacing a cracked drain basket or installing a new vanity sink. Everything gets a full water test before we leave. If your sink is part of a larger kitchen or bath update, we can set the plumbing so the new fixtures line up with the counter and cabinets."
+  ],
+  "signs": {
+    "heading": "Signs Your Faucet or Sink Needs Repair",
+    "items": [
+      "A faucet drips or runs after the handle is fully closed.",
+      "Water pools in the sink cabinet or the base is warped or stained.",
+      "The handle is stiff, loose or hard to set at the right temperature.",
+      "Spray or flow is weak at one faucet but fine elsewhere.",
+      "Water leaks around the base of the faucet when it runs.",
+      "The sink has pulled away from the counter or the caulk line is gapped."
+    ]
+  },
+  "covers": {
+    "heading": "What Our Faucet and Sink Service Covers",
+    "items": [
+      "Cartridge, washer and O ring replacement",
+      "Kitchen, bathroom, tub and laundry faucet repair",
+      "New faucet and pull down sprayer installation",
+      "P trap, drain basket and pop up repair",
+      "Supply line and shutoff valve replacement",
+      "Sink installation, resetting and resealing"
+    ]
+  },
+  "bookLabel": "Book Faucet and Sink Repair",
+  "process": {
+    "heading": "How We Repair a Faucet or Sink",
+    "steps": [
+      { "title": "Identify the Fixture", "text": "We check the brand, model and age of the faucet and look under the sink at the valves, supply lines and drain parts." },
+      { "title": "Find the Leak", "text": "We run water and watch each joint, handle and seal to see exactly where the drip or leak is coming from." },
+      { "title": "Rebuild or Replace", "text": "Worn parts are replaced with matching ones. If the fixture is past saving, we install the new one you choose with new supply lines." },
+      { "title": "Test Everything", "text": "Hot and cold run at full flow, the drain fills and empties, and we dry the cabinet so any new drip would be easy to spot." }
+    ]
+  },
+  "local": {
+    "heading": "Faucet and Sink Issues in {state} Homes",
+    "paragraphs": [
+      "In much of the state, mineral content in the water leaves scale inside faucet cartridges and aerators. That scale wears seals and clogs the screen, which explains many cases of weak flow and stiff handles. Homes on wells often see it sooner than homes on city water.",
+      "Older homes also bring their own challenges. Shutoff valves under sinks may be decades old and seize or leak when turned, and some have no shutoffs at all. We check them as part of every faucet job and replace them when needed, so the next repair is easier."
+    ]
+  },
+  "cost": {
+    "heading": "What Drives the Cost of Faucet and Sink Repair",
+    "paragraphs": [
+      "Rebuilding a faucet with common parts is usually the quickest job. Older or less common brands can take longer to source parts for. Replacing a faucet depends on the model you choose and how tight the space is under the sink. Seized shutoffs, corroded supply lines or a sink that needs resetting add time and materials.",
+      "Before we start, you get a clear price. If we find a stuck valve once we are under the sink, we explain it and price it before we go ahead."
+    ]
+  },
+  "faqs": [
+    { "q": "Is it worth fixing a dripping faucet?", "a": "Yes. A steady drip wastes far more water over a year than most people expect, and the worn part causing it usually gets worse. Many drips are fixed with a single cartridge or washer, which is a short visit." },
+    { "q": "Can you install a faucet I bought myself?", "a": "Yes. Have it on hand when we arrive and we will install it with new supply lines. We check that it fits your sink holes and counter thickness before we remove the old one." },
+    { "q": "Why is water pressure weak at only one faucet?", "a": "It is usually a clogged aerator or cartridge, often from mineral scale or debris after work on the water line. Cleaning or replacing those parts usually brings flow back. If it does not, we check the supply line and valve feeding that fixture." },
+    { "q": "What causes water under my kitchen sink?", "a": "Common sources are a loose trap nut, a cracked supply line, a leaking faucet base, a dishwasher connection or the garbage disposal. We dry everything, run the water and watch each joint to find the exact one leaking." },
+    { "q": "Do you replace shutoff valves under the sink?", "a": "Yes. Old valves often stick or leak when you try to close them. Replacing them gives you a reliable way to shut off water at that sink in an emergency, and we often recommend it during a faucet replacement." }
+  ],
+  "related": ["garbage-disposals", "drain-cleaning", "toilet-repair"],
+  "ctaHeading": "Faucet dripping or sink leaking?"
+}

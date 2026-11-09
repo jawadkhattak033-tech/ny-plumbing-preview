@@ -1,0 +1,33 @@
+---
+/** /careers/. Copy: src/content/pages/careers.json */
+import BaseLayout from './BaseLayout.astro';
+import { PageHero, Faq, CtaBand, LeadForm } from '../components/sections';
+import { getPage, imgAlt } from '../lib/site';
+
+const p = await getPage('careers');
+const crumbs = [{ name: 'Home', path: '/' }, { name: 'Careers', path: '/careers/' }];
+---
+<BaseLayout title={p.seoTitle} description={p.metaDescription} crumbs={crumbs} faqs={p.faqs}>
+  <PageHero eyebrow={p.hero.eyebrow} h1={p.hero.h1} sub={p.hero.sub} image="careers-crew" imageAlt={imgAlt('careers-crew')} crumbs={crumbs} />
+
+  <section class="section"><div class="container grid-2 top">
+    <div class="prose">
+      <h2>{p.heading}</h2>
+      {p.intro.map((t: string) => <p>{t}</p>)}
+      {p.blocks.map((b: any) => (
+        <>
+          <h3>{b.heading}</h3>
+          {b.items ? <ul class="check-list">{b.items.map((i: string) => <li>{i}</li>)}</ul> : b.paragraphs.map((t: string) => <p>{t}</p>)}
+        </>
+      ))}
+    </div>
+    <div class="form-card">
+      <h2>{p.formHeading}</h2>
+      <p>{p.formText}</p>
+      <LeadForm id="careers" formName="careers" careers submitLabel="Send My Info" />
+    </div>
+  </div></section>
+
+  <Faq heading={p.faqHeading} items={p.faqs} />
+  <CtaBand heading={p.ctaHeading} text={p.ctaText} />
+</BaseLayout>

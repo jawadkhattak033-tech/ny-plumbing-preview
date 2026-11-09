@@ -1,0 +1,847 @@
+{
+  "hero-home": {
+    "w": 1920,
+    "h": 1080,
+    "widths": [
+      480,
+      800,
+      1200,
+      1920
+    ],
+    "sig": "photo:1794245889612.906"
+  },
+  "home-intro": {
+    "w": 1920,
+    "h": 1440,
+    "widths": [
+      480,
+      800,
+      1200,
+      1920
+    ],
+    "sig": "ph:Plumber checking pipes under a kitchen sink:4x3:std:v4"
+  },
+  "home-commercial": {
+    "w": 1920,
+    "h": 1440,
+    "widths": [
+      480,
+      800,
+      1200,
+      1920
+    ],
+    "sig": "photo:1794245889732.484"
+  },
+  "page-hero": {
+    "w": 1920,
+    "h": 1080,
+    "widths": [
+      480,
+      800,
+      1200,
+      1920
+    ],
+    "sig": "photo:1794245889670.4333"
+  },
+  "about-team": {
+    "w": 1920,
+    "h": 1440,
+    "widths": [
+      480,
+      800,
+      1200,
+      1920
+    ],
+    "sig": "ph:The team in front of the shop:4x3:std:v4"
+  },
+  "owner": {
+    "w": 1200,
+    "h": 1500,
+    "widths": [
+      480,
+      800,
+      1200
+    ],
+    "sig": "ph:Owner portrait:4x5:std:v4"
+  },
+  "contact-shop": {
+    "w": 1920,
+    "h": 1440,
+    "widths": [
+      480,
+      800,
+      1200,
+      1920
+    ],
+    "sig": "ph:Shop front and service vans:4x3:std:v4"
+  },
+  "careers-crew": {
+    "w": 1920,
+    "h": 1440,
+    "widths": [
+      480,
+      800,
+      1200,
+      1920
+    ],
+    "sig": "ph:Technicians loading the truck:4x3:std:v4"
+  },
+  "work-01": {
+    "w": 1200,
+    "h": 1600,
+    "widths": [
+      480,
+      800,
+      1200
+    ],
+    "sig": "ph:Job photo: tankless water heater install:3x4:std:v4"
+  },
+  "work-02": {
+    "w": 1200,
+    "h": 1600,
+    "widths": [
+      480,
+      800,
+      1200
+    ],
+    "sig": "ph:Job photo: main line cleared with a drum machine:3x4:std:v4"
+  },
+  "work-03": {
+    "w": 1200,
+    "h": 1600,
+    "widths": [
+      480,
+      800,
+      1200
+    ],
+    "sig": "ph:Job photo: sewer camera monitor view:3x4:std:v4"
+  },
+  "work-04": {
+    "w": 1200,
+    "h": 1600,
+    "widths": [
+      480,
+      800,
+      1200
+    ],
+    "sig": "ph:Job photo: new copper manifold:3x4:std:v4"
+  },
+  "work-05": {
+    "w": 1200,
+    "h": 1600,
+    "widths": [
+      480,
+      800,
+      1200
+    ],
+    "sig": "ph:Job photo: sump pump replacement:3x4:std:v4"
+  },
+  "work-06": {
+    "w": 1200,
+    "h": 1600,
+    "widths": [
+      480,
+      800,
+      1200
+    ],
+    "sig": "ph:Job photo: 50 gallon water heater swap:3x4:std:v4"
+  },
+  "work-07": {
+    "w": 1200,
+    "h": 1600,
+    "widths": [
+      480,
+      800,
+      1200
+    ],
+    "sig": "ph:Job photo: frozen pipe repair in a crawl space:3x4:std:v4"
+  },
+  "work-08": {
+    "w": 1200,
+    "h": 1600,
+    "widths": [
+      480,
+      800,
+      1200
+    ],
+    "sig": "ph:Job photo: grease trap pump out:3x4:std:v4"
+  },
+  "work-09": {
+    "w": 1200,
+    "h": 1600,
+    "widths": [
+      480,
+      800,
+      1200
+    ],
+    "sig": "ph:Job photo: kitchen faucet and disposal:3x4:std:v4"
+  },
+  "work-10": {
+    "w": 1200,
+    "h": 1600,
+    "widths": [
+      480,
+      800,
+      1200
+    ],
+    "sig": "ph:Job photo: PEX repipe in an unfinished basement:3x4:std:v4"
+  },
+  "work-11": {
+    "w": 1200,
+    "h": 1600,
+    "widths": [
+      480,
+      800,
+      1200
+    ],
+    "sig": "ph:Job photo: hydro jetting a restaurant line:3x4:std:v4"
+  },
+  "work-12": {
+    "w": 1200,
+    "h": 1600,
+    "widths": [
+      480,
+      800,
+      1200
+    ],
+    "sig": "ph:Job photo: excavated sewer lateral repair:3x4:std:v4"
+  },
+  "service-burst-pipe-repair": {
+    "w": 1920,
+    "h": 1200,
+    "widths": [
+      480,
+      800,
+      1200,
+      1920
+    ],
+    "sig": "photo:1794245889904.9006"
+  },
+  "service-drain-cleaning": {
+    "w": 1920,
+    "h": 1200,
+    "widths": [
+      480,
+      800,
+      1200,
+      1920
+    ],
+    "sig": "photo:1794245889974.599"
+  },
+  "service-emergency-plumbing": {
+    "w": 1920,
+    "h": 1200,
+    "widths": [
+      480,
+      800,
+      1200,
+      1920
+    ],
+    "sig": "photo:1794245890048.5886"
+  },
+  "service-faucet-and-sink-repair": {
+    "w": 1920,
+    "h": 1200,
+    "widths": [
+      480,
+      800,
+      1200,
+      1920
+    ],
+    "sig": "photo:1794245890107.0337"
+  },
+  "service-frozen-pipe-repair": {
+    "w": 1920,
+    "h": 1200,
+    "widths": [
+      480,
+      800,
+      1200,
+      1920
+    ],
+    "sig": "photo:1794245890170.2876"
+  },
+  "service-garbage-disposals": {
+    "w": 1920,
+    "h": 1200,
+    "widths": [
+      480,
+      800,
+      1200,
+      1920
+    ],
+    "sig": "photo:1794245895482.7"
+  },
+  "service-hydro-jetting": {
+    "w": 1920,
+    "h": 1200,
+    "widths": [
+      480,
+      800,
+      1200,
+      1920
+    ],
+    "sig": "photo:1794245890426.358"
+  },
+  "service-leak-detection": {
+    "w": 1920,
+    "h": 1200,
+    "widths": [
+      480,
+      800,
+      1200,
+      1920
+    ],
+    "sig": "photo:1794245890483.3718"
+  },
+  "service-repiping": {
+    "w": 1920,
+    "h": 1200,
+    "widths": [
+      480,
+      800,
+      1200,
+      1920
+    ],
+    "sig": "photo:1794245890647.6687"
+  },
+  "service-sewer-camera-inspection": {
+    "w": 1920,
+    "h": 1200,
+    "widths": [
+      480,
+      800,
+      1200,
+      1920
+    ],
+    "sig": "photo:1794245890767.8777"
+  },
+  "service-sewer-line-repair": {
+    "w": 1920,
+    "h": 1200,
+    "widths": [
+      480,
+      800,
+      1200,
+      1920
+    ],
+    "sig": "photo:1794245890837.6123"
+  },
+  "service-sump-pumps": {
+    "w": 1920,
+    "h": 1200,
+    "widths": [
+      480,
+      800,
+      1200,
+      1920
+    ],
+    "sig": "photo:1794245890898.127"
+  },
+  "service-tankless-water-heaters": {
+    "w": 1920,
+    "h": 1200,
+    "widths": [
+      480,
+      800,
+      1200,
+      1920
+    ],
+    "sig": "photo:1794245890952.9614"
+  },
+  "service-toilet-repair": {
+    "w": 1920,
+    "h": 1200,
+    "widths": [
+      480,
+      800,
+      1200,
+      1920
+    ],
+    "sig": "photo:1794245891015.7397"
+  },
+  "service-trenchless-sewer-replacement": {
+    "w": 1920,
+    "h": 1200,
+    "widths": [
+      480,
+      800,
+      1200,
+      1920
+    ],
+    "sig": "photo:1794245891083.4128"
+  },
+  "service-water-heater-repair": {
+    "w": 1920,
+    "h": 1200,
+    "widths": [
+      480,
+      800,
+      1200,
+      1920
+    ],
+    "sig": "photo:1794245891203.1355"
+  },
+  "service-water-heater-replacement": {
+    "w": 1920,
+    "h": 1200,
+    "widths": [
+      480,
+      800,
+      1200,
+      1920
+    ],
+    "sig": "photo:1794245891318.904"
+  },
+  "service-water-softener-installation": {
+    "w": 1920,
+    "h": 1200,
+    "widths": [
+      480,
+      800,
+      1200,
+      1920
+    ],
+    "sig": "photo:1794245891479.8655"
+  },
+  "commercial-commercial-drain-cleaning": {
+    "w": 1920,
+    "h": 1200,
+    "widths": [
+      480,
+      800,
+      1200,
+      1920
+    ],
+    "sig": "photo:1794245891545.1262"
+  },
+  "commercial-commercial-plumbing": {
+    "w": 1920,
+    "h": 1200,
+    "widths": [
+      480,
+      800,
+      1200,
+      1920
+    ],
+    "sig": "photo:1794245891672.3374"
+  },
+  "commercial-grease-trap-cleaning": {
+    "w": 1920,
+    "h": 1200,
+    "widths": [
+      480,
+      800,
+      1200,
+      1920
+    ],
+    "sig": "photo:1794245891730.1462"
+  },
+  "commercial-multifamily-apartment-plumbing": {
+    "w": 1920,
+    "h": 1200,
+    "widths": [
+      480,
+      800,
+      1200,
+      1920
+    ],
+    "sig": "photo:1794245891792.8608"
+  },
+  "commercial-office-retail-plumbing": {
+    "w": 1920,
+    "h": 1200,
+    "widths": [
+      480,
+      800,
+      1200,
+      1920
+    ],
+    "sig": "photo:1794245891847.042"
+  },
+  "commercial-preventive-drain-maintenance": {
+    "w": 1920,
+    "h": 1200,
+    "widths": [
+      480,
+      800,
+      1200,
+      1920
+    ],
+    "sig": "photo:1794245891901.9421"
+  },
+  "commercial-property-management-plumbing": {
+    "w": 1920,
+    "h": 1200,
+    "widths": [
+      480,
+      800,
+      1200,
+      1920
+    ],
+    "sig": "photo:1794245892027.8433"
+  },
+  "commercial-restaurant-plumbing": {
+    "w": 1920,
+    "h": 1200,
+    "widths": [
+      480,
+      800,
+      1200,
+      1920
+    ],
+    "sig": "photo:1794245892085.972"
+  },
+  "region-capital-region": {
+    "w": 1920,
+    "h": 1200,
+    "widths": [
+      480,
+      800,
+      1200,
+      1920
+    ],
+    "sig": "photo:1794245892156.8855"
+  },
+  "region-central-new-york": {
+    "w": 1920,
+    "h": 1200,
+    "widths": [
+      480,
+      800,
+      1200,
+      1920
+    ],
+    "sig": "photo:1794245892218.1836"
+  },
+  "region-finger-lakes": {
+    "w": 1920,
+    "h": 1200,
+    "widths": [
+      480,
+      800,
+      1200,
+      1920
+    ],
+    "sig": "photo:1794245894967.4734"
+  },
+  "region-long-island": {
+    "w": 1920,
+    "h": 1200,
+    "widths": [
+      480,
+      800,
+      1200,
+      1920
+    ],
+    "sig": "photo:1794245892446.974"
+  },
+  "region-mid-hudson": {
+    "w": 1920,
+    "h": 1200,
+    "widths": [
+      480,
+      800,
+      1200,
+      1920
+    ],
+    "sig": "photo:1794245892520.9033"
+  },
+  "region-mohawk-valley": {
+    "w": 1920,
+    "h": 1200,
+    "widths": [
+      480,
+      800,
+      1200,
+      1920
+    ],
+    "sig": "photo:1794245892580.5923"
+  },
+  "region-new-york-city": {
+    "w": 1920,
+    "h": 1200,
+    "widths": [
+      480,
+      800,
+      1200,
+      1920
+    ],
+    "sig": "photo:1794245892645.4739"
+  },
+  "region-north-country": {
+    "w": 1920,
+    "h": 1200,
+    "widths": [
+      480,
+      800,
+      1200,
+      1920
+    ],
+    "sig": "photo:1794245892712.1145"
+  },
+  "region-southern-tier": {
+    "w": 1920,
+    "h": 1200,
+    "widths": [
+      480,
+      800,
+      1200,
+      1920
+    ],
+    "sig": "photo:1794245892783.3894"
+  },
+  "region-western-new-york": {
+    "w": 1920,
+    "h": 1200,
+    "widths": [
+      480,
+      800,
+      1200,
+      1920
+    ],
+    "sig": "photo:1794245892852.43"
+  },
+  "town-albany-ny": {
+    "w": 1920,
+    "h": 1200,
+    "widths": [
+      480,
+      800,
+      1200,
+      1920
+    ],
+    "sig": "photo:1794245892921.972"
+  },
+  "town-ballston-spa-ny": {
+    "w": 1920,
+    "h": 1200,
+    "widths": [
+      480,
+      800,
+      1200,
+      1920
+    ],
+    "sig": "photo:1794245895077.7317"
+  },
+  "town-catskill-ny": {
+    "w": 1920,
+    "h": 1200,
+    "widths": [
+      480,
+      800,
+      1200,
+      1920
+    ],
+    "sig": "photo:1794245893179.2388"
+  },
+  "town-clifton-park-ny": {
+    "w": 1920,
+    "h": 1200,
+    "widths": [
+      480,
+      800,
+      1200,
+      1920
+    ],
+    "sig": "photo:1794245893250.0999"
+  },
+  "town-colonie-ny": {
+    "w": 1920,
+    "h": 1200,
+    "widths": [
+      480,
+      800,
+      1200,
+      1920
+    ],
+    "sig": "photo:1794245893320.4453"
+  },
+  "town-delmar-ny": {
+    "w": 1920,
+    "h": 1200,
+    "widths": [
+      480,
+      800,
+      1200,
+      1920
+    ],
+    "sig": "photo:1794245893402.216"
+  },
+  "town-easton-ny": {
+    "w": 1920,
+    "h": 1200,
+    "widths": [
+      480,
+      800,
+      1200,
+      1920
+    ],
+    "sig": "photo:1794245893466.3352"
+  },
+  "town-glens-falls-ny": {
+    "w": 1920,
+    "h": 1200,
+    "widths": [
+      480,
+      800,
+      1200,
+      1920
+    ],
+    "sig": "photo:1794245893532.4282"
+  },
+  "town-guilderland-ny": {
+    "w": 1920,
+    "h": 1200,
+    "widths": [
+      480,
+      800,
+      1200,
+      1920
+    ],
+    "sig": "photo:1794245895187.7566"
+  },
+  "town-halfmoon-ny": {
+    "w": 1920,
+    "h": 1200,
+    "widths": [
+      480,
+      800,
+      1200,
+      1920
+    ],
+    "sig": "photo:1794245893782.1462"
+  },
+  "town-hudson-ny": {
+    "w": 1920,
+    "h": 1200,
+    "widths": [
+      480,
+      800,
+      1200,
+      1920
+    ],
+    "sig": "photo:1794245893853.837"
+  },
+  "town-latham-ny": {
+    "w": 1920,
+    "h": 1200,
+    "widths": [
+      480,
+      800,
+      1200,
+      1920
+    ],
+    "sig": "photo:1794245893920.3325"
+  },
+  "town-mechanicville-ny": {
+    "w": 1920,
+    "h": 1200,
+    "widths": [
+      480,
+      800,
+      1200,
+      1920
+    ],
+    "sig": "photo:1794245893998.3936"
+  },
+  "town-niskayuna-ny": {
+    "w": 1920,
+    "h": 1200,
+    "widths": [
+      480,
+      800,
+      1200,
+      1920
+    ],
+    "sig": "photo:1794245895298.469"
+  },
+  "town-queensbury-ny": {
+    "w": 1920,
+    "h": 1200,
+    "widths": [
+      480,
+      800,
+      1200,
+      1920
+    ],
+    "sig": "photo:1794245894241.4397"
+  },
+  "town-rensselaer-ny": {
+    "w": 1920,
+    "h": 1200,
+    "widths": [
+      480,
+      800,
+      1200,
+      1920
+    ],
+    "sig": "photo:1794245894313.1558"
+  },
+  "town-rotterdam-ny": {
+    "w": 1920,
+    "h": 1200,
+    "widths": [
+      480,
+      800,
+      1200,
+      1920
+    ],
+    "sig": "photo:1794245894379.6758"
+  },
+  "town-saratoga-ny": {
+    "w": 1920,
+    "h": 1200,
+    "widths": [
+      480,
+      800,
+      1200,
+      1920
+    ],
+    "sig": "photo:1794245894444.4253"
+  },
+  "town-saratoga-springs-ny": {
+    "w": 1920,
+    "h": 1200,
+    "widths": [
+      480,
+      800,
+      1200,
+      1920
+    ],
+    "sig": "photo:1794245894507.33"
+  },
+  "town-schenectady-ny": {
+    "w": 1920,
+    "h": 1200,
+    "widths": [
+      480,
+      800,
+      1200,
+      1920
+    ],
+    "sig": "photo:1794245895409.4321"
+  },
+  "town-stillwater-ny": {
+    "w": 1920,
+    "h": 1200,
+    "widths": [
+      480,
+      800,
+      1200,
+      1920
+    ],
+    "sig": "photo:1794245894762.0632"
+  },
+  "town-troy-ny": {
+    "w": 1920,
+    "h": 1200,
+    "widths": [
+      480,
+      800,
+      1200,
+      1920
+    ],
+    "sig": "photo:1794245894829.1174"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "title": "Frozen Pipe Repair",
+  "order": 10,
+  "seoTitle": "Frozen Pipe Repair in {state}, 24/7 | {shortName} Plumbing",
+  "metaDescription": "No water after a cold night? {shortName} safely thaws frozen pipes, checks for splits and protects the line from the next freeze. Upfront pricing. Call {phone}.",
+  "imageAlt": "White house and evergreen trees covered in fresh snow",
+  "cardText": "Frozen lines thawed safely without open flame, checked for cracks under pressure, then protected against the next cold snap.",
+  "hero": {
+    "eyebrow": "Frozen pipe help, any hour",
+    "h1": "Frozen Pipe Repair in {state}, Available 24/7",
+    "sub": "Faucet gives a trickle or nothing at all after a bitter night? We find the frozen section, thaw it gently, check it for splits before the water comes back, and help keep it from freezing again."
+  },
+  "quickAnswer": "Call {name} at {phone} as soon as a tap goes dry in freezing weather. We answer around the clock, locate the ice, thaw the line with controlled heat and pressure test it for cracks. You get a firm price before we start any work.",
+  "intro": [
+    "A frozen pipe is a warning, not yet a disaster. Ice blocks the water and builds pressure between the plug and the closed faucet. If that pressure finds a weak spot, the pipe splits. Often the split stays hidden until the ice melts and water starts pouring out. Acting while the line is still frozen gives you the best chance of avoiding a flood.",
+    "We thaw pipes with tools made for the job, such as electric pipe thawing units, heat guns and warm air, never an open torch near wood framing. We open a faucet downstream so melting ice and water have somewhere to go, and we work from the faucet end back toward the frozen spot. Once water flows, we watch the line under full pressure to make sure nothing is weeping.",
+    "Then we look at why it froze. A pipe on an outside wall, a draft through a rim joist or an unheated crawlspace is usually to blame. We point it out and talk through simple fixes like insulation, sealing gaps or rerouting a short run, so the same pipe does not freeze again next week."
+  ],
+  "signs": {
+    "heading": "Signs a Pipe Has Frozen",
+    "items": [
+      "A faucet runs at a trickle or not at all on a very cold morning.",
+      "Only one fixture or one side of the house has lost water.",
+      "Frost or a thin layer of ice is visible on an exposed pipe.",
+      "The toilet tank does not refill after a flush.",
+      "You hear odd banging or whistling when you open a tap.",
+      "A faint damp spot or musty smell appears near a cold wall."
+    ]
+  },
+  "covers": {
+    "heading": "What Our Frozen Pipe Service Covers",
+    "items": [
+      "Locating the frozen section by fixture and temperature checks",
+      "Safe thawing of copper, PEX and galvanized lines",
+      "Pressure checks for hidden splits after thawing",
+      "Repairing cracked fittings and short pipe sections",
+      "Frozen outdoor hose bibs and laundry supply lines",
+      "Advice on insulation, heat tape and sealing drafts"
+    ]
+  },
+  "bookLabel": "Book Frozen Pipe Repair",
+  "process": {
+    "heading": "How We Handle a Frozen Pipe",
+    "steps": [
+      { "title": "Find the Ice", "text": "We check which fixtures still have water and trace the dead line back toward outside walls, crawlspaces and garages where pipes run coldest." },
+      { "title": "Open a Path", "text": "A downstream faucet is opened so melting water can move and pressure cannot build behind the ice while we work." },
+      { "title": "Thaw With Control", "text": "We apply steady, controlled heat from the faucet end back toward the blockage. No open flame touches the framing or insulation." },
+      { "title": "Test and Protect", "text": "With full pressure back on, we inspect the run for leaks, repair any split, and show you how to keep that pipe from freezing again." }
+    ]
+  },
+  "local": {
+    "heading": "Why Pipes Freeze So Often in {state} Homes",
+    "paragraphs": [
+      "Long stretches of single digit nights are normal here from December through February, and the wind off open fields or the Hudson Valley finds every gap in an older house. Pipes that ran fine for years can freeze the first night a cold front pairs with strong wind.",
+      "Many homes across the state have plumbing tucked into exterior walls, over unheated porches or through crawlspaces added during later renovations. Kitchen sinks on outside walls and second floor bathrooms over garages are the usual trouble spots. Seasonal camps and homes left empty during winter trips are another common call, especially when the heat is set too low."
+    ]
+  },
+  "cost": {
+    "heading": "What Drives the Cost of Frozen Pipe Repair",
+    "paragraphs": [
+      "The biggest factor is access. A frozen pipe in an open basement ceiling is quick to reach. One inside a finished wall or under a bathroom floor may need an access opening. Whether the pipe split, and how much of it needs replacing, matters too, as does the pipe material and the time of day you call.",
+      "Before we start, you get a clear price for the work. If we find a split once the line thaws, we explain it and price the repair before going further."
+    ]
+  },
+  "faqs": [
+    { "q": "What should I do while I wait for you to arrive?", "a": "Open the faucet on the frozen line slightly, open cabinet doors under sinks on outside walls, and raise the thermostat. Know where your main shutoff is in case a pipe bursts as it thaws. Never use an open flame on a pipe." },
+    { "q": "Can I thaw a frozen pipe with a hair dryer?", "a": "A hair dryer can work on an exposed pipe you can see, as long as you keep it moving, open the faucet first and stay away from standing water. If the frozen section is inside a wall or you cannot find it, call {phone} so a split is not missed." },
+    { "q": "How do I know if the frozen pipe has burst?", "a": "Often you cannot tell until it thaws. Look for bulges, cracks or frost lines on exposed pipe. Once water flows again, watch for drips, wet drywall or a meter that keeps spinning with every tap closed. We pressure test after thawing for this reason." },
+    { "q": "Should I let my faucets drip during a cold snap?", "a": "A slow drip on faucets fed by pipes along outside walls helps, because moving water is harder to freeze and an open tap relieves pressure. It is a short term step. The lasting fix is insulating or rerouting the pipe that keeps freezing." },
+    { "q": "Is a frozen outdoor spigot an emergency?", "a": "It can become one. A frozen hose bib often splits inside the wall, so the leak only shows when someone turns it on in spring. If a spigot is frozen, shut its inside valve if it has one and have it checked before using it." }
+  ],
+  "related": ["burst-pipe-repair", "emergency-plumbing", "leak-detection"],
+  "ctaHeading": "Pipes frozen right now?"
+}

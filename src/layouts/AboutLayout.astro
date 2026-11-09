@@ -1,0 +1,39 @@
+---
+/** /about/. Copy: src/content/pages/about.json */
+import BaseLayout from './BaseLayout.astro';
+import { PageHero, ServiceCard, Reviews, Faq, CtaBand, Icon, Img } from '../components/sections';
+import { business, facts, url, img, getPage, getServices, getCommercial, imgAlt } from '../lib/site';
+
+const [p, services, commercial] = await Promise.all([getPage('about'), getServices(), getCommercial()]);
+const all = [...services.map((s) => ({ ...s, href: url.service(s.slug), image: img.service(s.slug) })), ...commercial.map((s) => ({ ...s, href: url.commercial(s.slug), image: img.commercial(s.slug) }))];
+const featured = p.featured.map((slug: string) => all.find((s) => s.slug === slug)).filter(Boolean) as typeof all;
+const crumbs = [{ name: 'Home', path: '/' }, { name: 'About', path: '/about/' }];
+---
+<BaseLayout title={p.seoTitle} description={p.metaDescription} crumbs={crumbs} faqs={p.faqs}>
+  <PageHero eyebrow={p.hero.eyebrow} h1={p.hero.h1} sub={p.hero.sub} image="about-team" imageAlt={imgAlt('about-team')} crumbs={crumbs} />
+
+  <section class="section"><div class="container owner-card">
+    <div class="owner-photo"><Img name="owner" alt={imgAlt('owner')} sizes="300px" maxWidth={800} /></div>
+    <div class="prose">
+      <span class="eyebrow">{p.story.eyebrow}</span>
+      <h2>{p.story.heading}</h2>
+      {p.story.paragraphs.map((t: string) => <p>{t}</p>)}
+      <p><strong>{business.owner.name}</strong>, {business.owner.title}.{facts.license && ` License ${facts.license}.`}</p>
+    </div>
+  </div></section>
+
+  <section class="section section-navy"><div class="container">
+    <div class="section-head"><span class="eyebrow">Our standards</span><h2>{p.values.heading}</h2></div>
+    <div class="grid-4">{p.values.items.map((v: any) => <div class="icon-card"><div class="icon"><Icon name={v.icon} size={26} /></div><h3>{v.title}</h3><p>{v.text}</p></div>)}</div>
+  </div></section>
+
+  <Reviews heading={p.reviewsHeading} offset={3} />
+
+  <section class="section section-soft"><div class="container">
+    <div class="section-head"><span class="eyebrow">What we do</span><h2>{p.servicesHeading}</h2></div>
+    <div class="grid-3">{featured.map((s) => <ServiceCard href={s.href} title={s.title} text={s.cardText} image={s.image} alt={s.imageAlt} />)}</div>
+  </div></section>
+
+  <Faq heading={p.faqHeading} items={p.faqs} soft={false} />
+  <CtaBand heading={p.ctaHeading} />
+</BaseLayout>

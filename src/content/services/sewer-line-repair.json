@@ -1,0 +1,74 @@
+{
+  "title": "Sewer Line Repair",
+  "order": 4,
+  "seoTitle": "Sewer Line Repair in {state}, 24/7 | {shortName} Plumbing",
+  "metaDescription": "Sewage backing up, soggy yard or roots in the line? {shortName} finds the damaged section on camera and repairs it. Upfront price first. Call {phone}.",
+  "imageAlt": "Blue water line with valves exposed in an open trench",
+  "cardText": "Cracked, offset, root damaged and bellied sewer pipes located on camera and repaired, from a single joint to a full section.",
+  "hero": {
+    "eyebrow": "Sewer line repair",
+    "h1": "Sewer Line Repair in {state}, Found on Camera",
+    "sub": "Backups in the lowest drain, a wet patch in the lawn that never dries, a smell outside the foundation? We pinpoint the broken section and repair only what needs fixing."
+  },
+  "quickAnswer": "Call {name} at {phone}. We camera the sewer line, mark the damaged spot and depth from above ground, and give you a firm price for the repair before digging. Emergency backups are answered {hours}, and we clear the line first.",
+  "intro": [
+    "The sewer lateral is the pipe that carries everything from your house to the city sewer or septic tank. In most cases the homeowner is responsible for it, often all the way to the street connection. When it breaks, wastewater has nowhere to go, and the first place it shows up is usually the basement floor drain.",
+    "Most sewer problems are not the whole pipe. It is one cracked section, one joint that shifted, or one spot where roots got in. A camera shows exactly where that is, and a locator tells us how deep it sits. That lets us dig a small, targeted hole instead of trenching the whole yard.",
+    "When a line has damage in many places, a spot repair may not be the best use of your money. In that case we will show you the footage and explain when trenchless replacement or a full new line makes more sense. Paying for three spot repairs in five years rarely beats fixing the whole pipe once."
+  ],
+  "signs": {
+    "heading": "Signs of a Damaged Sewer Line",
+    "items": [
+      "Sewage backs up into the basement floor drain or lowest toilet.",
+      "Several drains in the house slow down at the same time.",
+      "A patch of lawn above the sewer path stays wet or unusually green.",
+      "You smell sewer gas outside near the foundation or cleanout.",
+      "Drain cleaning brings back roots, soil or bits of pipe.",
+      "The line needs clearing every few months to keep working."
+    ]
+  },
+  "covers": {
+    "heading": "What Our Sewer Line Repair Covers",
+    "items": [
+      "Camera inspection and locating of the damaged section",
+      "Spot repairs for cracked or broken pipe",
+      "Fixing offset or separated joints",
+      "Root intrusion damage repair",
+      "Correcting low spots and sagging sections",
+      "Cleanout installation for easier future access"
+    ]
+  },
+  "bookLabel": "Book Sewer Line Repair",
+  "process": {
+    "heading": "How We Repair a Sewer Line",
+    "steps": [
+      { "title": "Clear and Camera", "text": "If the line is backed up, we open it first so you have working drains, then run a camera to see the condition of the full pipe." },
+      { "title": "Locate and Mark", "text": "A locator picks up the camera head from above ground, so we can mark the exact spot and depth of the damage on your property." },
+      { "title": "Repair the Section", "text": "We excavate only what is needed, cut out the failed pipe and install new pipe with proper couplings, bedding and slope." },
+      { "title": "Test and Restore", "text": "A final camera pass confirms the repair. We backfill, tamp the soil and leave the area as tidy as we found it." }
+    ]
+  },
+  "local": {
+    "heading": "Sewer Line Trouble in {state} Neighborhoods",
+    "paragraphs": [
+      "Older neighborhoods across the state often still have sewer laterals made of clay tile or a tar paper pipe called Orangeburg, laid decades ago. Clay joints let roots in, and Orangeburg slowly flattens and blisters under the weight of soil. Both fail with age, and both are common in homes built before the 1970s.",
+      "Freeze and thaw cycles play a part too. Ground that heaves in winter and settles in spring can shift a joint or crack a brittle pipe. Many municipalities also require a permit and inspection for work on the lateral, and we handle that paperwork as part of the job."
+    ]
+  },
+  "cost": {
+    "heading": "What Drives the Cost of Sewer Line Repair",
+    "paragraphs": [
+      "The main factors are how deep the pipe is, what sits above it and how long the damaged section runs. A shallow break under lawn is a simpler dig than one under a driveway, sidewalk or mature tree. Pipe material, permit requirements and frozen ground in winter can also affect the work.",
+      "Because the camera shows us exactly what we are dealing with, we can give you a firm price before any digging starts."
+    ]
+  },
+  "faqs": [
+    { "q": "Am I responsible for the sewer line or is the city?", "a": "In most New York communities, the homeowner owns the lateral from the house to the connection at the main, and sometimes the portion under the street as well. Rules vary by municipality. We can help you find out where your responsibility ends before work begins." },
+    { "q": "Do you have to dig up my whole yard?", "a": "Usually not. Because we locate the damage with a camera, we can dig a small pit right over the problem section. If the line has damage along its full length, we will talk about trenchless options that need only small access holes." },
+    { "q": "Can a sewer line be repaired in winter?", "a": "Yes. Frozen ground takes more effort to dig, but sewer lines are buried below the frost line and can be repaired year round. If a backup is urgent, we clear the line first so you have working drains while we plan the repair." },
+    { "q": "How do roots get into a sewer pipe?", "a": "Roots follow moisture and nutrients. A tiny crack or loose joint lets out a little water vapor, and fine roots grow toward it and slip inside. Once in, they thicken and catch paper and waste, which leads to backups and eventually cracks the pipe further." },
+    { "q": "Does homeowners insurance cover sewer line repair?", "a": "It depends on your policy. Many standard policies exclude sewer laterals unless you have a specific service line or sewer backup rider. We can provide camera footage and a written description of the damage to share with your insurer." }
+  ],
+  "related": ["sewer-camera-inspection", "trenchless-sewer-replacement", "hydro-jetting"],
+  "ctaHeading": "Think your sewer line is broken?"
+}

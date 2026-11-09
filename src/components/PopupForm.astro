@@ -1,0 +1,16 @@
+---
+import Icon from './Icon.astro';
+import Logo from './Logo.astro';
+import LeadForm from './LeadForm.astro';
+import { business, tel } from '../lib/site';
+---
+<div class="popup-overlay" id="request" role="dialog" aria-modal="true" aria-labelledby="popup-title">
+  <div class="popup-form">
+    <button class="popup-close" type="button" aria-label="Close form"><Icon name="close" size={20} /></button>
+    <Logo href={null} />
+    <h3 id="popup-title">Request a Plumber</h3>
+    <p class="popup-subtitle">Tell us what is happening. Our team usually calls back within two hours. For emergencies, call now.</p>
+    <LeadForm id="popup" formName="popup" />
+    <a class="popup-call" href={tel}>Or call {business.phone}, 24 hours a day</a>
+  </div>
+</div>

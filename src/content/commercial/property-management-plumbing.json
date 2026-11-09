@@ -1,0 +1,74 @@
+{
+  "title": "Property Management Plumbing",
+  "order": 5,
+  "seoTitle": "Plumbing for Property Managers in {state} | {shortName}",
+  "metaDescription": "One plumber for every building you manage. {shortName} handles tenant calls 24/7, sends prices for approval and invoices by property. Call {phone}.",
+  "imageAlt": "White modern multistory building against a pale blue sky",
+  "cardText": "Reliable plumbing for managed properties, with tenant scheduling, approval before work and invoices organized by building.",
+  "hero": {
+    "eyebrow": "Plumbing for property managers",
+    "h1": "Plumbing Services for Property Managers in {state}",
+    "sub": "You need a plumber who answers at night, works with tenants respectfully and sends paperwork you can approve without chasing. We handle plumbing across your portfolio so you can focus on the rest of the job."
+  },
+  "quickAnswer": "Call {name} at {phone} to set up service for your properties. We answer tenant emergencies {hours}, send a firm price for your approval before work starts, and invoice each job by property address and unit so bookkeeping stays simple.",
+  "intro": [
+    "Property managers deal with plumbing calls from every direction: a tenant with a leaking ceiling at midnight, an owner asking why the water bill jumped, a vacant unit that needs fixtures replaced before a move in. Having one plumbing company that knows your buildings saves time on every one of those calls.",
+    "We work the way managers need us to. You decide who approves work and up to what amount. We coordinate entry with tenants or your maintenance staff, show up in the arrival window we give, and keep you informed with a short update after each visit. If we find something bigger than the original call, we explain it and wait for your decision.",
+    "Over time we learn where the shutoffs are, which lines give trouble and what each building's systems look like. That makes repeat visits faster and helps you plan larger projects, such as water heater replacements or riser work, before they turn into emergencies. When an owner asks for a capital plan, our notes give you a realistic starting point."
+  ],
+  "signs": {
+    "heading": "Signs Your Properties Need a Dedicated Plumber",
+    "items": [
+      "Tenant plumbing complaints pile up faster than staff can handle them.",
+      "Different plumbers have worked on the same building with no records.",
+      "Water bills at one property are rising without explanation.",
+      "Unit turnovers are delayed while waiting for plumbing repairs.",
+      "Water heaters across your buildings are reaching the end of their life.",
+      "After hours calls go unanswered or take too long to arrange."
+    ]
+  },
+  "covers": {
+    "heading": "What Our Property Management Service Covers",
+    "items": [
+      "Tenant service calls and after hours emergencies",
+      "Unit turnover fixture repairs and replacements",
+      "Water heater repair and planned replacements",
+      "Leak detection and water bill investigations",
+      "Main drain and stack cleaning for shared lines",
+      "Invoices organized by property and unit number"
+    ]
+  },
+  "bookLabel": "Set Up Property Service",
+  "process": {
+    "heading": "How We Work With Property Managers",
+    "steps": [
+      { "title": "Set Your Preferences", "text": "We note your properties, approval limits, billing contacts and how you want tenants contacted, so every job follows your rules from the start." },
+      { "title": "Coordinate Access", "text": "We arrange entry with the tenant or your maintenance staff, give a realistic arrival window and respect notice requirements in your leases." },
+      { "title": "Approve and Repair", "text": "You receive a firm price before work begins. Once approved, we complete the repair and protect the tenant's space while we work." },
+      { "title": "Report and Invoice", "text": "You get a short summary of what we found and fixed, plus an invoice labeled with the property address and unit number." }
+    ]
+  },
+  "local": {
+    "heading": "Managing Plumbing Across {state} Properties",
+    "paragraphs": [
+      "Portfolios in New York often mix very different buildings: a converted Victorian with four apartments, a 1970s garden complex, a strip of storefronts with offices above. Each one has its own pipe materials, shutoff layouts and weak points. We keep notes on each building so the next technician starts with the history, not from scratch.",
+      "Winter is the hardest season for managers. Vacant units, unheated stairwells and pipes in exterior walls are at risk during deep cold, and one burst pipe can damage several units. We help managers identify vulnerable spots in the fall and respond quickly when a freeze call comes in."
+    ]
+  },
+  "cost": {
+    "heading": "What Drives the Cost of Property Plumbing Work",
+    "paragraphs": [
+      "Each job is priced on its own scope: the repair, the parts, access and when the work takes place. A faucet fix in an empty unit costs less than a leak traced through several floors of occupied apartments. After hours tenant emergencies and work in shared mechanical spaces can take more time.",
+      "You see a firm price before work begins, and nothing over your approval limit happens without your sign off."
+    ]
+  },
+  "faqs": [
+    { "q": "Can tenants call you directly?", "a": "Yes, if you want them to. Some managers give tenants our number at {phone} for emergencies, while others prefer all requests to come through the office. We follow whatever setup works best for your properties." },
+    { "q": "Can you invoice each property separately?", "a": "Yes. We label every invoice with the property address and unit number, and we can include work order or purchase order numbers. That keeps owner statements and bookkeeping clean, and it makes year end reports much easier." },
+    { "q": "What happens if you find a bigger problem during a visit?", "a": "We stop and contact whoever approves work for that property. We explain what we found, what it will cost to fix and whether it can wait. Nothing beyond the original approval goes ahead without your decision." },
+    { "q": "Do you handle unit turnovers?", "a": "Yes. We can replace worn faucets, toilets and shutoffs, fix slow drains and check the water heater while a unit is vacant. Tell us your move in date and we will plan around it." },
+    { "q": "Can you provide a certificate of insurance?", "a": "Yes. {name} is fully insured, and we can send a certificate of insurance naming your management company or property owner before our first visit. If your requirements change at renewal, tell us and we will send an updated copy." }
+  ],
+  "related": ["multifamily-apartment-plumbing", "commercial-plumbing", "office-retail-plumbing"],
+  "ctaHeading": "Looking for a plumber for your properties?"
+}

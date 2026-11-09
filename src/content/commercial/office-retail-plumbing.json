@@ -1,0 +1,74 @@
+{
+  "title": "Office and Retail Plumbing",
+  "order": 8,
+  "seoTitle": "Office and Retail Plumbing in {state} | {shortName}",
+  "metaDescription": "Restroom out of order, a leak over the sales floor or a break room sink backing up? {shortName} fixes office and retail plumbing 24/7. Call {phone}.",
+  "imageAlt": "Office lobby with two elevators, a reception desk and stone-clad walls",
+  "cardText": "Restrooms, break rooms and leaks in offices and stores repaired before opening or after closing, with tidy work areas.",
+  "hero": {
+    "eyebrow": "Plumbing for offices and stores",
+    "h1": "Office and Retail Plumbing in {state}",
+    "sub": "Customers and staff notice a closed restroom or a dripping ceiling right away. We fix office and retail plumbing quietly and quickly, often before your doors open or after the last customer leaves."
+  },
+  "quickAnswer": "Call {name} at {phone}. We answer {hours} and can schedule repairs outside your business hours. You approve a firm price first, we keep the work area neat and out of public view, and we leave an invoice ready for your office or landlord.",
+  "intro": [
+    "In an office or store, plumbing problems are as much about appearance as function. An out of order sign on the restroom door, a bucket under a ceiling tile or a smell near the entrance affects how customers and employees see your business. Fast, clean repairs protect that impression and keep your team focused on their work.",
+    "We handle the fixtures these spaces rely on: restroom toilets, urinals and sensor faucets, break room sinks, coffee and water station connections, drinking fountains, bottle fillers and small water heaters. We also find and fix the hidden leaks that stain ceilings, damage inventory or show up as a spike on the water bill.",
+    "Many tenants share plumbing with the rest of the building, so we work with landlords and building managers when needed. We tell you whether the problem is inside your space or in a shared line, which helps sort out who is responsible for the repair. We can write up our findings in plain language so your landlord has what they need to act."
+  ],
+  "signs": {
+    "heading": "Signs Your Office or Store Needs a Plumber",
+    "items": [
+      "A restroom has been closed or marked out of order.",
+      "Ceiling tiles show brown stains or sag near plumbing walls.",
+      "Sensor faucets or flush valves run on or fail to activate.",
+      "The break room sink drains slowly or smells.",
+      "Drinking fountains or bottle fillers lose pressure.",
+      "Your water bill rises while staff and hours stay the same."
+    ]
+  },
+  "covers": {
+    "heading": "What Our Office and Retail Plumbing Covers",
+    "items": [
+      "Restroom toilet, urinal and sensor faucet repair",
+      "Break room sinks, coffee stations and ice makers",
+      "Drinking fountains and bottle filling stations",
+      "Ceiling and wall leak detection and repair",
+      "Small tank and point of use water heaters",
+      "Coordination with landlords on shared lines"
+    ]
+  },
+  "bookLabel": "Book Office or Retail Service",
+  "process": {
+    "heading": "How We Work in Offices and Stores",
+    "steps": [
+      { "title": "Schedule Around Customers", "text": "We ask about your hours and busiest times, then book the work before opening, after closing or during a quiet window." },
+      { "title": "Diagnose Quietly", "text": "We find the cause with as little noise and disruption as possible, and tell you whether it is in your space or a shared building line." },
+      { "title": "Repair Out of Sight", "text": "After you approve the price, we set up away from customers when possible, protect floors and displays and keep tools contained." },
+      { "title": "Leave It Ready to Open", "text": "We test the fixtures, clean the area and leave an invoice your office manager or landlord can approve without follow up questions." }
+    ]
+  },
+  "local": {
+    "heading": "Office and Retail Plumbing in {state} Business Districts",
+    "paragraphs": [
+      "Across New York, many offices and shops sit in older downtown buildings or converted mill and warehouse spaces, while others are in plazas built in the 1970s and 1980s. Older buildings tend to have aging supply risers and cast iron drains. Plaza units often share long drain lines that run behind several storefronts, so one tenant's clog can affect the neighbors.",
+      "Winter weekends and holiday closures are a known risk. When a building's heat is turned down and no one is around for days, pipes near exterior walls and entryways can freeze and burst. A quick walkthrough before a long closure helps owners spot weak spots before they turn into ceiling damage."
+    ]
+  },
+  "cost": {
+    "heading": "What Drives the Cost of Office and Retail Plumbing",
+    "paragraphs": [
+      "Cost depends on the fixture, access and timing. Rebuilding a flush valve is a short visit. Tracing a leak above a finished drop ceiling, working around retail displays or repairing a shared line behind several units takes more time. After hours scheduling and specialty parts for sensor fixtures can also affect the price.",
+      "You approve a firm price before work starts, and we can send the invoice to your office, head office or landlord."
+    ]
+  },
+  "faqs": [
+    { "q": "Can you fix our restroom before we open in the morning?", "a": "Yes. Early morning and after closing visits are common for us. Call {phone} the evening before or as soon as you notice the problem, and we will try to have it working before your first customers arrive." },
+    { "q": "Is the leak our responsibility or the landlord's?", "a": "That depends on your lease and where the problem is. We can tell you whether the leak is coming from fixtures in your space or from a shared building line, and we can share our findings with your landlord to help sort it out." },
+    { "q": "Do you repair sensor faucets and automatic flush valves?", "a": "Yes. We troubleshoot sensors, batteries, solenoids and valve parts on automatic fixtures. If a unit is beyond repair, we can replace it with a model that fits your existing connections." },
+    { "q": "Can you install a bottle filling station or new break room sink?", "a": "Yes. We install drinking fountains, bottle fillers, break room sinks and coffee or ice machine water lines. We will check the existing supply and drain locations first and give you a price before any work starts." },
+    { "q": "Will your work disturb our customers?", "a": "We do everything we can to avoid it. We schedule around busy hours, set up away from public areas when possible and keep the work area tidy. Most small repairs are finished before customers notice anything." }
+  ],
+  "related": ["commercial-plumbing", "property-management-plumbing", "commercial-drain-cleaning"],
+  "ctaHeading": "Need plumbing help at your office or store?"
+}

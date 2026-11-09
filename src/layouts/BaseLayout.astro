@@ -1,0 +1,147 @@
+---
+/**
+ * Every page renders through this layout. It owns: <head> SEO (title,
+ * description, canonical, Open Graph, Twitter), JSON-LD (Plumber,
+ * BreadcrumbList, FAQPage, optional Service), the header, footer, request
+ * popup and the one site script.
+ */
+import '@fontsource/montserrat/600.css';
+import '@fontsource/montserrat/700.css';
+import '@fontsource/montserrat/800.css';
+import '@fontsource/source-sans-3/400.css';
+import '@fontsource/source-sans-3/400-italic.css';
+import '@fontsource/source-sans-3/600.css';
+import '@fontsource/source-sans-3/700.css';
+import '../styles/global.css';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import PopupForm from '../components/PopupForm.astro';
+import { business, facts, absUrl, siteUrl, a, PREVIEW } from '../lib/site';
+import type { Crumb } from '../components/PageHero.astro';
+
+interface Props {
+  title: string;
+  description: string;
+  /** Breadcrumb trail ending at this page; the last item's path is the canonical. */
+  crumbs: Crumb[];
+  faqs?: { q: string; a: string }[];
+  /** areaServed override for the Plumber schema (town or region pages). */
+  area?: { type: 'City' | 'AdministrativeArea' | 'State'; name: string };
+  /** Adds a Service schema (service pages). */
+  service?: { name: string; description: string };
+  geo?: { lat: number; lng: number; place: string };
+  locality?: string;
+  noindex?: boolean;
+  ogImage?: string;
+  ogType?: 'website' | 'article';
+}
+const { title, description, crumbs, faqs = [], area, service, geo, locality, noindex = false, ogImage = '/images/og-share.jpg', ogType = 'website' } = Astro.props;
+
+const path = crumbs[crumbs.length - 1]?.path ?? '/';
+const canonical = absUrl(path);
+const image = absUrl(ogImage);
+const isHome = path === '/';
+const bizId = `${siteUrl}/#business`;
+
+const sameAs = Object.values(business.social).filter(Boolean);
+const plumber = {
+  '@context': 'https://schema.org',
+  '@type': 'Plumber',
+  '@id': bizId,
+  name: business.name,
+  legalName: business.legalName,
+  url: `${siteUrl}/`,
+  image,
+  logo: absUrl('/images/logo/apple-touch-icon.png'),
+  telephone: business.phoneE164,
+  email: business.email,
+  priceRange: business.priceRange,
+  address: { '@type': 'PostalAddress', streetAddress: a.street, addressLocality: a.city, addressRegion: a.state, postalCode: a.zip, addressCountry: a.country },
+  geo: { '@type': 'GeoCoordinates', latitude: business.geo.lat, longitude: business.geo.lng },
+  openingHoursSpecification: [{ '@type': 'OpeningHoursSpecification', dayOfWeek: business.hours.days, opens: business.hours.opens, closes: business.hours.closes }],
+  areaServed: area ? { '@type': area.type, name: area.name } : { '@type': 'State', name: a.stateName },
+  founder: { '@type': 'Person', name: business.owner.name, jobTitle: business.owner.title },
+  ...(facts.license ? { identifier: { '@type': 'PropertyValue', name: 'Plumbing license', value: facts.license } } : {}),
+  ...(facts.years ? { foundingDate: String(new Date().getFullYear() - facts.years) } : {}),
+  ...(sameAs.length ? { sameAs } : {}),
+};
+
+const schemas: object[] = [plumber];
+schemas.push({
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: crumbs.map((c, i) => ({ '@type': 'ListItem', position: i + 1, name: c.name, item: absUrl(c.path) })),
+});
+if (faqs.length) {
+  schemas.push({
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: faqs.map((f) => ({ '@type': 'Question', name: f.q, acceptedAnswer: { '@type': 'Answer', text: f.a } })),
+  });
+}
+if (service) {
+  schemas.push({
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: service.name,
+    serviceType: service.name,
+    description: service.description,
+    url: canonical,
+    provider: { '@id': bizId },
+    areaServed: { '@type': 'State', name: a.stateName },
+  });
+}
+if (isHome) {
+  schemas.push({ '@context': 'https://schema.org', '@type': 'WebSite', name: business.name, url: `${siteUrl}/`, publisher: { '@id': bizId } });
+}
+const gtm = business.analytics?.gtmId;
+---
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{title}</title>
+  <meta name="description" content={description} />
+  <link rel="canonical" href={canonical} />
+  <meta name="robots" content={PREVIEW ? 'noindex, nofollow' : noindex ? 'noindex, follow' : 'index, follow, max-image-preview:large, max-snippet:-1'} />
+  <meta property="og:type" content={ogType} />
+  <meta property="og:title" content={title} />
+  <meta property="og:description" content={description} />
+  <meta property="og:url" content={canonical} />
+  <meta property="og:image" content={image} />
+  <meta property="og:image:width" content="1200" />
+  <meta property="og:image:height" content="630" />
+  <meta property="og:site_name" content={business.name} />
+  <meta property="og:locale" content="en_US" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content={title} />
+  <meta name="twitter:description" content={description} />
+  <meta name="twitter:image" content={image} />
+  {geo && (
+    <>
+      <meta name="geo.region" content={`US-${a.state}`} />
+      <meta name="geo.placename" content={geo.place} />
+      <meta name="geo.position" content={`${geo.lat};${geo.lng}`} />
+    </>
+  )}
+  <meta name="theme-color" content="#0a2a66" />
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+  <link rel="icon" href="/images/logo/favicon-32.png" type="image/png" sizes="32x32" />
+  <link rel="apple-touch-icon" href="/images/logo/apple-touch-icon.png" />
+  <link rel="sitemap" href="/sitemap-index.xml" />
+  {schemas.map((s) => <script type="application/ld+json" set:html={JSON.stringify(s)} />)}
+  {gtm && <script is:inline set:html={`(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','${gtm}');`} />}
+</head>
+<body data-locality={locality} data-preview={PREVIEW ? '' : undefined}>
+  <a class="skip-link" href="#main">Skip to content</a>
+  {PREVIEW && <div class="preview-banner" role="note">Preview site. Business details are placeholders.</div>}
+  <Header />
+  <main id="main">
+    <slot />
+  </main>
+  <Footer />
+  <PopupForm />
+  <script src="../scripts/main.ts"></script>
+</body>
+</html>

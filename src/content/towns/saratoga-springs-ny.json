@@ -1,0 +1,48 @@
+{
+  "name": "Saratoga Springs",
+  "order": 4,
+  "county": "Saratoga",
+  "region": "capital-region",
+  "zips": ["12866"],
+  "neighborhoods": ["Downtown Broadway", "East Side", "West Side", "North Broadway", "Union Avenue", "Franklin Square", "Geyser Crest"],
+  "nearby": ["ballston-spa-ny", "saratoga-ny", "stillwater-ny", "clifton-park-ny", "queensbury-ny"],
+  "geo": { "lat": 43.0831, "lng": -73.7846 },
+  "seoTitle": "Plumber in Saratoga Springs, NY | 24/7 | {shortName}",
+  "metaDescription": "Saratoga Springs, NY plumber for Victorian homes, track season rentals and Broadway businesses. Drains, leaks, fixtures, water heaters. 24/7. Call {phone}.",
+  "imageAlt": "Large lake with wooded islands below hills in early fall color",
+  "hero": {
+    "eyebrow": "Saratoga County plumber",
+    "h1": "Plumber in Saratoga Springs, NY",
+    "sub": "Victorian homes on North Broadway, East Side bungalows and houses rented out for track season all keep us busy. We answer day or night and quote every job before we begin."
+  },
+  "intro": "{name} serves Saratoga Springs homeowners, rental owners and Broadway businesses. The Northway makes it an easy run from our {city} shop, and we plan for summer traffic when the track is open. Whether a guest just reported a clogged toilet or you are restoring an old bathroom, we can help.",
+  "popular": ["drain-cleaning", "emergency-plumbing", "faucet-and-sink-repair", "leak-detection", "water-heater-repair", "sewer-camera-inspection"],
+  "problems": [
+    { "title": "Track season strain on rental homes", "text": "Houses rented out from July into September host more people than they were built for. Drains that are fine for a family clog under a full house of guests, usually on a weekend.", "service": "drain-cleaning" },
+    { "title": "Vintage fixtures in Victorian baths", "text": "Clawfoot tubs, pedestal sinks and old two-handle faucets give these homes their charm. Finding parts and fixing leaks without replacing the whole fixture takes patience and the right stock.", "service": "faucet-and-sink-repair" },
+    { "title": "Hidden leaks after renovations", "text": "Many older homes here have been redone more than once. A slow leak under new tile or behind fresh drywall can go unnoticed for months. Early detection keeps repairs small.", "service": "leak-detection" },
+    { "title": "Busy restaurant kitchens downtown", "text": "Broadway and Caroline Street restaurants pack in crowds during the summer. Floor drains, dish sinks and grease lines need to keep up, or a backup shuts the kitchen at the worst time.", "service": "restaurant-plumbing" }
+  ],
+  "housing": {
+    "heading": "Victorian Homes and Seasonal Rentals in Saratoga Springs",
+    "paragraphs": [
+      "The streets around North Broadway, Union Avenue and Franklin Square are full of 19th century homes with tall ceilings, original woodwork and plumbing that has been updated in pieces. We take care to protect finishes, use matching or period-friendly fixtures where possible and explain what is original and what is not.",
+      "The East Side and West Side mix older cottages with newer infill, and Geyser Crest adds postwar and later homes on the south end. Many of these houses double as track season rentals, which means heavy summer use followed by quiet months when small problems go unnoticed."
+    ]
+  },
+  "howWeWork": {
+    "heading": "Reliable Help in Season and Out",
+    "paragraphs": [
+      "We answer {hours}, which matters in August when your guests cannot wait until Monday. For rental owners who live elsewhere, we can meet a property manager on site, send photos of what we find and get approval before any work.",
+      "Every visit starts with an upfront price. When we finish, we test the repair, clean up so the house is guest ready and let you know about anything worth fixing before next season."
+    ]
+  },
+  "faqs": [
+    { "q": "Can you help if my track season rental has a plumbing problem while I am away?", "a": "Yes. We can coordinate with your property manager or let ourselves in with a lockbox code you provide. We send photos and a price before starting, then confirm when the repair is done." },
+    { "q": "Can you repair an old clawfoot tub faucet instead of replacing it?", "a": "Often we can. Many vintage faucets just need new washers, cartridges or seats. When parts are no longer made, we look for compatible replacements and only suggest a new fixture if repair is not practical." },
+    { "q": "Should I have the sewer line checked before buying an older home here?", "a": "It is a smart step. Older Saratoga Springs homes often have clay or cast iron laterals under mature trees. A camera inspection shows roots, cracks or sags before you close, not after." },
+    { "q": "How do I get my rental ready for summer guests?", "a": "Have drains cleared, the water heater checked and running toilets fixed in late spring. We can do a walkthrough of fixtures, shutoffs and the main line so the house is ready for a full season." },
+    { "q": "Do you work with restaurants and shops on Broadway?", "a": "Yes. We handle drains, grease lines, restrooms and water heaters for downtown businesses, and can schedule work early in the morning or after close to avoid disrupting service for your staff and guests." }
+  ],
+  "ctaHeading": "Saratoga Springs Plumber, 24/7"
+}

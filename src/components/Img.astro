@@ -1,0 +1,35 @@
+---
+/**
+ * Responsive WebP image from the generated manifest (scripts/make-images.mjs).
+ * Lazy by default; pass eager for above-the-fold heroes.
+ */
+import manifest from '../data/image-manifest.json';
+
+interface Props {
+  name: string;
+  alt: string;
+  sizes?: string;
+  eager?: boolean;
+  class?: string;
+  maxWidth?: number;
+}
+const { name, alt, sizes = '100vw', eager = false, class: cls, maxWidth } = Astro.props;
+const m = (manifest as Record<string, { w: number; h: number; widths: number[] }>)[name];
+if (!m) throw new Error(`Image "${name}" missing from manifest. Run npm run images.`);
+const widths = maxWidth ? m.widths.filter((w) => w <= maxWidth) : m.widths;
+const src = (w: number) => `/images/photos/${name}-${w}.webp`;
+const fallback = widths.find((w) => w >= 800) ?? widths[widths.length - 1];
+const h = Math.round((m.h * fallback) / m.w);
+---
+<img
+  src={src(fallback)}
+  srcset={widths.map((w) => `${src(w)} ${w}w`).join(', ')}
+  sizes={sizes}
+  alt={alt}
+  width={fallback}
+  height={h}
+  class={cls}
+  loading={eager ? 'eager' : 'lazy'}
+  decoding={eager ? 'auto' : 'async'}
+  fetchpriority={eager ? 'high' : undefined}
+/>

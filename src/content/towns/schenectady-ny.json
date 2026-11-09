@@ -1,0 +1,48 @@
+{
+  "name": "Schenectady",
+  "order": 2,
+  "county": "Schenectady",
+  "region": "capital-region",
+  "zips": ["12304", "12305", "12307", "12308"],
+  "neighborhoods": ["Stockade", "GE Realty Plot", "Union Street", "Mont Pleasant", "Bellevue", "Woodlawn", "Hamilton Hill", "Goose Hill", "Eastern Parkway"],
+  "nearby": ["rotterdam-ny", "niskayuna-ny", "guilderland-ny", "colonie-ny", "clifton-park-ny"],
+  "geo": { "lat": 42.8142, "lng": -73.9396 },
+  "seoTitle": "Plumber in Schenectady, NY | 24/7 Service | {shortName}",
+  "metaDescription": "Schenectady, NY plumber for Stockade homes, Realty Plot houses and two-family flats. Sump pumps, drains, water heaters and pipe repair. 24/7. Call {phone}.",
+  "imageAlt": "Blue two-story house with a white front porch and a leafy street tree",
+  "hero": {
+    "eyebrow": "Schenectady County plumber",
+    "h1": "Plumber in Schenectady, NY",
+    "sub": "Colonial houses by the Mohawk, grand homes in the Realty Plot and two-family flats in Mont Pleasant. We repair them all, answer around the clock and price the job before we start."
+  },
+  "intro": "{name} serves Schenectady homeowners, landlords and businesses from the Stockade out to Woodlawn and Eastern Parkway. It is a short drive up from our {city} shop, so urgent calls get a quick dispatch. We fix everything from a single slow drain to full water heater swaps in two-family homes.",
+  "popular": ["emergency-plumbing", "sump-pumps", "sewer-camera-inspection", "water-heater-replacement", "burst-pipe-repair", "drain-cleaning"],
+  "problems": [
+    { "title": "Mohawk River water in the Stockade", "text": "Homes near the river sit low and take on water when the Mohawk rises or ice jams form. A reliable sump pump with a battery backup is often the best defense for these basements.", "service": "sump-pumps" },
+    { "title": "Aging cast iron in Realty Plot homes", "text": "Many large houses in the GE Realty Plot still drain through their original cast iron. After a century it can scale shut or crack quietly. A camera shows its real condition.", "service": "sewer-camera-inspection" },
+    { "title": "Two water heaters, two tenants", "text": "Two-family flats in Mont Pleasant and Bellevue usually run one water heater per unit. They tend to wear out around the same time, so owners often plan both replacements together.", "service": "water-heater-replacement" },
+    { "title": "Burst lines in vacant units", "text": "A unit between tenants can lose heat without anyone noticing. A frozen line splits, and the water runs until someone visits. Fast shutoff and repair limit the damage.", "service": "burst-pipe-repair" }
+  ],
+  "housing": {
+    "heading": "From the Stockade to the Realty Plot",
+    "paragraphs": [
+      "The Stockade holds some of the oldest houses in the state, many with plumbing added generations after they were built. Low basements, stone foundations and the nearby Mohawk all shape how we approach repairs. We work carefully around historic woodwork and use the least invasive fix that will last.",
+      "The GE Realty Plot and the streets around Union Street were built for General Electric managers and engineers in the early 1900s. These homes are solid but often keep original drain stacks and supply lines. Mont Pleasant, Bellevue and Hamilton Hill add many two-family homes with separate meters, water heaters and shutoffs."
+    ]
+  },
+  "howWeWork": {
+    "heading": "Straightforward Plumbing Service in Schenectady",
+    "paragraphs": [
+      "We answer {hours} and send the nearest available technician, whether you are on Front Street or out by Central Park. For rental properties, we can coordinate access with tenants and report back to you directly.",
+      "You hear what is wrong and what it costs before any work starts. After the repair, we run water to confirm it holds, clean the area and point out anything else worth watching."
+    ]
+  },
+  "faqs": [
+    { "q": "Is a battery backup sump pump worth it near the Mohawk?", "a": "For homes in and near the Stockade, usually yes. Floods and storms often knock out power at the same time the pump is needed most. A backup keeps it running until the electricity comes back." },
+    { "q": "Should I replace the cast iron drains in my Realty Plot house?", "a": "Not always. Plenty of old cast iron still has years left. We run a camera through it, show you the footage and only recommend replacing sections that are cracked, scaled badly or collapsing." },
+    { "q": "Can you replace both water heaters in a two-family home in one visit?", "a": "Usually, yes. Doing both together means one trip, one permit where needed and fewer shutoffs for tenants. We explain the options for each unit, including tank sizes, before you decide." },
+    { "q": "What should a landlord do before a unit sits empty in winter?", "a": "Keep the heat on at a safe level, open cabinet doors on outside walls and check the unit regularly. For longer vacancies, we can drain the lines so nothing is left to freeze." },
+    { "q": "Do you work on historic homes in the Stockade?", "a": "Yes. We take care with old floors, trim and plaster, route new lines where they will not be seen when possible and talk through any choices that affect the look of the house." }
+  ],
+  "ctaHeading": "Schenectady Plumber, 24/7"
+}

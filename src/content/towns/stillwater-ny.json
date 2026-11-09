@@ -1,0 +1,48 @@
+{
+  "name": "Stillwater",
+  "order": 22,
+  "county": "Saratoga",
+  "region": "capital-region",
+  "zips": ["12170", "12118", "12866"],
+  "neighborhoods": ["Village of Stillwater", "Riverside", "Bemis Heights", "Saratoga Lake east shore", "Ketchums Corners", "Route 9P corridor", "Hudson River shoreline"],
+  "nearby": ["mechanicville-ny", "halfmoon-ny", "saratoga-springs-ny", "saratoga-ny", "easton-ny", "ballston-spa-ny"],
+  "geo": { "lat": 42.9387, "lng": -73.6532 },
+  "seoTitle": "Plumber in Stillwater, NY | River and Lake Homes | {shortName}",
+  "metaDescription": "Stillwater, NY plumber for Hudson riverside and Saratoga Lake homes. Sump pumps, frozen pipes, water heaters and well water treatment 24/7. Call {phone}.",
+  "imageAlt": "White bungalow with a front porch among autumn trees",
+  "hero": {
+    "eyebrow": "Saratoga County plumber",
+    "h1": "Plumber in Stillwater, NY",
+    "sub": "Between the Hudson River and Saratoga Lake, Stillwater homes face water from every side. We fix sump pumps, frozen lines, water heaters and leaks across town, day or night, with upfront prices."
+  },
+  "intro": "{name} serves the village and town of Stillwater, from the Hudson riverbank to the east shore of Saratoga Lake. The village has older homes along the river and canal, while the rest of town mixes farmland, newer subdivisions and lake houses, some once used only in summer. Each setting has its own plumbing needs, and we handle all of them.",
+  "popular": ["sump-pumps", "frozen-pipe-repair", "water-heater-repair", "water-softener-installation", "emergency-plumbing", "drain-cleaning"],
+  "problems": [
+    { "title": "Converted lake camps freezing up", "text": "Cottages around Saratoga Lake that were built for summer use often have pipes in uninsulated crawl spaces. Once they become year round homes, winter freeze ups become a regular risk.", "service": "frozen-pipe-repair" },
+    { "title": "Basement water near the Hudson", "text": "Village homes close to the river and the old canal bed deal with high groundwater after heavy rain and spring melt. A reliable sump pump is essential.", "service": "sump-pumps" },
+    { "title": "Well water wearing out fixtures", "text": "Rural parts of town rely on private wells. Hard or iron rich water stains sinks, clogs aerators and leaves scale inside water heaters.", "service": "water-softener-installation" },
+    { "title": "Water heaters in tight lake house spaces", "text": "Many lake homes squeeze the water heater into a closet or crawl space. Limited access and poor venting can shorten its life and make repairs tricky.", "service": "water-heater-repair" }
+  ],
+  "housing": {
+    "heading": "River, Lake and Country Plumbing in Stillwater",
+    "paragraphs": [
+      "The village of Stillwater has 1800s homes along Hudson Avenue and the river, many with stone foundations, cellar water heaters and drains that have been updated in pieces. Low ground near the river and the former Champlain Canal route means groundwater is never far away.",
+      "Up the hill and out toward Bemis Heights and the Saratoga National Historical Park, homes spread out on larger lots, often with wells and septic. Around Saratoga Lake, older seasonal camps sit beside newer year round houses, and many have been expanded in ways that stretched the original plumbing."
+    ]
+  },
+  "howWeWork": {
+    "heading": "How We Serve Stillwater",
+    "paragraphs": [
+      "Stillwater is a reasonable drive north from {city} by Route 4 or the Northway, and we work in this part of Saratoga County most days. Emergency calls are answered {hours} and sent to the nearest available technician.",
+      "For lake homes, we can winterize or de winterize plumbing on a schedule that fits your season. On every job, you get a clear explanation and price before work begins, and a clean space when we finish."
+    ]
+  },
+  "faqs": [
+    { "q": "Can you make a lake cottage safe for year round use?", "a": "Often, yes. We can reroute or insulate pipes in crawl spaces, add heat cable where needed and upgrade the water heater. What makes sense depends on how the cottage was built, so we start with a walkthrough." },
+    { "q": "Do you winterize seasonal homes on Saratoga Lake?", "a": "Yes. We drain supply lines, protect traps and fixtures and shut down water heaters for the off season. In spring we reverse the process and check for any damage from the winter." },
+    { "q": "How do I keep my village basement dry?", "a": "A properly sized sump pump with a working float and a clear discharge line is the first defense. For homes near the river, a battery backup and a check of floor drains are also worth considering." },
+    { "q": "Do you serve the rural parts of Stillwater?", "a": "We do. We cover the village, Riverside, Bemis Heights, Ketchums Corners and homes on the back roads. Many of those calls involve well water treatment, frozen lines and water heaters." },
+    { "q": "Why does my water smell like rotten eggs?", "a": "That smell often comes from sulfur in well water or a reaction inside the water heater. We can test the water and check the heater's anode rod to find the source and recommend a fix." }
+  ],
+  "ctaHeading": "Plumber in Stillwater, 24/7"
+}

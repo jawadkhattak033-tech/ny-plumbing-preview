@@ -1,0 +1,48 @@
+{
+  "name": "Halfmoon",
+  "order": 18,
+  "county": "Saratoga",
+  "region": "capital-region",
+  "zips": ["12065", "12188", "12118"],
+  "neighborhoods": ["Crescent", "Route 146 corridor", "Route 9 corridor", "Button Road area", "Farm to Market Road area", "Mohawk River shoreline", "Route 236 area"],
+  "nearby": ["clifton-park-ny", "mechanicville-ny", "troy-ny", "latham-ny", "stillwater-ny", "colonie-ny"],
+  "geo": { "lat": 42.8617, "lng": -73.729 },
+  "seoTitle": "Plumber in Halfmoon, NY | Newer Home Plumbing | {shortName}",
+  "metaDescription": "Halfmoon, NY plumber for newer subdivisions and townhomes. Water heaters, tankless upgrades, sump pumps, softeners and drain cleaning 24/7. Call {phone}.",
+  "imageAlt": "Gray shingled house with a wraparound white porch and a green lawn",
+  "hero": {
+    "eyebrow": "Southern Saratoga County plumber",
+    "h1": "Plumber in Halfmoon, NY",
+    "sub": "Most Halfmoon homes are newer, but builder installed plumbing still wears out. We replace water heaters, service sump pumps and fix leaks in subdivisions and townhomes across town, any hour, with upfront pricing."
+  },
+  "intro": "{name} serves Halfmoon homeowners from Crescent and the Mohawk River shoreline up to the Clifton Park line. Halfmoon has grown quickly since the 1980s, and many subdivisions off Route 146, Route 9 and Route 236 are now reaching the age when original water heaters, fill valves and sump pumps start to fail. We help owners stay ahead of those repairs.",
+  "popular": ["water-heater-replacement", "tankless-water-heaters", "sump-pumps", "water-softener-installation", "faucet-and-sink-repair", "garbage-disposals"],
+  "problems": [
+    { "title": "Original water heaters hitting their limit", "text": "Tanks installed when a subdivision was built often last ten to fifteen years. Many in Halfmoon are past that now, and rust colored water or a damp pan are signs it is time.", "service": "water-heater-replacement" },
+    { "title": "Sump pumps in heavy clay soil", "text": "Much of Halfmoon sits on dense clay that holds water against foundations. Sump pumps work hard every spring, and a failed float switch can mean a wet finished basement.", "service": "sump-pumps" },
+    { "title": "Plastic fittings giving out", "text": "Builder grade supply lines, compression fittings and faucet cartridges were not made to last decades. Slow drips under sinks and at toilet connections are common service calls.", "service": "faucet-and-sink-repair" },
+    { "title": "Disposals and dishwashers wearing out together", "text": "Kitchens in homes built around the same time tend to see appliance failures in waves. Jammed or leaking garbage disposals are often the first to go.", "service": "garbage-disposals" }
+  ],
+  "housing": {
+    "heading": "Plumbing in Halfmoon's Subdivisions",
+    "paragraphs": [
+      "Halfmoon housing is mostly colonials, townhomes and ranches built from the 1980s onward, with plenty of construction in the last twenty years. These homes typically have PVC drains, copper or PEX supply lines and a gas or electric tank water heater in the basement. The basics are sound, but builder grade parts reach the end of their life at roughly the same time across a neighborhood.",
+      "Older pockets remain near Crescent and the river, with mid century homes and a few farmhouses. Those houses bring older drains and sometimes private wells, so we come prepared for both new and old systems."
+    ]
+  },
+  "howWeWork": {
+    "heading": "Plumbing Upgrades and Repairs in Halfmoon",
+    "paragraphs": [
+      "Halfmoon is a quick trip up the Northway from {city}. Many calls here are planned upgrades, such as a tankless heater, a softener or a sump pump with battery backup, and we schedule those at a time that works for you.",
+      "For emergencies, we answer {hours}. Before we start any job, we explain the options, share the price and confirm you want to go ahead. When we finish, the work area is cleaned and old parts are hauled away."
+    ]
+  },
+  "faqs": [
+    { "q": "Should I replace my water heater before it fails?", "a": "If the tank is past its expected life and showing rust, noise or slow recovery, planned replacement avoids a surprise flood. We can check the age from the label and the condition of the tank and give you an honest recommendation." },
+    { "q": "Is a tankless water heater worth it in a Halfmoon home?", "a": "For many families, yes. Tankless units free up basement space and provide steady hot water. Cost depends on gas line size, venting and where the unit will go. We assess those details before quoting." },
+    { "q": "Do I need a backup sump pump?", "a": "In clay soil with a finished basement, a battery backup is worth considering. It keeps water out if the main pump fails or the power goes out during a storm, which is when you need it most." },
+    { "q": "Do you work on townhomes with HOA rules?", "a": "Yes. We work in many Halfmoon townhome communities and can coordinate with your association when a repair affects shared walls, water shutoffs or common lines. We keep you and the manager informed so nothing is a surprise." },
+    { "q": "Is the water in Halfmoon hard?", "a": "It depends on your source and neighborhood. Some homes see more scale than others. If you notice white crust on fixtures or spots on dishes, a quick test tells us whether a softener makes sense." }
+  ],
+  "ctaHeading": "Plumber in Halfmoon, 24/7"
+}

@@ -1,0 +1,95 @@
+---
+/** Town page (/<town>-ny/). Copy: src/content/towns/<slug>.json */
+import BaseLayout from './BaseLayout.astro';
+import { PageHero, TrustStrip, Reviews, Faq, CtaBand, WorkGrid, LinkTile, LeadForm, Icon } from '../components/sections';
+import { business, url, img, getTowns, getServices, getCommercial, getRegions, serviceLink } from '../lib/site';
+
+interface Props { slug: string; }
+const { slug } = Astro.props;
+const [towns, services, commercial, regions] = await Promise.all([getTowns(), getServices(), getCommercial(), getRegions()]);
+const t = towns.find((x) => x.slug === slug)!;
+const region = regions.find((r) => r.slug === t.region)!;
+const st = business.address.state;
+const popular = t.popular.map((s) => services.find((x) => x.slug === s)).filter(Boolean) as typeof services;
+const more = services.filter((s) => !t.popular.includes(s.slug));
+const nearby = t.nearby.map((s) => towns.find((x) => x.slug === s)).filter(Boolean) as typeof towns;
+const sameCounty = towns.filter((x) => x.county === t.county && x.slug !== slug);
+const problems = await Promise.all(t.problems.map(async (p) => ({ ...p, link: await serviceLink(p.service) })));
+const crumbs = [
+  { name: 'Home', path: '/' },
+  { name: 'Service Areas', path: '/service-areas/' },
+  { name: region.name, path: url.region(region.slug) },
+  { name: t.name, path: url.town(slug) },
+];
+---
+<BaseLayout
+  title={t.seoTitle}
+  description={t.metaDescription}
+  crumbs={crumbs}
+  faqs={t.faqs}
+  area={{ type: 'City', name: `${t.name}, ${st}` }}
+  geo={{ lat: t.geo.lat, lng: t.geo.lng, place: `${t.name}, ${business.address.stateName}` }}
+  locality={`${t.name}, ${st}`}
+>
+  <PageHero eyebrow={t.hero.eyebrow} h1={t.hero.h1} sub={t.hero.sub} image={img.town(slug)} imageAlt={t.imageAlt} crumbs={crumbs} />
+  <TrustStrip />
+
+  <section class="section"><div class="container town-lead">
+    <div>
+      <span class="eyebrow">Plumber in {t.name}, {st}</span>
+      <h2>Plumbing Services in {t.name}, {st}</h2>
+      <p class="lead">{t.intro}</p>
+      <h3 class="svc-group-title">Most requested in {t.name}</h3>
+      <div class="svc-grid">{popular.map((s) => <LinkTile href={url.service(s.slug)} label={s.title} />)}</div>
+      <h3 class="svc-group-title">More plumbing services</h3>
+      <div class="svc-grid">{more.map((s) => <LinkTile href={url.service(s.slug)} label={s.title} />)}</div>
+      <h3 class="svc-group-title">Commercial plumbing in {t.name}</h3>
+      <div class="svc-grid">{commercial.map((s) => <LinkTile href={url.commercial(s.slug)} label={s.title} />)}</div>
+    </div>
+    <div class="form-card">
+      <h3>Request a Plumber in {t.name}</h3>
+      <LeadForm id="town" formName="town" />
+      <p class="callback-note"><Icon name="clock" size={18} /> Request online and our team usually calls back within two hours. For emergencies, call {business.phone}.</p>
+    </div>
+  </div></section>
+
+  <WorkGrid heading="Sample Plumbing Work" offset={t.order} />
+  <Reviews heading={`${t.name} Customers Trust ${business.shortName}`} offset={t.order} />
+
+  <section class="section section-soft"><div class="container">
+    <div class="section-head"><span class="eyebrow">What we see most</span><h2>Common Plumbing Problems in {t.name} Homes and Businesses</h2></div>
+    <div class="grid-4">
+      {problems.map((p) => <div class="problem-card"><h3>{p.title}</h3><p>{p.text}</p><a href={p.link.href}>{p.link.title} <Icon name="arrow" size={16} /></a></div>)}
+    </div>
+  </div></section>
+
+  <section class="section"><div class="container grid-2 top">
+    <div class="prose"><span class="eyebrow">Local know how</span><h2>{t.housing.heading}</h2>{t.housing.paragraphs.map((x) => <p>{x}</p>)}</div>
+    <div class="prose"><span class="eyebrow">How we work in {t.name}</span><h2>{t.howWeWork.heading}</h2>{t.howWeWork.paragraphs.map((x) => <p>{x}</p>)}</div>
+  </div></section>
+
+  <Faq heading={`${t.name} Plumbing Questions`} items={t.faqs} />
+
+  <section class="section"><div class="container area-compact">
+    <div>
+      <h3>Neighborhoods we serve in {t.name}</h3>
+      <ul class="chips">{t.neighborhoods.map((n) => <li>{n}</li>)}</ul>
+      <h3 style="margin-top:18px">{t.name} ZIP codes</h3>
+      <ul class="chips">{t.zips.map((z) => <li>{z}</li>)}</ul>
+    </div>
+    <div>
+      <h3>Nearby towns we serve</h3>
+      <ul class="plain-links">{nearby.map((n) => <li><a href={url.town(n.slug)}>Plumber in {n.name}</a></li>)}</ul>
+    </div>
+    <div>
+      <h3>More of {t.county} County</h3>
+      <ul class="plain-links">
+        {sameCounty.map((n) => <li><a href={url.town(n.slug)}>Plumber in {n.name}</a></li>)}
+        <li><a href={url.region(region.slug)}>{region.name} service area</a></li>
+        <li><a href="/service-areas/">All {business.address.stateName} service areas</a></li>
+      </ul>
+    </div>
+  </div></section>
+
+  <CtaBand heading={t.ctaHeading} />
+</BaseLayout>

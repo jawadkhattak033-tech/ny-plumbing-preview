@@ -1,0 +1,44 @@
+---
+/**
+ * Sample work photo tiles that open in a lightbox. The photos are stock
+ * images for the preview, so all wording says "Sample Work", never "our jobs". As a section by default; pass
+ * bare to render only the grid (Our Work page).
+ */
+import Img from './Img.astro';
+import work from '../data/work.json';
+interface Props { heading?: string; count?: number; offset?: number; gallery?: boolean; bare?: boolean; lead?: string; }
+const {
+  heading = 'Sample Work',
+  count = 4,
+  offset = 0,
+  gallery = false,
+  bare = false,
+  lead = 'Sample photos of the kinds of plumbing work we handle. These are stock images, not photos from our jobs.',
+} = Astro.props;
+const list = work.items;
+const shown = gallery ? list : Array.from({ length: Math.min(count, list.length) }, (_, i) => list[(offset + i) % list.length]);
+const grid = shown.map((w) => ({ ...w, full: `/images/photos/${w.image}-1200.webp` }));
+---
+{bare ? (
+  <div class:list={['work-grid', { gallery }]}>
+    {grid.map((w) => (
+      <figure class="work-tile">
+        <a href={w.full} class="work-open" data-caption={w.caption}><Img name={w.image} alt={w.caption} sizes="(max-width: 767px) 50vw, 300px" maxWidth={1200} /></a>
+        <figcaption>{w.caption}</figcaption>
+      </figure>
+    ))}
+  </div>
+) : (
+  <section class="section"><div class="container">
+    <div class="section-head"><span class="eyebrow">Sample work</span><h2>{heading}</h2><p class="lead">{lead}</p></div>
+    <div class:list={['work-grid', { gallery }]}>
+      {grid.map((w) => (
+        <figure class="work-tile">
+          <a href={w.full} class="work-open" data-caption={w.caption}><Img name={w.image} alt={w.caption} sizes="(max-width: 767px) 50vw, 300px" maxWidth={1200} /></a>
+          <figcaption>{w.caption}</figcaption>
+        </figure>
+      ))}
+    </div>
+    <div class="btn-row center"><a href="/our-work/" class="btn btn-outline-navy">See all sample work</a></div>
+  </div></section>
+)}

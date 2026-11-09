@@ -1,0 +1,19 @@
+{
+  "name": "plumbing-site",
+  "type": "module",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "images": "node scripts/make-images.mjs",
+    "dev": "astro dev",
+    "build": "node scripts/make-images.mjs && astro build",
+    "preview": "astro preview"
+  },
+  "dependencies": {
+    "@astrojs/sitemap": "^3.7.4",
+    "@fontsource/montserrat": "^5.3.0",
+    "@fontsource/source-sans-3": "^5.3.1",
+    "astro": "^7.4.7",
+    "sharp": "^0.35.5"
+  }
+}

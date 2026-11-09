@@ -1,0 +1,41 @@
+---
+/**
+ * Rating header + review cards from src/data/reviews.json.
+ * `count` limits the cards; `offset` rotates which reviews show so
+ * neighboring pages are not identical. Cards with sample: true carry a
+ * visible "Sample review" tag until real reviews replace them.
+ */
+import Icon from './Icon.astro';
+import reviews from '../data/reviews.json';
+import { business, facts } from '../lib/site';
+interface Props { heading?: string; eyebrow?: string; count?: number; offset?: number; all?: boolean; soft?: boolean; }
+const { heading = `What Customers Say About ${business.shortName}`, eyebrow = 'Customer reviews', count = 3, offset = 0, all = false, soft = false } = Astro.props;
+const list = reviews.items;
+const shown = all ? list : Array.from({ length: Math.min(count, list.length) }, (_, i) => list[(offset + i) % list.length]);
+---
+<section class:list={['section', { 'section-soft': soft }]}><div class="container">
+  <div class="section-head"><span class="eyebrow">{eyebrow}</span><h2>{heading}</h2></div>
+  <div class="rating-head">
+    <span class:list={['rating-big', { placeholder: facts.ratingIsPlaceholder }]}>{facts.rating}</span>
+    <div>
+      <div class="stars" aria-hidden="true">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
+      <div class="g-badge"><Icon name="google" size={16} /> {facts.reviews} Google reviews</div>
+    </div>
+    {!all && <a href="/reviews/" class="btn btn-outline-navy btn-sm">Read all reviews</a>}
+  </div>
+  <div class="review-grid">
+    {shown.map((r) => (
+      <div class="review-card">
+        <div class="review-top">
+          <div class="stars" role="img" aria-label="5 out of 5 stars">&#9733;&#9733;&#9733;&#9733;&#9733;</div>
+          {r.sample && <span class="sample-tag">Sample review</span>}
+        </div>
+        <blockquote>{r.text}</blockquote>
+        <div class="who">
+          <span class="avatar" aria-hidden="true">{r.name.trim().charAt(0)}</span>
+          <span>{r.name}<small>{r.sample ? 'Placeholder for a real Google review' : r.date}</small></span>
+        </div>
+      </div>
+    ))}
+  </div>
+</div></section>

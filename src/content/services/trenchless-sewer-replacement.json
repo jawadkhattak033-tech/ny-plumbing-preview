@@ -1,0 +1,74 @@
+{
+  "title": "Trenchless Sewer Replacement",
+  "order": 5,
+  "seoTitle": "Trenchless Sewer Line Replacement in {state} | {shortName}",
+  "metaDescription": "Replace a failing sewer line without trenching your lawn or driveway. {shortName} offers pipe bursting and lining with a firm price up front. Call {phone}.",
+  "imageAlt": "Blue water line with valves exposed in an open trench",
+  "cardText": "Pipe bursting and pipe lining replace a worn out sewer lateral through small access holes, sparing lawns, driveways and trees.",
+  "hero": {
+    "eyebrow": "Trenchless sewer replacement",
+    "h1": "Trenchless Sewer Replacement in {state}",
+    "sub": "A new sewer line without a trench across your lawn, driveway or garden. We replace the pipe through one or two small openings and leave most of your yard untouched."
+  },
+  "quickAnswer": "Call {name} at {phone} to see if trenchless replacement fits your line. We camera the full pipe, explain whether pipe bursting or lining suits it, and give you a firm price before any work. Most yards need only small access pits.",
+  "intro": [
+    "Traditional sewer replacement means digging a trench the full length of the pipe. That can tear up a lawn, a paved driveway, a front walk and the roots of a tree you have watched grow for twenty years. Trenchless methods replace the pipe from the inside, so the surface above it stays mostly in place.",
+    "There are two main approaches. Pipe bursting pulls a new seamless pipe through the old one, breaking the old pipe outward as it goes. Pipe lining inserts a resin soaked tube that cures into a new pipe inside the old one. Each has its place, depending on the condition, size and layout of the existing line.",
+    "Trenchless is not right for every home. A fully collapsed pipe, a line with severe sags or one that needs a new route may still call for an open dig. We will show you the camera footage and tell you which method makes sense and why. Sometimes the best plan mixes both."
+  ],
+  "signs": {
+    "heading": "Signs You May Need a New Sewer Line",
+    "items": [
+      "Camera footage shows cracks, root intrusion or breaks in many places.",
+      "Your sewer line is clay tile or Orangeburg pipe from decades ago.",
+      "You have paid for repeated sewer cleanings in the past year or two.",
+      "A previous spot repair fixed one area, and another section failed.",
+      "The line runs under a driveway, patio or mature tree you want to keep.",
+      "Sewer gas odor or soggy soil appears along the pipe route."
+    ]
+  },
+  "covers": {
+    "heading": "What Our Trenchless Replacement Covers",
+    "items": [
+      "Full camera inspection and line locating",
+      "Pipe bursting with new seamless pipe",
+      "Cured in place pipe lining for suitable lines",
+      "Access pit excavation and restoration",
+      "Reconnection at the house and the main",
+      "Permit coordination and final camera verification"
+    ]
+  },
+  "bookLabel": "Get a Trenchless Estimate",
+  "process": {
+    "heading": "How Trenchless Replacement Works",
+    "steps": [
+      { "title": "Inspect and Measure", "text": "We camera the entire line, record its length, depth, material and every bend, and confirm it is a good candidate for trenchless work." },
+      { "title": "Recommend the Method", "text": "Based on the footage, we explain whether bursting or lining fits best, what each involves and the firm price for the job." },
+      { "title": "Open Small Access Points", "text": "We dig one pit near the house and another near the street connection, or work from existing cleanouts where possible." },
+      { "title": "Replace and Verify", "text": "The new pipe goes in, is connected at both ends and checked on camera. Then we backfill the access points and clean up." }
+    ]
+  },
+  "local": {
+    "heading": "Why Trenchless Suits Many {state} Properties",
+    "paragraphs": [
+      "Many homes across the state sit on older streets with tight lots, stone walls, mature shade trees and long paved driveways leading to the road. Trenching through all of that can cost more to restore than the pipe itself. Going trenchless keeps the landscape and hardscape you have invested in.",
+      "Winter also matters. Open trenching through deeply frozen ground is slow work, while trenchless methods need far less excavation. Most towns still require permits and an inspection at the connection, and we take care of scheduling those."
+    ]
+  },
+  "cost": {
+    "heading": "What Drives the Cost of Trenchless Replacement",
+    "paragraphs": [
+      "Length of the line, depth, pipe diameter and the number of bends all affect the price. The condition of the old pipe decides whether bursting or lining is possible. Access matters too. A clear path near the foundation and a known street connection make setup faster.",
+      "Remember to weigh what you save on restoration. Not replacing a driveway, walkway or lawn is often part of the value. We give you the full price before we begin."
+    ]
+  },
+  "faqs": [
+    { "q": "What is the difference between pipe bursting and pipe lining?", "a": "Pipe bursting pulls a brand new pipe through the old one, breaking the old pipe apart as it goes. Pipe lining coats the inside of the old pipe with a resin tube that hardens into a new pipe wall. Bursting can keep or increase the pipe size, while lining slightly reduces it." },
+    { "q": "How long does trenchless sewer replacement take?", "a": "Many residential jobs take one to two days, including digging the access pits and restoring them. You will be without the sewer for part of that time, and we will tell you in advance when to stop using water." },
+    { "q": "Is a trenchless line as durable as a dug and replaced one?", "a": "Yes, when installed properly. Pipe bursting uses the same kind of durable plastic pipe used in open trench work, and lining creates a seamless pipe with no joints for roots to enter. The material choice is something we explain with your estimate." },
+    { "q": "Can trenchless work on a collapsed pipe?", "a": "Lining needs an intact enough host pipe to hold its shape, so a collapsed line usually rules it out. Pipe bursting can sometimes push through a partial collapse. A fully collapsed or badly sagging line may need a traditional dig in that section." },
+    { "q": "Will you need to dig up my driveway?", "a": "In most cases, no. Access pits are usually placed in lawn or garden areas near the house and the street. If the connection point sits under pavement, we will tell you before the job and plan the smallest possible opening." }
+  ],
+  "related": ["sewer-line-repair", "sewer-camera-inspection", "repiping"],
+  "ctaHeading": "Want a new sewer line without the trench?"
+}

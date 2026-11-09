@@ -1,0 +1,48 @@
+{
+  "name": "Niskayuna",
+  "order": 21,
+  "county": "Schenectady",
+  "region": "capital-region",
+  "zips": ["12309", "12304"],
+  "neighborhoods": ["Rosendale", "Avon Crest", "Niska-Isle", "Aqueduct", "Balltown Road corridor", "Lock 7 area", "Mohawk Road area"],
+  "nearby": ["schenectady-ny", "colonie-ny", "latham-ny", "clifton-park-ny", "rotterdam-ny"],
+  "geo": { "lat": 42.7798, "lng": -73.8457 },
+  "seoTitle": "Plumber in Niskayuna, NY | Mid-Century Homes | {shortName}",
+  "metaDescription": "Niskayuna, NY plumber for mid-century ranches, split levels and colonials. Repiping, sewer camera checks, water heaters and drains 24/7. Call {phone}.",
+  "imageAlt": "Blue two-story house with a white front porch and a leafy street tree",
+  "hero": {
+    "eyebrow": "Schenectady County plumber",
+    "h1": "Plumber in Niskayuna, NY",
+    "sub": "Niskayuna's well kept 1950s and 1960s homes are reaching the age when original plumbing needs work. We handle repairs and upgrades carefully, around the clock, with the price explained before we start."
+  },
+  "intro": "{name} serves Niskayuna homeowners from the Schenectady line out to the Mohawk River and the Colonie border. Much of the town was built in the decades after World War II, when engineers and researchers moved here to work at the nearby labs. Their homes were solidly built, and many owners have kept them in fine shape, but the pipes inside are now sixty years old or more.",
+  "popular": ["repiping", "sewer-camera-inspection", "water-heater-replacement", "drain-cleaning", "toilet-repair", "tankless-water-heaters"],
+  "problems": [
+    { "title": "Original copper wearing thin", "text": "Copper supply lines installed in the 1950s and 1960s can develop pinhole leaks after decades of use. One small leak often means others are not far behind.", "service": "repiping" },
+    { "title": "Cast iron drains under slab additions", "text": "Family rooms and additions built on slabs sometimes hide cast iron drains that have rusted from the inside. Slow drains in one wing of the house are a common clue.", "service": "sewer-camera-inspection" },
+    { "title": "Vintage bathroom fixtures", "text": "Original toilets and valves in pastel tiled bathrooms are charming, but replacement parts can be hard to find. Constant running and weak flushes are common complaints.", "service": "toilet-repair" },
+    { "title": "Laterals near the river bluffs", "text": "Homes on the slopes toward the Mohawk can have long laterals that shift slightly as soil settles. Small offsets catch debris and lead to repeat clogs.", "service": "sewer-line-repair" }
+  ],
+  "housing": {
+    "heading": "Plumbing in Niskayuna's Mid-Century Homes",
+    "paragraphs": [
+      "Neighborhoods like Rosendale, Avon Crest and the streets off Balltown Road are full of ranches, split levels and colonials from the 1950s and 1960s. Most have copper supply pipe, cast iron drains and a basement or crawl space with the main shutoff tucked in a corner. Many owners have updated kitchens and baths while the pipes in the walls remain original.",
+      "Closer to the river, around Niska-Isle and the Lock 7 area, homes range from older riverside cottages to larger custom houses. Lots slope toward the water, which affects how sewer laterals and basement drains behave over time."
+    ]
+  },
+  "howWeWork": {
+    "heading": "Careful Work in Well Kept Homes",
+    "paragraphs": [
+      "Many Niskayuna homeowners have lived in their houses for decades and care about preserving them. We protect finished floors, plan any wall openings with you and explain the trade offs between spot repairs and larger upgrades.",
+      "We answer {hours} for emergencies. For planned work like repiping or a water heater upgrade, we give you a written scope and price first so you can decide without pressure."
+    ]
+  },
+  "faqs": [
+    { "q": "I found a pinhole leak in my copper pipe. Should I repipe?", "a": "One leak can be repaired on its own. If you have had several, or the pipe is thin and discolored, repiping is often the better long term choice. We can test a section and tell you what we see." },
+    { "q": "Can you repair drains under a slab addition?", "a": "Yes. We start with a camera to find the exact problem area. Depending on what we see, lining the pipe or opening a small section of floor may be the best option, and we explain both." },
+    { "q": "Can you find parts for an older bathroom?", "a": "Often we can find compatible replacement parts or a modern valve that fits the existing opening. When that is not possible, we explain what would need to change so you can make an informed choice." },
+    { "q": "Do you serve the Lock 7 and river road neighborhoods?", "a": "Yes. We cover all of Niskayuna, including Niska-Isle, the Aqueduct area and homes along the Mohawk. Calls near the river often involve sump pumps, basement drains and sewer laterals on sloped lots." },
+    { "q": "Is it worth switching to a tankless water heater?", "a": "It can be if your current tank is aging and you want more space or steady hot water. We check your gas line, venting and household demand before recommending it, since not every home is a good fit." }
+  ],
+  "ctaHeading": "Plumber in Niskayuna, 24/7"
+}

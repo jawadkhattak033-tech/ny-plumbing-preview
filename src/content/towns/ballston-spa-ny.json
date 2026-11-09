@@ -1,0 +1,48 @@
+{
+  "name": "Ballston Spa",
+  "order": 14,
+  "county": "Saratoga",
+  "region": "capital-region",
+  "zips": ["12020", "12027", "12019"],
+  "neighborhoods": ["Village center", "Front Street", "Milton Avenue", "Kayaderosseras Creek area", "Milton", "Burnt Hills", "Ballston Lake"],
+  "nearby": ["saratoga-springs-ny", "clifton-park-ny", "halfmoon-ny", "stillwater-ny", "niskayuna-ny", "schenectady-ny"],
+  "geo": { "lat": 43.0009, "lng": -73.849 },
+  "seoTitle": "Plumber in Ballston Spa, NY | 24/7 Service | {shortName}",
+  "metaDescription": "Ballston Spa, NY plumber for historic village homes, Milton and Burnt Hills. Drain cleaning, water heaters, sump pumps and pipe repair 24/7. Call {phone}.",
+  "imageAlt": "Blue two-story house with a white front porch and a leafy street tree",
+  "hero": {
+    "eyebrow": "Saratoga County plumber",
+    "h1": "Plumber in Ballston Spa, NY",
+    "sub": "From Victorian homes in the village to newer houses out toward Milton and Burnt Hills, we fix leaks, clear drains and replace water heaters. We answer around the clock and price every job upfront."
+  },
+  "intro": "{name} serves Ballston Spa and the surrounding towns of Milton and Ballston. The village packs a lot of history into a few square blocks, and its plumbing reflects every era since the mineral springs drew visitors in the 1800s. Our technicians are comfortable in a fieldstone cellar under a Front Street house and in a new build off Route 50 alike.",
+  "popular": ["drain-cleaning", "sump-pumps", "water-heater-repair", "frozen-pipe-repair", "water-softener-installation", "sewer-line-repair"],
+  "problems": [
+    { "title": "Wet fieldstone cellars", "text": "Many village homes sit on stone foundations near the Kayaderosseras and Gordon Creek. Groundwater seeps in each spring, and an old or undersized sump pump can fall behind.", "service": "sump-pumps" },
+    { "title": "Pipes in unheated additions", "text": "Back porches and kitchen ells added to older houses often have little insulation. Supply lines running through them are the first to freeze on a hard January night.", "service": "frozen-pipe-repair" },
+    { "title": "Mineral buildup on fixtures", "text": "Hard water leaves scale on faucet aerators, showerheads and inside water heaters. Over time it shortens the life of the heater and dulls the flow at the tap.", "service": "water-softener-installation" },
+    { "title": "Old laterals under village streets", "text": "Some sewer laterals in the village have been in the ground for close to a century. Offset joints and cracked clay lead to recurring slow drains and the occasional backup.", "service": "sewer-line-repair" }
+  ],
+  "housing": {
+    "heading": "Plumbing for Historic Village Homes",
+    "paragraphs": [
+      "The village core has Italianate, Queen Anne and Greek Revival houses, many of them converted to two or three apartments over the years. Each conversion added its own plumbing, so we often find several water heaters, shared drain lines and pipes routed through closets. We trace the layout carefully before making changes.",
+      "Out in the towns of Milton and Ballston, housing shifts to farmhouses, 1960s ranches and newer subdivisions. Those homes bring their own issues, from aging well tanks on older properties to builder grade water heaters reaching the end of their life in newer ones."
+    ]
+  },
+  "howWeWork": {
+    "heading": "Working in and Around the Village",
+    "paragraphs": [
+      "Ballston Spa is an easy trip up the Northway from {city}, and we have technicians working in southern Saratoga County most days. That helps us reach village emergencies quickly, even in the middle of the night.",
+      "Narrow driveways and on street parking are common in the village, so we plan equipment and access ahead of time. You get a clear price before we start, and we leave the cellar or bathroom as clean as we found it."
+    ]
+  },
+  "faqs": [
+    { "q": "My old house has several water heaters. Can that be simplified?", "a": "Sometimes. In converted village homes we can occasionally combine units or move to tankless heaters that free up space. It depends on how the apartments are metered and laid out. We look at the setup and explain the options plainly." },
+    { "q": "How do I keep my stone cellar from flooding?", "a": "A properly sized sump pump with a battery backup handles most seasonal groundwater. We also check that the discharge line carries water well away from the foundation, since a short line can send it right back in." },
+    { "q": "Do you work on homes in Burnt Hills and Ballston Lake?", "a": "Yes. We cover Burnt Hills, Ballston Lake, Milton and Malta along with the village. Many of those calls involve water heaters, sump pumps and well tank issues on older rural lots." },
+    { "q": "Is hard water a problem in Ballston Spa?", "a": "It varies by street and by water source. Homes on private wells outside the village are more likely to see heavy scale. A simple test tells us whether a softener is worth it for your house." },
+    { "q": "Can you find a leak in a house with plaster and tin ceilings?", "a": "We use moisture meters, thermal imaging and pressure testing to narrow the source before opening anything. In historic homes we take extra care with original finishes and keep any opening small." }
+  ],
+  "ctaHeading": "Plumber in Ballston Spa, 24/7"
+}

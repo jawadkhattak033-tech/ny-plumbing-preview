@@ -1,0 +1,48 @@
+{
+  "name": "Queensbury",
+  "order": 10,
+  "county": "Warren",
+  "region": "capital-region",
+  "zips": ["12804", "12801", "12845"],
+  "neighborhoods": ["West Glens Falls", "Glen Lake", "Assembly Point", "Cleverdale", "Harrisena", "Sunnyside", "Bay Road"],
+  "nearby": ["glens-falls-ny", "saratoga-ny", "saratoga-springs-ny", "easton-ny"],
+  "geo": { "lat": 43.3773, "lng": -73.6131 },
+  "seoTitle": "Plumber in Queensbury, NY | Lake Homes and More | {shortName}",
+  "metaDescription": "Queensbury, NY plumber for Lake George camps, Glen Lake homes and newer subdivisions. Burst pipes, softeners, sump pumps and water heaters. Call {phone}.",
+  "imageAlt": "Clear lake reflecting a forested hillside and clouds",
+  "hero": {
+    "eyebrow": "Warren County plumber",
+    "h1": "Plumber in Queensbury, NY",
+    "sub": "From Lake George camps on Assembly Point to newer homes off Bay Road, Queensbury plumbing has to handle hard winters and seasonal use. We answer anytime and quote first."
+  },
+  "intro": "{name} serves year round residents, seasonal owners and businesses throughout Queensbury. It is one of the farther towns from our {city} shop, so routine visits are scheduled ahead. Emergency calls are answered 24/7 and sent to the nearest available technician, and we give you a realistic arrival time up front.",
+  "popular": ["burst-pipe-repair", "frozen-pipe-repair", "water-softener-installation", "sump-pumps", "tankless-water-heaters", "emergency-plumbing"],
+  "problems": [
+    { "title": "Missed lines at closing time", "text": "Lake camps on Assembly Point and Cleverdale are drained each fall. One low spot or forgotten outdoor spigot can hold enough water to split a pipe, and nobody finds it until spring.", "service": "burst-pipe-repair" },
+    { "title": "Hard well water", "text": "Homes outside the town water district often draw from private wells. Hard water and minerals coat fixtures, stain sinks and shorten the life of water heaters and appliances.", "service": "water-softener-installation" },
+    { "title": "High groundwater near the lakes", "text": "Houses around Glen Lake and low ground near the shore can have water tables close to the basement floor. Spring melt keeps sump pumps running for weeks at a time.", "service": "sump-pumps" },
+    { "title": "Rental guests and hot water demand", "text": "Vacation rentals fill with guests taking showers back to back after a day on the lake. A standard tank cannot keep up, and the complaints come in fast.", "service": "tankless-water-heaters" }
+  ],
+  "housing": {
+    "heading": "Lakeside Camps and Year Round Homes",
+    "paragraphs": [
+      "Queensbury reaches from the edge of Glens Falls to the southern shore of Lake George. Along Assembly Point, Cleverdale and Rockhurst, many homes began as summer camps and have been expanded or winterized over time. Their plumbing often mixes old seasonal lines with newer year round work, and not all of it is protected from frost.",
+      "Inland, West Glens Falls has older homes close to the city line, while Harrisena, Sunnyside and the areas off Bay Road and West Mountain have newer subdivisions with larger houses. Some are on town water and sewer, and others rely on wells and septic systems."
+    ]
+  },
+  "howWeWork": {
+    "heading": "Plumbing Service Built Around the Seasons",
+    "paragraphs": [
+      "We answer {hours}. For seasonal owners, we can open plumbing in spring, check for winter damage and close it properly in fall. If you are out of town, we coordinate access and send updates as we go.",
+      "Every job starts with an upfront price. We clean up when we finish, test the repair and leave you with notes on anything that should be handled before the next season."
+    ]
+  },
+  "faqs": [
+    { "q": "How long does it take to reach Queensbury?", "a": "Queensbury is farther from {city} than most of our Capital Region towns, so planned work is scheduled ahead. Emergency calls are answered 24/7 and routed to the nearest available technician, with an honest arrival estimate." },
+    { "q": "Can you winterize my lake camp?", "a": "Yes. We drain the supply lines, water heater and fixtures, blow out low spots and add antifreeze to traps. We also note any lines that are hard to drain so they can be fixed before next year." },
+    { "q": "Do I need a softener if I am on a well?", "a": "Many Queensbury well owners benefit from one, but it depends on your water. We start with a test for hardness and iron, then recommend equipment sized to your home and usage." },
+    { "q": "Is a tankless water heater good for a vacation rental?", "a": "It can be a great fit because it supplies hot water continuously instead of from a fixed tank. The gas line, venting and number of bathrooms decide the right size. We check those before quoting." },
+    { "q": "What should I check when I open my camp in spring?", "a": "Before turning water back on, close drain valves and look for split pipes or loose fittings. Turn the water on slowly and watch for leaks. We can do the opening for you if you prefer." }
+  ],
+  "ctaHeading": "Queensbury Plumber, 24/7"
+}

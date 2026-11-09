@@ -1,0 +1,92 @@
+{
+  "_readme": "SAMPLE reviews for layout only. Each card shows a Sample review tag while sample is true. Before launch replace with real Google reviews (verbatim, with permission): set name, date (e.g. Google review, March 2026) and sample: false.",
+  "items": [
+    {
+      "text": "Our water heater gave out on a Sunday night with a house full of guests. Someone actually picked up the phone, a technician showed up the next morning, and we had hot water by lunch. He explained the options without pushing the most expensive one.",
+      "name": "Sample Customer A",
+      "date": "",
+      "sample": true,
+      "tags": [
+        "water-heater",
+        "home"
+      ]
+    },
+    {
+      "text": "Kitchen drain had been slow for months. They ran a camera, showed me grease buildup about twenty feet down, cleared it and showed me the clean pipe afterward. Shoe covers on, floor wiped when they left.",
+      "name": "Sample Customer B",
+      "date": "",
+      "sample": true,
+      "tags": [
+        "drain",
+        "home"
+      ]
+    },
+    {
+      "text": "We manage several older apartment buildings and need a plumber who answers after hours. They handle our tenant calls, send clear invoices and keep us updated with photos. That is rare.",
+      "name": "Sample Customer C",
+      "date": "",
+      "sample": true,
+      "tags": [
+        "commercial"
+      ]
+    },
+    {
+      "text": "Pipe burst in the crawl space during the cold snap. They talked me through shutting off the main on the phone and had someone there within a couple of hours. Fair price, quoted before they started.",
+      "name": "Sample Customer D",
+      "date": "",
+      "sample": true,
+      "tags": [
+        "emergency",
+        "home"
+      ]
+    },
+    {
+      "text": "Our restaurant's floor drains backed up during a Friday dinner rush. They came after close, jetted the line and set us up on a maintenance schedule. No problems since.",
+      "name": "Sample Customer E",
+      "date": "",
+      "sample": true,
+      "tags": [
+        "commercial",
+        "drain"
+      ]
+    },
+    {
+      "text": "Had a running toilet and a dripping tub faucet. Small jobs, but they treated them like they mattered. On time, polite, and the price matched the quote exactly.",
+      "name": "Sample Customer F",
+      "date": "",
+      "sample": true,
+      "tags": [
+        "home"
+      ]
+    },
+    {
+      "text": "Bought an old house and wanted the sewer line checked before closing. The camera inspection found a root intrusion and they gave us a written summary we used in negotiations.",
+      "name": "Sample Customer G",
+      "date": "",
+      "sample": true,
+      "tags": [
+        "sewer",
+        "home"
+      ]
+    },
+    {
+      "text": "Sump pump died during the spring thaw. They swapped it the same day and added a battery backup so we are covered next time the power goes out.",
+      "name": "Sample Customer H",
+      "date": "",
+      "sample": true,
+      "tags": [
+        "home",
+        "emergency"
+      ]
+    },
+    {
+      "text": "Clear communication from the first call to the final invoice. The technician answered every question and didn't rush us. We will call them first from now on.",
+      "name": "Sample Customer I",
+      "date": "",
+      "sample": true,
+      "tags": [
+        "home"
+      ]
+    }
+  ]
+}

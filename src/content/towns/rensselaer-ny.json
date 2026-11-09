@@ -1,0 +1,48 @@
+{
+  "name": "Rensselaer",
+  "order": 20,
+  "county": "Rensselaer",
+  "region": "capital-region",
+  "zips": ["12144"],
+  "neighborhoods": ["Downtown Broadway", "Fort Crailo", "Bath", "Riverfront", "Washington Avenue", "DeLaet's Landing", "East Street"],
+  "nearby": ["albany-ny", "troy-ny", "delmar-ny", "colonie-ny", "latham-ny"],
+  "geo": { "lat": 42.6426, "lng": -73.7429 },
+  "seoTitle": "Plumber in Rensselaer, NY | 24/7 Plumbing | {shortName}",
+  "metaDescription": "Rensselaer, NY plumber for riverfront and rail era homes near Broadway and Fort Crailo. Sewer backups, leaks, water heaters and drains 24/7. Call {phone}.",
+  "imageAlt": "Hudson River between wooded mountains, framed by tree branches",
+  "hero": {
+    "eyebrow": "Rensselaer County plumber",
+    "h1": "Plumber in Rensselaer, NY",
+    "sub": "Rensselaer sits right across the Hudson from our shop. We handle the river city's older homes, hillside streets and riverfront buildings, with fast emergency help and a firm price before any work begins."
+  },
+  "intro": "{name} is one of the closest plumbers to Rensselaer, just over the Dunn Memorial Bridge from {city}. The city grew around the river and the railroads, and many homes near Broadway and up the hill were built for workers in the rail yards and factories. We work on those houses, newer riverfront apartments and small businesses alike.",
+  "popular": ["emergency-plumbing", "sewer-line-repair", "drain-cleaning", "leak-detection", "water-heater-repair", "burst-pipe-repair"],
+  "problems": [
+    { "title": "Low lying basements near the river", "text": "Homes close to the Hudson sit near the water table. When the river runs high, floor drains and old sewer connections can let water back into the basement.", "service": "sewer-camera-inspection" },
+    { "title": "Steep laterals on hillside streets", "text": "Houses up the hill from Broadway often have long, steep sewer laterals. Steep pipe lets water outrun solids, which leaves buildup that turns into recurring clogs.", "service": "drain-cleaning" },
+    { "title": "Slow leaks in rail era walls", "text": "Older frame houses have pipes tucked inside walls and floors that have been patched many times. Small leaks can soak subfloors long before a stain appears.", "service": "leak-detection" },
+    { "title": "Burst lines in vacant or seasonal units", "text": "Apartments sitting empty between tenants sometimes lose heat. In a Rensselaer winter, an unheated unit can mean a burst pipe and water running through the floor below.", "service": "burst-pipe-repair" }
+  ],
+  "housing": {
+    "heading": "Riverfront and Rail Era Homes in Rensselaer",
+    "paragraphs": [
+      "Downtown Rensselaer and the streets around Fort Crailo have some of the oldest houses in the area, many dating to the 1800s. The historic Bath neighborhood to the south and the blocks along Washington Avenue and East Street hold frame and brick homes built when the rail yards were busy. Most have cast iron drains, older service lines and plumbing added in stages.",
+      "Along the river, newer developments like DeLaet's Landing bring modern systems with their own needs, such as booster pumps and shared risers. We work comfortably in both old and new buildings."
+    ]
+  },
+  "howWeWork": {
+    "heading": "Close By and Ready to Help",
+    "paragraphs": [
+      "Because Rensselaer is only minutes from our {city} shop, emergency calls here are among the fastest we can reach. We answer {hours}, so a backup or burst pipe never has to wait for morning.",
+      "We start every visit by finding the cause, not just treating the symptom. You get a straightforward price before we begin, and we clean up and show you the finished repair before we leave."
+    ]
+  },
+  "faqs": [
+    { "q": "How quickly can you reach Rensselaer?", "a": "Rensselaer is right across the river from our shop, so it is one of our fastest service areas. Emergency calls are handled first, and we tell you an honest arrival time when you call." },
+    { "q": "Why does my basement drain back up when the river is high?", "a": "In low lying homes, high groundwater and a stressed sewer system can push water back through floor drains. A camera inspection checks the line, and a backwater valve can often stop the problem." },
+    { "q": "Can you find a leak without tearing up my floors?", "a": "Yes, in most cases. We use thermal imaging, moisture meters and pressure tests to narrow down the source. That lets us open only a small area right where the leak is." },
+    { "q": "Do you work on apartment buildings and newer riverfront units?", "a": "We do. We handle repairs in multifamily buildings, condos and riverfront apartments, including shared risers, water heaters and drain lines, and coordinate access with owners and managers so tenants know what to expect." },
+    { "q": "How can I protect an empty rental from frozen pipes?", "a": "Keep the heat on at a safe low setting, open cabinet doors on outside walls and consider shutting off and draining the water if the unit will sit for a while. We can winterize a vacant unit if you prefer." }
+  ],
+  "ctaHeading": "Plumber in Rensselaer, 24/7"
+}

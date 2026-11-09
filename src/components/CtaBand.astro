@@ -1,0 +1,16 @@
+---
+import Icon from './Icon.astro';
+import { business, tel } from '../lib/site';
+interface Props { heading?: string; text?: string; }
+const {
+  heading = 'Need a plumber right now?',
+  text = `We answer ${business.hours.phrase}. Call and talk to a real person, or request service online and we will call you back.`,
+} = Astro.props;
+---
+<section class="section"><div class="container"><div class="cta-band">
+  <div><h2>{heading}</h2><p>{text}</p></div>
+  <div class="btn-row">
+    <a href={tel} class="btn btn-white"><Icon name="phone" size={18} /> {business.phone}</a>
+    <a href="#request" data-popup="book" class="btn btn-red">Request Service</a>
+  </div>
+</div></div></section>

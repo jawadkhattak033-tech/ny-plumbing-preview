@@ -1,0 +1,38 @@
+---
+/** /contact/. Copy: src/content/pages/contact.json */
+import BaseLayout from './BaseLayout.astro';
+import { PageHero, Reviews, Faq, LeadForm, Icon } from '../components/sections';
+import { business, tel, mapsLink, mapsEmbed, fullAddress, getPage, imgAlt } from '../lib/site';
+
+const p = await getPage('contact');
+const crumbs = [{ name: 'Home', path: '/' }, { name: 'Contact', path: '/contact/' }];
+---
+<BaseLayout title={p.seoTitle} description={p.metaDescription} crumbs={crumbs} faqs={p.faqs}>
+  <PageHero eyebrow={p.hero.eyebrow} h1={p.hero.h1} sub={p.hero.sub} image="contact-shop" imageAlt={imgAlt('contact-shop')} crumbs={crumbs} />
+
+  <section class="section"><div class="container grid-2 top">
+    <div class="prose">
+      <h2>{p.heading}</h2>
+      {p.intro.map((t: string) => <p>{t}</p>)}
+      <div class="footer-contact-item"><Icon name="phone" size={18} /><div><strong>Phone:</strong> <a href={tel}>{business.phone}</a></div></div>
+      <div class="footer-contact-item"><Icon name="mail" size={18} /><div><strong>Email:</strong> <a href={`mailto:${business.email}`}>{business.email}</a></div></div>
+      <div class="footer-contact-item"><Icon name="pin" size={18} /><div><strong>Address:</strong> <a href={mapsLink} target="_blank" rel="noopener noreferrer">{fullAddress}</a></div></div>
+      <div class="footer-contact-item"><Icon name="clock" size={18} /><div><strong>Hours:</strong> {business.hours.summary}</div></div>
+      <h3>Service area</h3>
+      <p>{p.areaText} <a href="/service-areas/">See every region and town we serve</a>.</p>
+      <div class="media-frame"><iframe src={mapsEmbed} loading="lazy" referrerpolicy="strict-origin-when-cross-origin" title={`Map of ${business.name}`}></iframe></div>
+    </div>
+    <div class="form-card">
+      <h2>{p.formHeading}</h2>
+      <LeadForm id="contact" formName="contact" />
+    </div>
+  </div></section>
+
+  <section class="section section-soft"><div class="container">
+    <div class="section-head"><span class="eyebrow">What happens next</span><h2>{p.stepsHeading}</h2></div>
+    <div class="steps">{p.steps.map((s: any) => <div class="step"><h3>{s.title}</h3><p>{s.text}</p></div>)}</div>
+  </div></section>
+
+  <Faq heading={p.faqHeading} items={p.faqs} soft={false} />
+  <Reviews soft offset={6} />
+</BaseLayout>

@@ -1,0 +1,41 @@
+{
+  "name": "Long Island",
+  "order": 3,
+  "counties": ["Nassau", "Suffolk"],
+  "communities": ["Hempstead", "Garden City", "Mineola", "Hicksville", "Levittown", "Massapequa", "Freeport", "Long Beach", "Valley Stream", "Glen Cove", "Oyster Bay", "Huntington", "Babylon", "Islip", "Brentwood", "Smithtown", "Port Jefferson", "Patchogue", "Riverhead", "Southampton", "East Hampton", "Montauk"],
+  "seoTitle": "Long Island Plumber, Nassau and Suffolk | {shortName}",
+  "metaDescription": "{shortName} schedules plumbing work across Nassau and Suffolk, from cesspool line backups to flood prone basements. Phones answered 24/7. Call {phone}.",
+  "imageAlt": "Montauk Point Lighthouse on a grassy bluff above a rocky beach",
+  "cardText": "Planned plumbing visits across Nassau and Suffolk counties, with honest arrival times and calls answered at any hour.",
+  "hero": {
+    "eyebrow": "Long Island plumbing",
+    "h1": "Plumbing Service on Long Island, NY",
+    "sub": "We drive in from {city} for scheduled work in Nassau and Suffolk. Expect a booked appointment rather than a same hour visit, a clear price first and a phone answered around the clock."
+  },
+  "quickAnswer": "{name} serves Long Island homes and businesses on a scheduled basis. Our shop is in {city}, so most Nassau and Suffolk jobs are booked a few days out. We answer calls 24/7 and give an honest arrival estimate for anything urgent.",
+  "intro": [
+    "Long Island is a long way from our shop in {city}, so we are clear about what we do well there. We plan visits for drain and sewer line problems, water heater replacements, repiping and camera inspections, and we try to stack Long Island jobs on the same days so each trip covers real work.",
+    "The island has its own plumbing habits. Much of Suffolk and parts of Nassau never connected to public sewers, so homes drain to cesspools and septic systems. Postwar developments like Levittown were built fast with materials that are now well past their life. Near the south shore, a high water table and storm surge both push water where homeowners do not want it."
+  ],
+  "coverage": {
+    "heading": "How We Cover Long Island",
+    "paragraphs": [
+      "We book Long Island work ahead and group trips by area, so the North Shore, the South Shore and the East End each get dedicated days. That keeps our technicians on the job instead of sitting on the Expressway between calls.",
+      "Emergency calls are answered {hours}. We help you stop the water and protect the house, then give you a truthful arrival window. For the East End in particular, that window can be long, and we will tell you so."
+    ]
+  },
+  "problems": [
+    { "title": "Slow drains on cesspool homes", "text": "When a cesspool or septic system gets saturated, every drain in the house slows down. We clear and camera the line from the house to the tank so you know whether the pipe or the system is the problem." },
+    { "title": "High water table and wet basements", "text": "Low lying south shore neighborhoods sit close to groundwater. Heavy rain and high tides fill sump pits fast, and a single pump with no backup is a common point of failure." },
+    { "title": "Aging postwar supply lines", "text": "Many homes from the 1950s and 1960s still have galvanized or early copper lines. Pinhole leaks, rusty water and low pressure tend to show up together as those pipes wear out." },
+    { "title": "Salt air and storm damage", "text": "Homes near the bays and the ocean see faster corrosion on outdoor fixtures, water heater vents and exposed piping. After big storms, flooded mechanical rooms often need equipment checked or replaced." }
+  ],
+  "faqs": [
+    { "q": "How quickly can you get to Long Island?", "a": "Most Long Island jobs are scheduled a few days ahead because we drive in from {city}. For emergencies we answer right away, help you limit damage and give an honest arrival time, which can be several hours or longer depending on where you are." },
+    { "q": "Do you pump cesspools or septic tanks?", "a": "We do not pump tanks. We clear and repair the drain line from the house, run a camera to the tank and tell you what we see, so you can call a pumping company with a clear picture of the problem." },
+    { "q": "Can you add a backup sump pump to my basement?", "a": "Yes. For homes near the south shore or anywhere with a high water table, we look at the pit, the discharge line and the power supply, then recommend a setup that fits how often your pump actually runs." },
+    { "q": "Do you work in the Hamptons and on the North Fork?", "a": "We do take scheduled work on the East End. Travel time is long, so we plan those visits carefully and usually book them as full days. Second homes are a good fit for planned inspections before the season starts." },
+    { "q": "What affects the price of a Long Island job?", "a": "Travel distance, access to the pipe, the materials involved and whether a shutdown affects tenants or businesses all shape the price. We give you the full number before any work starts." }
+  ],
+  "ctaHeading": "Book Plumbing Service on Long Island"
+}

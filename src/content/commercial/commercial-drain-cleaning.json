@@ -1,0 +1,74 @@
+{
+  "title": "Commercial Drain Cleaning",
+  "order": 2,
+  "seoTitle": "Commercial Drain Cleaning in {state} | {shortName}",
+  "metaDescription": "Backed up floor drains, slow restroom lines or a main drain clog at your business? {shortName} clears commercial drains 24/7. Call {phone}.",
+  "imageAlt": "Close-up of a stainless steel sink drain strainer",
+  "cardText": "Floor drains, restroom lines, kitchen lines and building mains cleared with commercial cables and jetters, day or night.",
+  "hero": {
+    "eyebrow": "Commercial drain cleaning, 24/7",
+    "h1": "Commercial Drain Cleaning in {state}",
+    "sub": "A backed up restroom or floor drain can shut down a business in minutes. We clear commercial lines with heavy duty equipment and work around your open hours so you can keep serving customers."
+  },
+  "quickAnswer": "Call {name} at {phone} any hour. We send a technician with commercial drain machines and a jetter, give you a firm price before starting, and clear the line end to end. We can schedule after closing to avoid disrupting customers and staff.",
+  "intro": [
+    "Commercial drains carry far more than a household line. A busy restroom bank, a production sink or a row of floor drains can see hundreds of uses a day. Small amounts of paper, grease, soap and grit add up quickly, and when the line finally closes, every fixture upstream backs up at once.",
+    "We bring equipment built for that load. Larger drum machines handle three and four inch lines, sectional cables reach long horizontal runs, and a jetter scours grease and scale off the pipe walls. When a clog keeps returning, we can run a camera to show you whether the real issue is buildup, a belly in the pipe or damage.",
+    "Our goal is to get you open and keep you open. We explain what we pulled from the line and how your staff can help prevent the next clog, whether that is better trash cans in restrooms, strainers on floor drains or a regular cleaning schedule. Small changes like these often add months between calls."
+  ],
+  "signs": {
+    "heading": "Signs Your Business Needs Drain Cleaning",
+    "items": [
+      "Floor drains in kitchens, basements or mechanical rooms hold standing water.",
+      "Several restroom fixtures back up or gurgle at the same time.",
+      "Sewer odors drift into hallways, dining rooms or sales floors.",
+      "Water comes up through the lowest drain in the building.",
+      "Staff have to plunge the same toilet or sink every week.",
+      "Drains slow down noticeably during peak hours."
+    ]
+  },
+  "covers": {
+    "heading": "What Our Commercial Drain Cleaning Covers",
+    "items": [
+      "Restroom toilets, urinals and lavatory lines",
+      "Floor drains, trench drains and area drains",
+      "Kitchen, prep sink and dish machine lines",
+      "Building main drains and stacks from cleanouts",
+      "Hydro jetting for grease, scale and sludge",
+      "Camera inspection when clogs keep coming back"
+    ]
+  },
+  "bookLabel": "Book Commercial Drain Cleaning",
+  "process": {
+    "heading": "How We Clear a Commercial Drain",
+    "steps": [
+      { "title": "Map the Backup", "text": "We check which fixtures and floors are affected. That tells us whether the clog sits in one branch, a stack or the main building drain." },
+      { "title": "Choose the Access Point", "text": "We find the best cleanout to reach the clog with the least disruption, often away from customer areas, so the business can keep running nearby." },
+      { "title": "Clear and Scour", "text": "We cable through the full blockage, then jet the line if grease or scale is coating the pipe walls and causing a quick return." },
+      { "title": "Verify the Flow", "text": "We run water through every affected fixture, check for slow spots and give you a short report on the cause and how to prevent it." }
+    ]
+  },
+  "local": {
+    "heading": "Why Commercial Drains Clog in {state} Buildings",
+    "paragraphs": [
+      "Older commercial blocks across New York often drain through original cast iron that has scaled heavily on the inside. Many of these buildings now hold more restrooms, kitchens and tenants than they were designed for, so the main drain carries much more than it was sized to handle decades ago.",
+      "Winter adds sand and road salt tracked in on boots, which washes into floor drains and settles in low spots of the line. Spring thaw and heavy rain can also push groundwater into older drains. A cleaning after the winter season helps many businesses avoid a backup when the weather turns."
+    ]
+  },
+  "cost": {
+    "heading": "What Drives the Cost of Commercial Drain Cleaning",
+    "paragraphs": [
+      "The biggest factors are line size, length and access. A single restroom line cleared from a nearby cleanout is quicker than a main drain reached from a roof vent or through a long horizontal run. Grease or heavy scale that needs jetting, after hours scheduling and camera work all affect the total.",
+      "You get the price before we begin, and the invoice explains what was done so it is easy to approve and file."
+    ]
+  },
+  "faqs": [
+    { "q": "Can you clear our drains after we close?", "a": "Yes. We work {hours}, and many businesses prefer we come after closing or before opening. Call {phone}, tell us your hours, and we will set a time that keeps disruption to a minimum." },
+    { "q": "Why do our restroom drains keep backing up?", "a": "In commercial restrooms, the usual causes are paper towels, wipes and feminine products flushed by the public, plus scale buildup inside older pipe. If the same line clogs repeatedly, a camera inspection can show whether there is also a sag or damaged section." },
+    { "q": "Do you clean floor drains and trench drains?", "a": "Yes. We clear floor drains in kitchens, basements, garages and mechanical rooms, along with trench drains in loading areas. We can also check that trap primers and strainers are working so odors and debris stay out." },
+    { "q": "Can you put us on a regular cleaning schedule?", "a": "Yes. For busy restrooms, kitchens and older main lines, scheduled cleanings are often cheaper than emergency calls. Ask about our preventive drain maintenance and we will suggest a frequency based on what we find in your lines." },
+    { "q": "Will you need to shut down our business?", "a": "Rarely. Most drain cleaning only affects the fixtures on the clogged line. If we need to stop water use in part of the building for a short time, we let you know in advance so you can plan around it." }
+  ],
+  "related": ["preventive-drain-maintenance", "grease-trap-cleaning", "commercial-plumbing"],
+  "ctaHeading": "Is a drain backing up at your business?"
+}

@@ -1,0 +1,18 @@
+{
+  "seoTitle": "Terms of Service | {name}",
+  "metaDescription": "The terms that apply when you use the {name} website and request plumbing service online or by phone.",
+  "title": "Terms of Service",
+  "effective": "January 1, 2026",
+  "notice": "Placeholder terms. Have them reviewed by a qualified attorney before launch.",
+  "sections": [
+    { "heading": "Agreement", "paragraphs": ["By using this website, you agree to these terms. If you do not agree, please do not use the site. These terms apply to the website only; plumbing work is governed by the written estimate or work order you approve."] },
+    { "heading": "Service requests", "paragraphs": ["Submitting a form or calling us is a request for service, not a confirmed appointment. Appointments are confirmed by our team by phone, text or email. Arrival windows are estimates and can change due to weather, traffic or emergency calls."] },
+    { "heading": "Estimates and pricing", "paragraphs": ["Prices are provided after diagnosis and must be approved by you before work begins. Information on this website, including guides, is general and is not a quote for your specific job."] },
+    { "heading": "Licensing and insurance", "paragraphs": ["{legalName} is a licensed plumbing contractor and carries liability insurance. License details and proof of coverage are available on request."] },
+    { "heading": "Website content", "paragraphs": ["The text, graphics and layout of this site belong to {legalName} or its licensors. You may view and print pages for personal use. Do not copy or republish content without written permission."] },
+    { "heading": "Guides are not professional advice", "paragraphs": ["Our guides are for general information. Plumbing, gas and electrical work can be dangerous. Follow local codes and hire a licensed professional for work that requires one."] },
+    { "heading": "Limitation of liability", "paragraphs": ["To the extent permitted by law, we are not liable for indirect or consequential damages arising from use of this website. Nothing in these terms limits rights you have under {state} consumer protection law."] },
+    { "heading": "Governing law", "paragraphs": ["These terms are governed by the laws of the State of {state}."] },
+    { "heading": "Contact", "paragraphs": ["Questions about these terms can be sent to {email} or by mail to {address}."] }
+  ]
+}

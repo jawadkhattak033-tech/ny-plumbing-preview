@@ -1,0 +1,41 @@
+{
+  "name": "Mid-Hudson",
+  "order": 4,
+  "counties": ["Dutchess", "Orange", "Putnam", "Rockland", "Sullivan", "Ulster", "Westchester"],
+  "communities": ["Yonkers", "White Plains", "New Rochelle", "Mount Vernon", "Peekskill", "Ossining", "Poughkeepsie", "Beacon", "Rhinebeck", "Hyde Park", "Newburgh", "Middletown", "Goshen", "Monroe", "Warwick", "Kingston", "New Paltz", "Saugerties", "Nyack", "New City", "Carmel", "Brewster", "Monticello", "Liberty"],
+  "seoTitle": "Mid-Hudson Valley Plumber | Scheduled and 24/7 | {shortName}",
+  "metaDescription": "{shortName} serves the Mid-Hudson region on a scheduled basis, from Westchester to the Catskills. Wells, old rivertowns and drains. Call {phone}.",
+  "imageAlt": "Hudson River between wooded mountains, framed by tree branches",
+  "cardText": "Scheduled plumbing across seven counties from Westchester to Sullivan, with emergency calls answered day and night.",
+  "hero": {
+    "eyebrow": "Mid-Hudson plumbing",
+    "h1": "Plumber in the Mid-Hudson Valley, NY",
+    "sub": "From Kingston down to Yonkers, we take booked plumbing work across the valley. Our shop is in {city}, so we plan visits ahead and always give you a price before we start."
+  },
+  "quickAnswer": "{name} serves all seven Mid-Hudson counties with scheduled plumbing work. Ulster and Dutchess are closer to our {city} shop than Westchester or Rockland, so arrival times vary. We answer calls 24/7 and give an honest estimate for urgent problems.",
+  "intro": [
+    "The Mid-Hudson region runs from the edge of the Bronx up to the Catskills, and the plumbing changes a lot along the way. Our shop is in {city}, so the northern counties are a reasonable drive and the southern ones take real time. We plan our valley work in advance and are clear about timing from the first phone call.",
+    "Rivertowns like Newburgh, Peekskill, Poughkeepsie and Kingston are full of 1800s brick homes with cast iron and clay sewers. Farther out, in Ulster, Sullivan and the hills of Putnam, most homes run on private wells and septic systems. Suburban Westchester and Rockland sit somewhere in between, with plenty of 1950s and 1960s homes reaching the age where pipes start to fail."
+  ],
+  "coverage": {
+    "heading": "How We Cover the Mid-Hudson Region",
+    "paragraphs": [
+      "Northern Dutchess and Ulster are the shortest trip from {city}, and we can sometimes reach them the same day. Orange, Sullivan and Putnam are usually next day or scheduled. Westchester and Rockland are planned visits, often grouped so a technician spends a full day in the area.",
+      "Emergency calls are answered {hours} and routed to the nearest available technician. We will tell you honestly whether that means a few hours or a longer wait."
+    ]
+  },
+  "problems": [
+    { "title": "Well pumps and pressure tanks", "text": "Rural homes in Ulster, Sullivan and Putnam rely on wells. A waterlogged pressure tank or a failing pressure switch causes sputtering faucets and a pump that cycles constantly." },
+    { "title": "Hard water and iron staining", "text": "Groundwater in parts of the valley carries minerals and iron that scale water heaters and stain fixtures. A water test tells us whether a softener or filter is worth it." },
+    { "title": "Old rivertown sewer laterals", "text": "Historic homes in Newburgh, Kingston and Poughkeepsie often drain through clay or cast iron laterals that have cracked or filled with roots. A camera shows the condition before anyone digs." },
+    { "title": "Frozen pipes in second homes", "text": "Weekend houses in the Catskills and Shawangunks sit empty for weeks in winter. A failed heating system or a drafty crawl space can freeze and split lines before anyone notices." }
+  ],
+  "faqs": [
+    { "q": "How long does it take you to reach the Mid-Hudson area?", "a": "It depends on the county. Ulster and northern Dutchess are the closest to {city}. Westchester and Rockland are farther, and work there is usually scheduled a few days ahead. We give you a realistic window when you call." },
+    { "q": "Do you work on private wells?", "a": "Yes. We repair and replace pressure tanks, pressure switches and the plumbing between the well and the house. For deep well pump pulls we will tell you up front if a well drilling company is the better call." },
+    { "q": "Can you winterize a Catskills second home?", "a": "We can drain and winterize a seasonal house, then restore water in spring. This is planned work, so book it before the first hard freeze to make sure we can fit it in." },
+    { "q": "Do you handle older homes in the rivertowns?", "a": "Older homes are a big share of our work. We are used to cast iron stacks, galvanized supply lines and clay sewers, and we know how to tie them into modern materials without creating new problems." },
+    { "q": "Do you serve businesses in Westchester and Orange County?", "a": "We take scheduled commercial work such as drain maintenance, water heater replacement and apartment building repairs. Because of the distance, recurring maintenance plans are often a better fit than one off emergency calls." }
+  ],
+  "ctaHeading": "Book a Plumber in the Mid-Hudson Valley"
+}

@@ -1,0 +1,74 @@
+{
+  "title": "Restaurant Plumbing",
+  "order": 4,
+  "seoTitle": "Restaurant Plumbing in {state}, 24/7 | {shortName}",
+  "metaDescription": "Dish area flooding, no hot water before service or a restroom down? {shortName} fixes restaurant plumbing day or night with upfront pricing. Call {phone}.",
+  "imageAlt": "Restaurant kitchen with ladles hanging above stainless steel shelves and stacked plates",
+  "cardText": "Kitchen sinks, dish machines, water heaters, floor sinks and restrooms repaired fast so the kitchen can keep cooking.",
+  "hero": {
+    "eyebrow": "Plumbing for restaurants and kitchens",
+    "h1": "Restaurant Plumbing Repair in {state}",
+    "sub": "When the dish pit floods or hot water fails before dinner, every minute counts. We repair restaurant plumbing quickly, work around service and help you stay ready for the next health inspection."
+  },
+  "quickAnswer": "Call {name} at {phone} any time. We answer {hours} and send a technician familiar with commercial kitchens. You get a firm price before we start, and we can work late at night or early morning so you do not lose a service.",
+  "intro": [
+    "A restaurant kitchen puts more strain on plumbing than almost any other business. Sinks run all day, dish machines need steady hot water, floor sinks catch spills and grease, and restrooms handle a constant flow of guests. When one part fails, the whole operation feels it, from the line cooks to the guests waiting on their food.",
+    "We repair and install the equipment kitchens rely on: three compartment and hand sinks, pre rinse spray valves, dish machine supply and drain connections, floor sinks, ice machine drains and commercial water heaters. We also handle the front of house, from restroom fixtures to bar sinks and glass washers. One call covers both sides of the swinging door.",
+    "Health inspectors look closely at plumbing. A hand sink without hot water, a missing air gap on an ice machine or a leaking drain can all become write ups. We point out issues like these during our visits so you can fix them on your terms, not on the inspector's deadline."
+  ],
+  "signs": {
+    "heading": "Signs Your Restaurant Needs a Plumber",
+    "items": [
+      "Hot water runs out during the dinner rush or dish cleanup.",
+      "Floor sinks back up or overflow onto the kitchen floor.",
+      "The pre rinse sprayer or faucets drip or lose pressure.",
+      "Ice machine or walk in cooler drains leave puddles.",
+      "Guests mention slow or running toilets in the restrooms.",
+      "A health inspection flagged a plumbing item to correct."
+    ]
+  },
+  "covers": {
+    "heading": "What Our Restaurant Plumbing Service Covers",
+    "items": [
+      "Three compartment, prep and hand sink repair",
+      "Dish machine and pre rinse valve connections",
+      "Commercial water heater repair and replacement",
+      "Floor sink, ice machine and cooler drain lines",
+      "Grease trap connections and kitchen line jetting",
+      "Restroom and bar plumbing for front of house"
+    ]
+  },
+  "bookLabel": "Book Restaurant Plumbing",
+  "process": {
+    "heading": "How We Work in Your Kitchen",
+    "steps": [
+      { "title": "Plan Around Service", "text": "We ask about your prep times, rush hours and closing time, then schedule the repair when it will cost you the least business." },
+      { "title": "Find the Cause", "text": "We trace the problem to its source, whether that is a worn valve, a grease clogged line or a water heater that is too small for your volume." },
+      { "title": "Repair With Food Safety in Mind", "text": "After you approve the price, we complete the repair while keeping food prep areas protected and our tools off work surfaces." },
+      { "title": "Clean Up and Test", "text": "We test every fixture we touched, wipe down the area and leave notes on anything that may come up at your next inspection." }
+    ]
+  },
+  "local": {
+    "heading": "Restaurant Plumbing in New York Dining Districts",
+    "paragraphs": [
+      "Many restaurants across New York operate in older main street buildings that once housed shops, banks or apartments. The plumbing was never designed for a commercial kitchen, so it often has small drain lines, long runs to the sewer and water heaters squeezed into tight basements. Those conditions make clogs and hot water shortages more common.",
+      "Seasonal swings are real here. Summer tourist traffic, college move in weekends and holiday parties can double the load on a kitchen almost overnight. We encourage owners to schedule drain and water heater checks before their busiest stretch rather than finding a weak point mid service."
+    ]
+  },
+  "cost": {
+    "heading": "What Drives the Cost of Restaurant Plumbing",
+    "paragraphs": [
+      "Cost depends on the equipment involved, access and timing. Replacing a spray valve is a quick job. Repairing a drain under a tiled kitchen floor, replacing a commercial water heater or rerouting a dish machine line takes longer. Late night work and specialty parts can also affect the price.",
+      "You approve a firm price before we start. Owners with several locations can ask for invoices organized by site."
+    ]
+  },
+  "faqs": [
+    { "q": "Can you come in the middle of the night?", "a": "Yes. We answer {hours}, and many restaurant repairs happen after the last table leaves. Call {phone} and we will send someone as soon as possible or book a time before your morning prep." },
+    { "q": "Why does our kitchen run out of hot water?", "a": "Often the water heater is too small for the dish machine, sinks and staff all drawing at once, or sediment has reduced its capacity. A failing element or burner can also be the cause. We test the unit and tell you whether a repair or a larger heater makes more sense." },
+    { "q": "Can you help us fix a health inspection write up?", "a": "Yes. Bring us the plumbing items from the report, such as a hand sink without hot water, a missing air gap or a leaking drain. We will price the corrections and schedule them before your follow up date when possible." },
+    { "q": "Do you handle grease traps too?", "a": "Yes. We clean, inspect and repair grease traps and the lines that connect to them. Regular trap service is one of the best ways to prevent kitchen backups, so we can put you on a schedule if you would like." },
+    { "q": "Do you work on bar sinks and glass washers?", "a": "Yes. We repair bar sinks, glass washer connections, beverage station drains and the restrooms guests use. A full visit can cover the front and back of house at the same time." }
+  ],
+  "related": ["grease-trap-cleaning", "commercial-drain-cleaning", "preventive-drain-maintenance"],
+  "ctaHeading": "Kitchen plumbing problem before service?"
+}

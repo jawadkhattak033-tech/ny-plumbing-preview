@@ -1,0 +1,74 @@
+{
+  "title": "Tankless Water Heaters",
+  "order": 9,
+  "seoTitle": "Tankless Water Heaters in {state} | {shortName} Plumbing",
+  "metaDescription": "Endless hot water and more basement space. {shortName} installs, services and descales gas and electric tankless water heaters. Upfront pricing. Call {phone}.",
+  "imageAlt": "Rows of gray pipes with elbow fittings running along a wall",
+  "cardText": "Gas and electric tankless heaters sized, installed and serviced, including descaling, so hot water keeps flowing on demand.",
+  "hero": {
+    "eyebrow": "Tankless water heaters",
+    "h1": "Tankless Water Heater Installation in {state}",
+    "sub": "Hot water that does not run out halfway through the third shower. We size, install and maintain tankless heaters, and tell you honestly whether one is a good fit for your home."
+  },
+  "quickAnswer": "Call {name} at {phone} to talk through a tankless water heater. We check your gas supply, venting and hot water demand, recommend a unit size, and give you a firm installed price. We also service and descale existing tankless units.",
+  "intro": [
+    "A tankless water heater heats water only when you open a hot tap. Cold water flows through a heat exchanger, a burner or element fires, and hot water comes out the other side. There is no tank to keep warm all day, and no limit on how long the hot water lasts, as long as demand stays within the unit's capacity.",
+    "The trade off is in the install. Gas tankless units need a larger gas supply than most tank heaters, and they vent through special pipe, often out a side wall. Electric models can need a significant electrical service upgrade. We check all of this before recommending one, so there are no surprises.",
+    "Tankless heaters also need regular care. Mineral scale builds up in the heat exchanger, especially with hard water. A periodic descaling flush keeps the unit efficient and avoids error codes and shutdowns. We install service valves on every unit so that flush takes minutes, and we can set you up with a simple reminder schedule based on how hard your water is."
+  ],
+  "signs": {
+    "heading": "Signs a Tankless Water Heater May Fit Your Home",
+    "items": [
+      "Your household regularly runs out of hot water at busy times.",
+      "Your tank heater is near the end of its life and you want an upgrade.",
+      "You want to free up floor space in a basement or utility room.",
+      "You are adding a bathroom or remodeling and need more hot water.",
+      "You plan to stay in your home long enough to value a long lasting unit.",
+      "Your existing tankless unit shows error codes or lukewarm water."
+    ]
+  },
+  "covers": {
+    "heading": "What Our Tankless Service Covers",
+    "items": [
+      "Sizing based on fixtures, flow rate and winter water temperature",
+      "Gas and electric tankless installation",
+      "Gas line upsizing and new venting",
+      "Tank to tankless conversions",
+      "Descaling flushes and inlet filter cleaning",
+      "Diagnosing error codes and repairing existing units"
+    ]
+  },
+  "bookLabel": "Get a Tankless Estimate",
+  "process": {
+    "heading": "How We Install a Tankless Water Heater",
+    "steps": [
+      { "title": "Assess Demand and Supply", "text": "We count the fixtures you use at once, check gas meter and line size or electrical capacity, and look at where the unit can vent." },
+      { "title": "Size and Price", "text": "We recommend a unit that can handle your peak demand in the coldest months and give you a firm price for the full installation." },
+      { "title": "Install and Connect", "text": "We mount the unit, run new gas and water lines, install venting and add service valves so future descaling is quick and clean." },
+      { "title": "Start Up and Teach", "text": "We fire the unit, test flow at several taps, set the temperature and show you how it works and when it will need service." }
+    ]
+  },
+  "local": {
+    "heading": "Sizing Tankless Heaters for {state} Winters",
+    "paragraphs": [
+      "A tankless heater's output depends on how much it has to raise the water temperature. In much of New York, incoming water gets very cold in January and February, sometimes near freezing on well systems. A unit that easily handles two showers in summer may struggle in winter if it was sized too small. We size for the coldest months.",
+      "Hard water is common in many parts of the state, particularly on private wells. Scale coats the heat exchanger faster in hard water, so we often suggest pairing a tankless heater with a water softener or a scale filter, and setting a regular descaling schedule."
+    ]
+  },
+  "cost": {
+    "heading": "What Drives the Cost of a Tankless Water Heater",
+    "paragraphs": [
+      "The unit's capacity and whether it is gas or electric set the starting point. Installation work often matters more. Upsizing a gas line, running new venting through a wall, adding a condensate drain or upgrading electrical service all add to the job. Converting from a tank also means new piping and mounting.",
+      "We look at every one of those pieces before giving you a firm installed price, so the quote is complete."
+    ]
+  },
+  "faqs": [
+    { "q": "Do tankless water heaters really never run out of hot water?", "a": "They do not run out the way a tank does, but each unit has a maximum flow rate. If you run more hot water at once than it can heat, the temperature drops. Sizing the unit for your busiest moments, especially in winter, is what makes it feel endless." },
+    { "q": "Can my home's gas line handle a tankless heater?", "a": "Many existing gas lines and some meters are too small for a gas tankless heater, which uses a lot of gas when it fires. We check the line size, length and meter capacity during the estimate and include any needed upgrades in the price." },
+    { "q": "How often does a tankless heater need descaling?", "a": "It depends on your water hardness and how much hot water you use. Homes with hard well water may need it more often than homes on soft municipal water. We can test your water and recommend a schedule that fits." },
+    { "q": "Why does my tankless heater give a blast of cold water?", "a": "Short bursts of cold water between uses, often called a cold water sandwich, can happen when hot water sitting in the pipe cools while the unit restarts. Low flow at a single fixture can also keep the burner from firing. A recirculation setup or small adjustments often help." },
+    { "q": "Do you service tankless heaters you did not install?", "a": "Yes. We descale, clean filters, diagnose error codes and repair most common tankless brands, no matter who installed them. If parts are needed, we tell you the price and timing before we order." }
+  ],
+  "related": ["water-heater-replacement", "water-heater-repair", "water-softener-installation"],
+  "ctaHeading": "Thinking about going tankless?"
+}

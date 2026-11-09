@@ -1,0 +1,17 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Icon from '../components/Icon.astro';
+import { business, tel } from '../lib/site';
+---
+<BaseLayout title={`Page Not Found | ${business.name}`} description="The page you were looking for could not be found." crumbs={[{ name: 'Home', path: '/' }, { name: 'Page Not Found', path: '/404/' }]} noindex>
+  <section class="center-page"><div class="container" style="max-width:680px">
+    <div class="icon-big"><Icon name="wrench" size={40} /></div>
+    <h1>This page sprang a leak</h1>
+    <p class="lead">We could not find that page. Try one of these, or call us if you need a plumber now.</p>
+    <div class="btn-row">
+      <a href="/plumbing/" class="btn btn-blue">Plumbing services</a>
+      <a href="/service-areas/" class="btn btn-outline-navy">Service areas</a>
+      <a href={tel} class="btn btn-red"><Icon name="phone" size={18} /> {business.phone}</a>
+    </div>
+  </div></section>
+</BaseLayout>

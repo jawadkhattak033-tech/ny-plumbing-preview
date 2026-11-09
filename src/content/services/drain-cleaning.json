@@ -1,0 +1,74 @@
+{
+  "title": "Drain Cleaning",
+  "order": 2,
+  "seoTitle": "Drain Cleaning in {state}, 24/7 | {shortName} Plumbing",
+  "metaDescription": "Clogged sink, slow shower or backed up floor drain? {shortName} clears drains of every size, day or night. Upfront price before we start. Call {phone}.",
+  "imageAlt": "Close-up of a stainless steel sink drain strainer",
+  "cardText": "Kitchen, bath, laundry and floor drains cleared with the right size cable or jetter, then flow tested before we leave.",
+  "hero": {
+    "eyebrow": "Drain cleaning, day or night",
+    "h1": "Drain Cleaning in {state}, Available 24/7",
+    "sub": "Standing water in the tub, a sink that will not empty, a basement floor drain bubbling back? We find where the clog sits, clear it all the way through and show you the water running free."
+  },
+  "quickAnswer": "Call {name} at {phone}. Our team answers around the clock and sends the nearest technician with drain cables and a jetter on the truck. You get a firm price before any work starts, and we flow test every fixture before we pack up.",
+  "intro": [
+    "Most clogs give a warning first. The sink takes a little longer to drain each week, the shower leaves a ring of water around your feet, the toilet gurgles when the washer empties. Those slow signs mean something is narrowing the pipe, and it rarely fixes itself. Clearing it early is cheaper and far less messy than waiting for the backup.",
+    "Our technicians match the tool to the line. A bathroom sink gets a small hand cable that will not scratch the trap. A kitchen line packed with grease may need a heavier drum machine or a short hydro jetting pass. Main lines get a full size cable from the cleanout, and if the clog keeps coming back we will suggest a camera look so you are not paying for the same visit twice.",
+    "We also tell you what caused it. Wipes, grease, hair, soap scum, mineral scale and tree roots all clog pipes differently, and knowing which one you are fighting helps keep the drain open for years instead of weeks."
+  ],
+  "signs": {
+    "heading": "Signs It Is Time for Drain Cleaning",
+    "items": [
+      "Sinks, tubs or showers drain slowly even after you plunge them.",
+      "Drains gurgle or bubble when a nearby fixture runs.",
+      "A sour or sewer smell drifts up from a drain opening.",
+      "Water rises in the tub when the toilet flushes.",
+      "The basement floor drain holds water after laundry day.",
+      "You have cleared the same drain more than twice this year."
+    ]
+  },
+  "covers": {
+    "heading": "What Our Drain Cleaning Covers",
+    "items": [
+      "Kitchen sink and garbage disposal line clogs",
+      "Bathroom sink, tub and shower drains",
+      "Toilet blockages and closet auger work",
+      "Laundry standpipes and basement floor drains",
+      "Main building drain cleaning from a cleanout",
+      "Flow testing every affected fixture afterward"
+    ]
+  },
+  "bookLabel": "Book Drain Cleaning",
+  "process": {
+    "heading": "How We Clear a Drain",
+    "steps": [
+      { "title": "Locate the Blockage", "text": "We run a few fixtures and ask what you have noticed. Which drains are slow and which are fine tells us whether the clog is in one branch or the main line." },
+      { "title": "Pick the Right Tool", "text": "Small lines get a hand or drum cable sized to the pipe. Grease, scale and roots in larger lines may call for a heavier cutter head or a jetter." },
+      { "title": "Clear It End to End", "text": "We work the cable through the full run of the blockage, not just far enough to punch a hole, so the pipe is open wall to wall." },
+      { "title": "Test and Explain", "text": "Every affected fixture gets a full flow test. We tell you what we pulled out and what will help stop it from building up again." }
+    ]
+  },
+  "local": {
+    "heading": "Why Older {state} Drains Clog So Often",
+    "paragraphs": [
+      "Many homes across the region still drain through original cast iron or galvanized steel. Over decades the inside of those pipes rusts and scales, which gives grease and hair a rough surface to grab onto. A drain in a 1920s house can clog with half the buildup it would take to stop a newer PVC line.",
+      "Cold winters add their own trouble. Grease that pours as a liquid hardens fast in a pipe running along a chilly basement wall, and holiday cooking puts more of it down the sink than any other time of year. That is why our busiest drain weeks tend to land right after big family meals."
+    ]
+  },
+  "cost": {
+    "heading": "What Drives the Cost of Drain Cleaning",
+    "paragraphs": [
+      "Price depends mostly on where the clog is and how you reach it. A single sink trap is a short visit. A main line that has to be cabled from a roof vent or a buried cleanout takes more time and heavier equipment. Repeat clogs that need a camera inspection add to the visit, but they often save money by pointing to the real fix.",
+      "Whatever the job, you hear the price before we start. There are no surprise add ons when the invoice arrives."
+    ]
+  },
+  "faqs": [
+    { "q": "Can you clear a clogged drain today?", "a": "Usually, yes. Call {phone} and we will give you a realistic arrival window based on where our technicians are. We answer {hours}, so evening and weekend clogs are not a problem." },
+    { "q": "Why does my drain keep clogging after I clear it?", "a": "A plunger or store bought snake often pokes a hole through the clog without removing it, so the rest of the buildup catches new debris quickly. Repeat clogs can also point to a sag, a broken section or roots in the line. If we see a pattern, we will recommend a camera inspection so you can see the cause." },
+    { "q": "Are chemical drain cleaners safe to use?", "a": "We do not recommend them. They rarely clear a full blockage, they can damage older metal pipes and rubber seals, and they make the job hazardous for whoever has to open the drain next. If you have already poured some in, tell us when you call so we can work safely." },
+    { "q": "Do you clean main sewer lines too?", "a": "Yes. We cable main building drains from an existing cleanout and can hydro jet lines packed with grease or scale. If roots or a damaged pipe are involved, we will show you on camera and talk through repair options." },
+    { "q": "How long does drain cleaning take?", "a": "Most single fixture clogs take under an hour. Main line clogs usually take one to two hours, depending on access and how far down the line the blockage sits." }
+  ],
+  "related": ["hydro-jetting", "sewer-camera-inspection", "garbage-disposals"],
+  "ctaHeading": "Need a drain cleared today?"
+}

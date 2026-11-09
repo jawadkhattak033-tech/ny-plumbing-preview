@@ -1,0 +1,91 @@
+---
+/** Homepage. Copy: src/content/pages/home.json */
+import BaseLayout from './BaseLayout.astro';
+import { PageHero, TrustStrip, ServiceCard, Reviews, Faq, CtaBand, WorkGrid, EmergencyBand, Finder, LinkTile, Icon, Img } from '../components/sections';
+import { business, facts, url, img, getPage, getServices, getCommercial, getRegions, getTowns, imgAlt } from '../lib/site';
+
+const [p, services, commercial, regions, towns] = await Promise.all([getPage('home'), getServices(), getCommercial(), getRegions(), getTowns()]);
+const featured = p.services.featured.map((s: string) => services.find((x) => x.slug === s)).filter(Boolean) as typeof services;
+const more = services.filter((s) => !p.services.featured.includes(s.slug));
+const townCount = (r: string) => towns.filter((t) => t.region === r).length;
+---
+<BaseLayout title={p.seoTitle} description={p.metaDescription} crumbs={[{ name: 'Home', path: '/' }]} faqs={p.faqs}>
+  <PageHero home eyebrow={p.hero.eyebrow} h1={p.hero.h1} sub={p.hero.sub} image="hero-home" imageAlt={imgAlt('hero-home')}>
+    <Finder id="home" />
+    <div class="hero-trust">
+      <span><Icon name="star" size={16} /> {facts.rating} stars, {facts.reviews} Google reviews</span>
+      <span><Icon name="clock" size={16} /> {business.hours.short}</span>
+      {facts.years ? <span><Icon name="shield" size={16} /> {facts.years} years in business</span> : <span><Icon name="shield" size={16} /> Fully insured</span>}
+    </div>
+  </PageHero>
+  <TrustStrip />
+
+  <section class="section"><div class="container grid-2">
+    <div>
+      <span class="eyebrow">{p.intro.eyebrow}</span>
+      <h2>{p.intro.heading}</h2>
+      <div class="callout"><p><strong>Quick answer:</strong> {p.intro.quickAnswer}</p></div>
+      {p.intro.paragraphs.map((t: string) => <p>{t}</p>)}
+    </div>
+    <div class="media-frame"><Img name="home-intro" alt={imgAlt('home-intro')} sizes="(max-width: 767px) 100vw, 560px" /></div>
+  </div></section>
+
+  <section class="section section-soft"><div class="container">
+    <div class="section-head"><span class="eyebrow">{p.services.eyebrow}</span><h2>{p.services.heading}</h2><p class="lead">{p.services.lead}</p></div>
+    <div class="grid-3">
+      {featured.map((s) => <ServiceCard href={url.service(s.slug)} title={s.title} text={s.cardText} image={img.service(s.slug)} alt={s.imageAlt} />)}
+    </div>
+    <div class="section-head sub"><h3>{p.services.moreHeading}</h3></div>
+    <div class="link-grid">{more.map((s) => <LinkTile href={url.service(s.slug)} label={s.title} />)}</div>
+  </div></section>
+
+  <EmergencyBand />
+
+  <section class="section"><div class="container grid-2">
+    <div class="media-frame"><Img name="home-commercial" alt={imgAlt('home-commercial')} sizes="(max-width: 767px) 100vw, 560px" /></div>
+    <div>
+      <span class="eyebrow">{p.commercial.eyebrow}</span>
+      <h2>{p.commercial.heading}</h2>
+      {p.commercial.paragraphs.map((t: string) => <p>{t}</p>)}
+      <div class="link-grid" style="margin-top:20px">{commercial.map((s) => <LinkTile href={url.commercial(s.slug)} label={s.title} />)}</div>
+    </div>
+  </div></section>
+
+  <WorkGrid heading={p.work.heading} />
+  <Reviews eyebrow={p.reviews.eyebrow} heading={p.reviews.heading} count={6} />
+
+  <section class="section section-navy"><div class="container">
+    <div class="section-head"><span class="eyebrow">{p.why.eyebrow}</span><h2>{p.why.heading}</h2></div>
+    <div class="grid-3">
+      {p.why.items.map((w: any) => <div class="icon-card"><div class="icon"><Icon name={w.icon} size={26} /></div><h3>{w.title}</h3><p>{w.text}</p></div>)}
+    </div>
+  </div></section>
+
+  <section class="section"><div class="container owner-card">
+    <div class="owner-photo"><Img name="owner" alt={imgAlt('owner')} sizes="300px" maxWidth={800} /></div>
+    <div>
+      <span class="eyebrow">{p.owner.eyebrow}</span>
+      <h2>{p.owner.heading}</h2>
+      {p.owner.paragraphs.map((t: string) => <p>{t}</p>)}
+      <div class="btn-row"><a href="/about/" class="btn btn-blue">About {business.shortName}</a><a href="/reviews/" class="btn btn-outline-navy">Read our reviews</a></div>
+    </div>
+  </div></section>
+
+  <section class="section section-soft"><div class="container">
+    <div class="section-head"><span class="eyebrow">{p.areas.eyebrow}</span><h2>{p.areas.heading}</h2><p class="lead">{p.areas.lead}</p></div>
+    <div class="region-grid">
+      {regions.map((r) => (
+        <div class="region-card">
+          <span class="count">{r.counties.length} counties{townCount(r.slug) ? ` · ${townCount(r.slug)} town pages` : ''}</span>
+          <h3><a href={url.region(r.slug)}>{r.name}</a></h3>
+          <p>{r.cardText}</p>
+        </div>
+      ))}
+    </div>
+    <div class="section-head sub"><h3>{p.areas.townsHeading}</h3></div>
+    <div class="link-grid">{towns.map((t) => <LinkTile href={url.town(t.slug)} label={t.name} small={`${t.county} Co.`} />)}</div>
+  </div></section>
+
+  <Faq heading={p.faqHeading} items={p.faqs} />
+  <CtaBand heading={p.ctaHeading} />
+</BaseLayout>

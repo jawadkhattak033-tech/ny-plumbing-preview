@@ -1,0 +1,48 @@
+{
+  "name": "Latham",
+  "order": 7,
+  "county": "Albany",
+  "region": "capital-region",
+  "zips": ["12110"],
+  "neighborhoods": ["Latham Corners", "Newtonville", "Forts Ferry", "Dunsbach Ferry", "Old Loudon Road", "Boght Corners", "Latham Circle"],
+  "nearby": ["colonie-ny", "albany-ny", "troy-ny", "niskayuna-ny", "clifton-park-ny", "halfmoon-ny"],
+  "geo": { "lat": 42.7470, "lng": -73.7590 },
+  "seoTitle": "Plumber in Latham, NY | Sewer, Drains, Repairs | {shortName}",
+  "metaDescription": "Latham, NY plumber for postwar ranches, split levels and Route 9 businesses. Sewer lines, toilets, disposals and water heaters. 24/7. Call {phone}.",
+  "imageAlt": "Shingled house with a long covered porch beside tall trees",
+  "hero": {
+    "eyebrow": "Albany County plumber",
+    "h1": "Plumber in Latham, NY",
+    "sub": "Latham is mostly postwar ranches, capes and split levels, and their plumbing is now 60 or more years old. We answer any hour and give you a clear price first."
+  },
+  "intro": "{name} handles plumbing for Latham homeowners and the businesses along Route 9 and Route 7. Latham is part of the Town of Colonie and only a few miles up from our {city} shop, so we can usually reach you quickly. Our work here ranges from aging sewer lines and tired bathrooms to hotel and office calls near the circle.",
+  "popular": ["sewer-camera-inspection", "trenchless-sewer-replacement", "toilet-repair", "garbage-disposals", "water-heater-replacement", "drain-cleaning"],
+  "problems": [
+    { "title": "Fiber sewer pipe from the 1950s", "text": "Some homes from this period were connected with bituminous fiber pipe, often called Orangeburg. It softens and flattens over time, causing slow drains and backups that keep coming back.", "service": "trenchless-sewer-replacement" },
+    { "title": "Original bathroom toilets", "text": "Many Latham homes still have toilets and tank parts from decades ago. They run, rock on the floor or waste water with every flush. A repair or an efficient replacement fixes it.", "service": "toilet-repair" },
+    { "title": "Disposals in updated kitchens", "text": "Kitchens get remodeled long before the drains behind them do. A new disposal feeding an old, narrow drain line can lead to clogs if the setup is not right.", "service": "garbage-disposals" },
+    { "title": "Hotels and offices near the circle", "text": "The hotels, medical offices and shops around Latham Circle and Route 9 run restrooms and water heaters around the clock. Small issues need to be handled fast and without disrupting guests.", "service": "commercial-plumbing" }
+  ],
+  "housing": {
+    "heading": "Postwar Homes in Latham",
+    "paragraphs": [
+      "Latham grew fast after World War II as families moved out from Albany and Troy. Streets off New Loudon Road and Old Loudon Road filled with ranches and capes, followed by split levels and raised ranches in the 1960s and 1970s. Their plumbing is simple but aging, and many original sewer laterals have never been inspected.",
+      "Newer homes near Forts Ferry and Dunsbach Ferry tend to be larger, with more bathrooms and bigger hot water needs. Throughout Latham, basements are often finished, so we take care to locate problems accurately before opening any walls or ceilings."
+    ]
+  },
+  "howWeWork": {
+    "heading": "Nearby Plumbing Service for Latham",
+    "paragraphs": [
+      "With our shop close by, Latham calls rarely wait long. We answer {hours} and send a technician with a fully stocked truck, so most repairs are done on the first visit.",
+      "Before work begins, we explain the problem and give a firm price. When the job is done, we test everything, clean up and let you know if anything else in the system needs attention soon."
+    ]
+  },
+  "faqs": [
+    { "q": "How do I know if my Latham home has Orangeburg sewer pipe?", "a": "You usually cannot tell by looking in the basement. A camera inspection of the line to the street will show it clearly. If your home dates to the 1950s and drains back up often, it is worth checking." },
+    { "q": "Is it worth repairing an old toilet or should I replace it?", "a": "If the bowl is sound, new tank parts often fix running and weak flushing. If it is cracked, rocks from a damaged flange or uses a lot of water, a replacement usually makes more sense. We explain both options." },
+    { "q": "What should not go down a garbage disposal?", "a": "Avoid grease, coffee grounds, eggshells, pasta, rice and fibrous scraps like celery or onion skins. Run cold water while it works and for a few seconds after to carry waste down the line." },
+    { "q": "Do you work on hotels and offices along Route 9 and Route 7?", "a": "Yes. We handle restrooms, water heaters, drains and fixtures for hotels, medical offices and shops in Latham. We can schedule work early, late or around guest check-in so your customers and staff are not disrupted." },
+    { "q": "How long do water heaters usually last here?", "a": "It depends on water quality, how hard the tank works and whether it was ever flushed. Many Latham homes are on a second or third heater. If yours is older and showing rust, leaks or slow recovery, it is a good time to plan a replacement." }
+  ],
+  "ctaHeading": "Latham Plumber, 24/7"
+}

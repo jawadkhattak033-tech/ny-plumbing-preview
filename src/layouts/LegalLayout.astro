@@ -1,0 +1,24 @@
+---
+/** Privacy Policy and Terms of Service. Copy: src/content/pages/<id>.json */
+import BaseLayout from './BaseLayout.astro';
+import { getPage } from '../lib/site';
+
+interface Props { id: 'privacy-policy' | 'terms-of-service'; }
+const { id } = Astro.props;
+const p = await getPage(id);
+const crumbs = [{ name: 'Home', path: '/' }, { name: p.title, path: `/${id}/` }];
+---
+<BaseLayout title={p.seoTitle} description={p.metaDescription} crumbs={crumbs}>
+  <section class="section"><div class="container prose" style="max-width:860px">
+    <nav class="breadcrumbs plain" aria-label="Breadcrumb"><a href="/">Home</a><span class="sep" aria-hidden="true">&rsaquo;</span><span aria-current="page">{p.title}</span></nav>
+    <h1>{p.title}</h1>
+    <p><em>Effective {p.effective}</em></p>
+    <p class="callout">{p.notice}</p>
+    {p.sections.map((s: any) => (
+      <>
+        <h2>{s.heading}</h2>
+        {s.paragraphs.map((t: string) => <p>{t}</p>)}
+      </>
+    ))}
+  </div></section>
+</BaseLayout>

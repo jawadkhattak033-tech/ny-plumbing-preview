@@ -1,0 +1,67 @@
+{
+  "name": "Brightwater Plumbing and Drain",
+  "legalName": "Brightwater Plumbing and Drain LLC",
+  "shortName": "Brightwater",
+  "initials": "BP",
+  "siteUrl": "https://www.example-plumbing.com",
+  "phone": "(518) 555-0142",
+  "phoneE164": "+15185550142",
+  "email": "service@example-plumbing.com",
+  "formRecipient": "service@example-plumbing.com",
+  "address": {
+    "street": "123 Placeholder Avenue",
+    "city": "Albany",
+    "state": "NY",
+    "stateName": "New York",
+    "zip": "12205",
+    "country": "US"
+  },
+  "geo": {
+    "lat": 42.6526,
+    "lng": -73.7562
+  },
+  "hours": {
+    "summary": "Open 24 hours, 7 days a week",
+    "detail": "Nights, weekends and holidays",
+    "short": "Open 24/7",
+    "phrase": "24 hours a day, 7 days a week",
+    "opens": "00:00",
+    "closes": "23:59",
+    "days": [
+      "Monday",
+      "Tuesday",
+      "Wednesday",
+      "Thursday",
+      "Friday",
+      "Saturday",
+      "Sunday"
+    ]
+  },
+  "yearsInBusiness": null,
+  "rating": "[RATING]",
+  "reviewCount": "[REVIEW COUNT]",
+  "owner": {
+    "name": "Alex Morgan",
+    "firstName": "Alex",
+    "initials": "AM",
+    "title": "Owner and Licensed Master Plumber"
+  },
+  "licenseNumber": "",
+  "priceRange": "$$",
+  "logo": "",
+  "social": {
+    "facebook": "https://www.facebook.com/",
+    "google": "https://www.google.com/maps",
+    "yelp": "https://www.yelp.com/",
+    "instagram": ""
+  },
+  "analytics": {
+    "gtmId": ""
+  },
+  "_notes": {
+    "yearsInBusiness": "Number, or null to hide everywhere until the client supplies it.",
+    "licenseNumber": "License number, or empty string to hide everywhere.",
+    "rating": "Number like 4.9 once real Google reviews are in. A string shows as-is (placeholder).",
+    "reviewCount": "Number like 120 (shown as 120+). A string shows as-is (placeholder)."
+  }
+}

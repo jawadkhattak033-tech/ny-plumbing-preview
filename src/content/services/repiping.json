@@ -1,0 +1,74 @@
+{
+  "title": "Repiping",
+  "order": 12,
+  "seoTitle": "Whole House Repiping in {state} | {shortName} Plumbing",
+  "metaDescription": "Rusty water, weak pressure or leak after leak? {shortName} replaces old galvanized and failing pipe with new copper or PEX. Upfront pricing. Call {phone}.",
+  "imageAlt": "Two copper water pipes running through an opened wall",
+  "cardText": "Old galvanized, polybutylene and corroded copper replaced with new supply lines, planned room by room to keep disruption low.",
+  "hero": {
+    "eyebrow": "Repiping, planned around your home",
+    "h1": "Whole House and Partial Repiping in {state}",
+    "sub": "Tired of brown water, weak showers and patch after patch on the same old pipes? We replace worn supply lines with new copper or PEX, work in stages and keep your home livable during the job."
+  },
+  "quickAnswer": "Call {name} at {phone} to schedule a repiping assessment. A technician checks your pipe material, pressure and water quality, then lays out a whole house or partial plan with a firm price. Most homes keep water on overnight while the work moves forward.",
+  "intro": [
+    "Pipes do not last forever. Galvanized steel rusts from the inside until the opening is a fraction of its original size. Some early copper develops pinhole leaks after decades of use. Polybutylene, a gray plastic used for a period in the past, is known for failing at its fittings. When leaks keep showing up in different places, repairing one spot at a time stops making sense.",
+    "Repiping replaces the supply lines that carry clean water to your fixtures. We plan the new routes before we start, often running new pipe through basements, closets and existing chases so we open as few finished walls as possible. Most homeowners choose PEX for its flexibility and fewer joints, or copper where it fits the home better.",
+    "We work in sections, connect each finished section before moving on, and clean up at the end of each day. You will know which rooms are affected and when. Before the job starts, we walk you through the route the new pipe will take and mark every spot where a wall or ceiling needs a small opening, so nothing comes as a surprise."
+  ],
+  "signs": {
+    "heading": "Signs Your Home May Need Repiping",
+    "items": [
+      "Brown or rust colored water when you first open a tap.",
+      "Water pressure is weak on several fixtures, not just one.",
+      "You have had pinhole leaks in more than one spot.",
+      "Exposed pipes show heavy rust, flaking or green crust at joints.",
+      "Your home has gray polybutylene or original galvanized supply lines.",
+      "A renovation will open walls where old pipe already runs."
+    ]
+  },
+  "covers": {
+    "heading": "What Our Repiping Service Covers",
+    "items": [
+      "Assessment of pipe material, pressure and condition",
+      "Whole house supply line replacement",
+      "Partial repiping of a bathroom, kitchen or wing",
+      "Replacing galvanized, polybutylene and failing copper",
+      "New shutoff valves at fixtures and the main",
+      "Pressure testing every new line before closing up"
+    ]
+  },
+  "bookLabel": "Book a Repiping Assessment",
+  "process": {
+    "heading": "How a Repiping Job Works",
+    "steps": [
+      { "title": "Assess and Plan", "text": "We look at every accessible pipe, test pressure and talk through which areas need new lines. You get a written plan and price." },
+      { "title": "Protect and Prepare", "text": "Floors and furniture are covered, and we mark each access point so you know exactly where we will open walls or ceilings." },
+      { "title": "Run New Lines", "text": "New pipe goes in section by section and is tied into fixtures as each part is finished, so water outages stay short." },
+      { "title": "Test and Hand Over", "text": "Every line is pressure tested and each fixture is checked for flow. We walk you through the new shutoffs before we leave." }
+    ]
+  },
+  "local": {
+    "heading": "Why So Many {state} Homes Need Repiping",
+    "paragraphs": [
+      "A large share of homes in the state were built well before plastic supply pipe was common. Rowhouses, farmhouses and postwar Capes often still carry original galvanized steel, sometimes joined to newer copper in a patchwork that grew over decades. Where those metals meet, corrosion speeds up.",
+      "Water chemistry plays a role as well. Some areas have hard well water that scales pipes from the inside, while others have softer water that can be harder on copper over time. Add years of freeze and thaw cycles in basements and crawlspaces, and many older homes reach a point where new lines are the steadier choice."
+    ]
+  },
+  "cost": {
+    "heading": "What Drives the Cost of Repiping",
+    "paragraphs": [
+      "The size of the home and the number of bathrooms and fixtures set the scope. Pipe material matters, since copper and PEX differ in labor and parts. Access is a big factor too. An open basement is simple, while plaster walls, tile and finished ceilings take more care. Permit requirements in your town also affect the total.",
+      "We price the whole plan before any work starts, so you know the scope and cost up front instead of discovering it room by room."
+    ]
+  },
+  "faqs": [
+    { "q": "How long does a whole house repipe take?", "a": "It depends on the size of the home and how easy the pipes are to reach. Many single family homes take a few days. We give you a schedule with the price so you can plan around the work." },
+    { "q": "Will I have water during the repipe?", "a": "For most of the job, yes. We work in sections and reconnect them as we go, so outages usually last a few hours at a time. We plan to have water back on at the end of each workday." },
+    { "q": "Should I choose PEX or copper?", "a": "Both are reliable. PEX is flexible, needs fewer joints and is easier to route through finished walls. Copper is rigid and long proven, and some homeowners prefer it in exposed areas. We explain the tradeoffs for your house and let you choose." },
+    { "q": "Do you repair the walls afterward?", "a": "We open walls as neatly as we can and keep the openings small. Patching and painting are usually handled by a drywall or plaster contractor. We will tell you before the job exactly where openings will be." },
+    { "q": "Can I repipe just one part of the house?", "a": "Yes. Partial repiping is common when a bathroom is being remodeled or one branch keeps leaking. We check the pipe that stays in place so you know how it compares and what to expect from it." }
+  ],
+  "related": ["leak-detection", "burst-pipe-repair", "water-heater-replacement"],
+  "ctaHeading": "Ready to stop patching old pipes?"
+}

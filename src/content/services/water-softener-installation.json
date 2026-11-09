@@ -1,0 +1,74 @@
+{
+  "title": "Water Softeners",
+  "order": 18,
+  "seoTitle": "Water Softeners in {state} | {shortName} Plumbing",
+  "metaDescription": "Scale on fixtures, spotty dishes or dry skin? {shortName} tests your water and installs and services water softeners sized to your home. Call {phone}.",
+  "imageAlt": "Hand turning a chrome kitchen faucet as water splashes into a glass",
+  "cardText": "Water tested, softener sized to your household, and installed with a bypass valve, drain line and settings explained.",
+  "hero": {
+    "eyebrow": "Softer water for the whole house",
+    "h1": "Water Softener Installation in {state}",
+    "sub": "White crust on faucets, spotty glasses and a water heater that rumbles? We test your water, recommend a softener sized for your home and install it with a bypass so service is simple later."
+  },
+  "quickAnswer": "Call {name} at {phone} to schedule a water test and softener consultation. We check hardness and iron, size a system to your household, and install it at the main line with a bypass valve. You get a firm price before any work begins.",
+  "intro": [
+    "Hard water carries dissolved calcium and magnesium. You cannot see it in a glass, but you can see what it leaves behind: chalky crust on shower heads, cloudy spots on dishes, and scale that builds up inside water heaters, dishwashers and pipes. Over time that scale shortens the life of appliances and makes your water heater work harder.",
+    "A water softener removes those minerals before water reaches your fixtures. We start with a test so the system is sized to your actual hardness and water use, not a guess. If your water also has iron or a sulfur smell, we tell you, since that may change which equipment makes sense.",
+    "We install the softener where the main line enters, add a bypass valve, run the drain line properly and set the regeneration schedule. Then we show you how to add salt, how to put the system in bypass if you ever need to, and the small signs that tell you it is time for a service visit."
+  ],
+  "signs": {
+    "heading": "Signs You May Need a Water Softener",
+    "items": [
+      "White or chalky crust builds up on faucets and shower heads.",
+      "Glasses and dishes come out of the dishwasher spotted or cloudy.",
+      "Soap and shampoo do not lather well and leave a film.",
+      "Your water heater pops, rumbles or loses hot water capacity.",
+      "Orange or brown stains appear in sinks, tubs or toilets.",
+      "Your home is on a private well that has never been tested."
+    ]
+  },
+  "covers": {
+    "heading": "What Our Water Softener Service Covers",
+    "items": [
+      "In home water hardness and iron testing",
+      "Sizing a softener to your household and water use",
+      "New softener installation with bypass valve",
+      "Drain line and brine tank setup",
+      "Replacing or repairing an existing softener",
+      "Settings, salt and maintenance walkthrough"
+    ]
+  },
+  "bookLabel": "Book a Water Softener Consultation",
+  "process": {
+    "heading": "How We Install a Water Softener",
+    "steps": [
+      { "title": "Test the Water", "text": "We test hardness and check for iron and other common issues so the system matches what is actually in your water." },
+      { "title": "Size and Recommend", "text": "We look at household size, bathrooms and water use, then recommend a softener and explain the options and price." },
+      { "title": "Install at the Main", "text": "The softener goes in near where water enters the house, with a bypass valve, a proper drain connection and a brine tank in place." },
+      { "title": "Set Up and Explain", "text": "We program regeneration, fill the brine tank, retest the softened water and show you how to keep it running well." }
+    ]
+  },
+  "local": {
+    "heading": "Hard Water in {state}",
+    "paragraphs": [
+      "Water hardness varies widely across the state. Areas with limestone bedrock, found in parts of central and western New York, often have notably hard water, while some city systems drawing from mountain reservoirs are much softer. Two homes a few miles apart can have very different water.",
+      "Homes on private wells, common in rural towns, are the most likely to need softening. Well water can carry both hardness and iron, which leaves orange stains and clogs fixtures quickly. Because wells are not treated by a utility, a test is the only way to know what you are dealing with before choosing equipment."
+    ]
+  },
+  "cost": {
+    "heading": "What Drives the Cost of a Water Softener",
+    "paragraphs": [
+      "The size and type of system is the main factor. A larger household or very hard water needs more capacity. Water with iron or other issues may call for added filtration. Installation depends on the space near your main line, the pipe material and how far the drain line has to run.",
+      "After the water test, you get a firm price for the equipment and installation before we start, with any added filtration priced separately so you can choose."
+    ]
+  },
+  "faqs": [
+    { "q": "How do I know if I have hard water?", "a": "Common signs include white scale on fixtures, spotty dishes, soap that does not lather well and dry skin after showers. The only way to be sure is a test. We test your water at the start of every softener visit so the advice fits your home." },
+    { "q": "How often do I need to add salt?", "a": "It depends on your water hardness, household size and the softener model. Many homeowners check the brine tank monthly and top it off when the salt level drops. We show you what to look for during the installation." },
+    { "q": "Does a softener help with iron and rust stains?", "a": "Many softeners can remove a small amount of iron along with hardness minerals. Higher iron levels usually need a dedicated iron filter before the softener. Your water test tells us which setup makes sense." },
+    { "q": "Can you service or replace my existing softener?", "a": "Yes. We can diagnose a softener that has stopped regenerating, is using too much salt or is leaking, and we can replace an old unit. If the system is not sized well for your water, we will tell you." },
+    { "q": "Will softened water affect my drinking water?", "a": "Softening adds a small amount of sodium to the water. Some households on a low sodium diet prefer a separate unsoftened tap or a drinking water filter at the kitchen sink. We can talk through those options during the visit." }
+  ],
+  "related": ["water-heater-repair", "tankless-water-heaters", "faucet-and-sink-repair"],
+  "ctaHeading": "Ready for softer water?"
+}

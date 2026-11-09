@@ -1,0 +1,74 @@
+{
+  "title": "Garbage Disposals",
+  "order": 16,
+  "seoTitle": "Garbage Disposal Repair and Installation | {shortName} Plumbing",
+  "metaDescription": "Disposal humming, jammed or leaking under the sink? {shortName} repairs and installs garbage disposals across {state} with a price upfront. Call {phone}.",
+  "imageAlt": "Hands tightening a white PVC drain fitting under a sink",
+  "cardText": "Jammed, leaking and humming disposals repaired, or a new unit installed, wired to the existing switch and tested with the drain.",
+  "hero": {
+    "eyebrow": "Disposal repair and replacement",
+    "h1": "Garbage Disposal Repair and Installation in {state}",
+    "sub": "Disposal humming but not spinning, leaking into the cabinet or backing up the sink? We clear jams, fix leaks and install new units, then run the drain to make sure everything flows."
+  },
+  "quickAnswer": "Call {name} at {phone}. We free jammed disposals, repair leaks at the mounting ring and drain connections, and install new units sized for your kitchen. You get the price before we start, and we test the disposal and sink drain together.",
+  "intro": [
+    "A garbage disposal usually tells you when something is wrong. A low hum means the motor is getting power but the grinding plate is stuck. Silence often means the reset button has tripped. Water under the sink may come from the sink flange, the dishwasher hose connection or a cracked housing. Each one points to a different fix.",
+    "We start with safe checks: power off, look inside with a light, free the plate from below with the right tool, and reset the unit. If it leaks, we find out exactly where. Leaks from the body itself usually mean the unit has worn through and needs replacing. A slow sink is often a clog in the drain past the disposal, not the disposal itself.",
+    "When a new disposal is the answer, we match the size and power to how you cook, connect it to your existing drain and dishwasher line, and test it with plenty of water. We haul the old unit away and leave you with a short list of what the new one handles well and what to keep out of it."
+  ],
+  "signs": {
+    "heading": "Signs Your Disposal Needs Attention",
+    "items": [
+      "It hums when switched on but the blades do not turn.",
+      "Nothing happens at all when you flip the switch.",
+      "Water drips from the bottom or sides of the unit.",
+      "The sink drains slowly or backs up when the disposal runs.",
+      "Grinding sounds loud, rattling or metallic.",
+      "A bad smell lingers even after running water through it."
+    ]
+  },
+  "covers": {
+    "heading": "What Our Disposal Service Covers",
+    "items": [
+      "Clearing jams and resetting tripped units",
+      "Repairing leaks at the sink flange and drain connections",
+      "Dishwasher drain hose connection and knockout",
+      "New disposal installation and removal of the old unit",
+      "Clearing the kitchen drain line behind the disposal",
+      "Advice on what to keep out of the disposal"
+    ]
+  },
+  "bookLabel": "Book Disposal Service",
+  "process": {
+    "heading": "How We Repair or Replace a Disposal",
+    "steps": [
+      { "title": "Make It Safe", "text": "We cut power to the unit before reaching in, then check the inside with a light for stuck objects, bones or utensils." },
+      { "title": "Diagnose the Problem", "text": "We free the grinding plate, test the reset and motor, and run water to see if the leak comes from the flange, hose or housing." },
+      { "title": "Repair or Install", "text": "Loose connections and seals are fixed. If the unit is worn out, we remove it and mount a new one on a fresh flange and gasket." },
+      { "title": "Run and Check", "text": "We grind, flush and run the dishwasher drain to confirm the disposal turns freely, the sink drains and nothing leaks." }
+    ]
+  },
+  "local": {
+    "heading": "Disposals in {state} Homes",
+    "paragraphs": [
+      "Kitchen drains in many older homes across the state are narrow, aging steel or cast iron. A disposal sends ground food into those lines, and with grease from cooking it can build up quickly, especially where the pipe runs along a cold basement wall in winter. Running plenty of cold water while grinding matters more here than in newer homes.",
+      "Homes on private septic systems, common outside the cities, should use a disposal with care. Extra food solids fill a septic tank faster. If you are on septic, we can talk through whether a disposal makes sense for your household and how to use it lightly."
+    ]
+  },
+  "cost": {
+    "heading": "What Drives the Cost of Disposal Work",
+    "paragraphs": [
+      "Clearing a jam or tightening a connection is a short visit. A new installation depends on the size and model of disposal you choose and whether your sink already has the right wiring and switch. Swapping for the same mounting style is simpler than changing brands. A clogged drain line behind the disposal adds cleaning time.",
+      "We give you the price before we start, whether that means a repair or a new unit, so you can choose with all the facts."
+    ]
+  },
+  "faqs": [
+    { "q": "Why does my disposal hum but not spin?", "a": "The motor is getting power, but something is holding the grinding plate, often a fruit pit, bone or piece of glass. Turn the power off at the switch and do not reach in. Many units have a hex socket on the bottom for freeing the plate. If that does not work, call {phone}." },
+    { "q": "What should never go in a garbage disposal?", "a": "Grease, oil, coffee grounds, eggshells, pasta, rice, fibrous vegetables like celery and corn husks, bones and anything that is not food. These either jam the unit or settle in the drain line and cause clogs further down." },
+    { "q": "Can a leaking disposal be repaired?", "a": "It depends on where it leaks. Leaks at the sink flange, the drain pipe or the dishwasher hose can usually be fixed by resealing or tightening. A leak from the body of the unit usually means the inside has corroded, and replacement is the reliable fix." },
+    { "q": "Is a disposal safe with a septic system?", "a": "Many homes with septic use one without trouble, but it adds solids to the tank, so it may need pumping more often. Use it lightly and avoid grease. If your septic system is older or small, ask us whether a disposal is a good idea." },
+    { "q": "How long does a disposal installation take?", "a": "Replacing an existing disposal usually takes about an hour or so. A first time install may take longer if the sink needs a new flange, drain changes or a power connection under the cabinet." }
+  ],
+  "related": ["drain-cleaning", "faucet-and-sink-repair", "hydro-jetting"],
+  "ctaHeading": "Disposal jammed or leaking?"
+}

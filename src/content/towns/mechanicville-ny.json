@@ -1,0 +1,48 @@
+{
+  "name": "Mechanicville",
+  "order": 19,
+  "county": "Saratoga",
+  "region": "capital-region",
+  "zips": ["12118"],
+  "neighborhoods": ["Downtown", "North Main Street", "Hudson riverfront", "Anthony Kill area", "Park Avenue", "Terminal area"],
+  "nearby": ["halfmoon-ny", "stillwater-ny", "clifton-park-ny", "troy-ny", "easton-ny"],
+  "geo": { "lat": 42.9028, "lng": -73.6873 },
+  "seoTitle": "Plumber in Mechanicville, NY | 24/7 Repairs | {shortName}",
+  "metaDescription": "Mechanicville, NY plumber for older two family homes and downtown buildings. Sewer lines, drain cleaning, burst pipes and repiping 24/7. Call {phone}.",
+  "imageAlt": "White bungalow with a front porch among autumn trees",
+  "hero": {
+    "eyebrow": "Saratoga County plumber",
+    "h1": "Plumber in Mechanicville, NY",
+    "sub": "Mechanicville is a small city of close set homes built when the mills and rail yard were busy. We repair the old pipes, drains and sewer lines behind those walls, any hour, with a price first."
+  },
+  "intro": "{name} serves Mechanicville homeowners, landlords and Main Street businesses. The city covers less than a square mile along the Hudson, and most of its houses went up in the late 1800s and early 1900s for mill, power plant and railroad families. Tight lots, shared driveways and century old service lines make plumbing here its own kind of work, and we know it well.",
+  "popular": ["sewer-line-repair", "drain-cleaning", "repiping", "burst-pipe-repair", "water-heater-repair", "sewer-camera-inspection"],
+  "problems": [
+    { "title": "Century old sewer connections", "text": "Many laterals here were laid around the time the houses were built. Cracked clay, missing sections and old connections at the street main cause slow drains and sewage odors in cellars.", "service": "sewer-line-repair" },
+    { "title": "Two family homes on one water line", "text": "Upstairs and downstairs units often share an undersized main service. When both run water at once, pressure drops, and old galvanized branches make it worse.", "service": "repiping" },
+    { "title": "Pipes splitting in cold cellars", "text": "Stone and brick foundations in older homes let cold air in along the sill. Supply pipes near the foundation wall can freeze and burst during a long cold snap.", "service": "burst-pipe-repair" },
+    { "title": "Tired drains in storefront buildings", "text": "Downtown buildings with shops below and apartments above share drain stacks that have served many tenants. Grease, paper and age combine to cause backups.", "service": "commercial-drain-cleaning" }
+  ],
+  "housing": {
+    "heading": "Plumbing in Mechanicville's Older Homes",
+    "paragraphs": [
+      "Most streets in Mechanicville are lined with wood frame two family houses, narrow singles and a few brick blocks downtown. The original plumbing was simple, and decades of updates added copper, plastic and newer fixtures on top of old cast iron and galvanized lines. Low cellars and tight crawl spaces mean we work carefully and in close quarters.",
+      "Homes near the Hudson and the Anthony Kill sit on lower ground, so cellar dampness and groundwater are common concerns. We pay attention to how drains, floor drains and water heaters are set up in those basements."
+    ]
+  },
+  "howWeWork": {
+    "heading": "Plumbing Service Built for a Compact City",
+    "paragraphs": [
+      "Mechanicville's narrow streets and small lots call for planning. We bring the right size equipment, keep shared driveways clear and let neighbors know if water must be shut off to a shared line.",
+      "We answer calls {hours} and give a clear price before work begins. Landlords get a short summary after each visit so they know what was done in each unit."
+    ]
+  },
+  "faqs": [
+    { "q": "How fast can you reach Mechanicville?", "a": "Mechanicville is a straightforward drive up Route 4 or the Northway from {city}, and we have technicians in southern Saratoga County most days. Emergency calls are prioritized, and we give you an honest arrival estimate when you call." },
+    { "q": "Can you improve water pressure in a two family house?", "a": "Usually. Low pressure in these homes often comes from an undersized service line or corroded galvanized pipe. Replacing the worst sections or upgrading the main line can make a big difference for both units." },
+    { "q": "Do you work on downtown commercial buildings?", "a": "Yes. We handle drain cleaning, repairs and fixture work for shops, restaurants and mixed use buildings along Main Street, and can schedule around business hours when possible so customers and tenants are not disrupted." },
+    { "q": "What should I do if a pipe bursts in my cellar?", "a": "Shut off the main water valve right away, which is usually near where the line enters the foundation. Turn off power to any electrical equipment near the water. Then call us and we will get a technician moving." },
+    { "q": "Do I need a camera inspection on an old Mechanicville house?", "a": "If you are buying, renovating or dealing with repeat backups, it is worth it. The camera shows the condition of the lateral to the street so you can plan for repairs instead of reacting to a failure." }
+  ],
+  "ctaHeading": "Plumber in Mechanicville, 24/7"
+}

@@ -1,0 +1,28 @@
+{
+  "seoTitle": "Plumbing Services in {state}, 24/7 | {shortName}",
+  "metaDescription": "Residential plumbing from {shortName}: drains, sewer lines, water heaters, frozen pipes, leaks and fixtures. Open 24/7 with upfront pricing. Call {phone}.",
+  "crumb": "Plumbing",
+  "hero": {
+    "eyebrow": "Residential plumbing",
+    "h1": "Home Plumbing Services in {state}, 24/7",
+    "sub": "Eighteen services, one phone number. Whether it is a slow sink or a sewer line that has given up, our technicians diagnose it, price it and fix it, any hour of the day."
+  },
+  "intro": [
+    "Every service on this page is available around the clock, including holidays. Pick the one that matches your problem to learn how we handle it, what it usually involves and what affects the price. If you are not sure what is wrong, that is fine. Call and describe what you see and hear, and we will point you in the right direction.",
+    "Our shop is in {city}, and our technicians cover homes across {state}. Each truck carries cables, a camera, common water heater parts and fittings for old and new pipe, so most repairs are finished on the first visit."
+  ],
+  "cross": {
+    "eyebrow": "For business owners",
+    "heading": "Commercial Plumbing Services Too",
+    "lead": "Run a restaurant, manage apartments or own a storefront? The same crew handles commercial plumbing, with after-hours scheduling and maintenance plans."
+  },
+  "faqHeading": "Home Plumbing Questions",
+  "faqs": [
+    { "q": "Which plumbing problems count as emergencies?", "a": "Anything that is actively causing water damage or leaves you without a working toilet, water or heat is an emergency: burst pipes, sewage backing up, a flooding water heater, or a frozen main. Call right away and shut off the main valve if water is spreading." },
+    { "q": "Do you charge a trip fee?", "a": "We explain any diagnostic or service call charge when you book, before a technician is dispatched. After the diagnosis, you get a firm price for the repair and decide whether to go ahead." },
+    { "q": "Can you fix it on the first visit?", "a": "Most of the time. Trucks are stocked for common repairs and the major water heater sizes. If a special part is needed, we make the system safe, order the part and schedule the return at a time that works for you." },
+    { "q": "Do you pull permits when they are required?", "a": "Yes. Water heater replacements, sewer work and repipes often need a permit and inspection. We handle the paperwork with your town so you do not have to." },
+    { "q": "What should I do before the plumber arrives?", "a": "Shut off water to the affected fixture or the whole house if needed, move valuables away from the leak, and clear a path to the problem area and the water main. Take photos if you plan to file an insurance claim." }
+  ],
+  "ctaHeading": "Need a plumber right now?"
+}

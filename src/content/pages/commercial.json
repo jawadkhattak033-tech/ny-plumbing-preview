@@ -1,0 +1,28 @@
+{
+  "seoTitle": "Commercial Plumbing Services in {state} | {shortName}",
+  "metaDescription": "Commercial plumbing for restaurants, apartments, offices and retail across {state}. Drains, grease traps, maintenance plans and 24/7 service. Call {phone}.",
+  "crumb": "Commercial",
+  "hero": {
+    "eyebrow": "Commercial plumbing",
+    "h1": "Commercial Plumbing Services in {state}",
+    "sub": "Restaurants, apartment buildings, offices and stores cannot wait until Monday. We work around your hours, keep tenants and customers informed, and send clean paperwork."
+  },
+  "intro": [
+    "A plumbing failure at a business costs more than the repair. Closed dining rooms, angry tenants and wet inventory add up fast. Our commercial service is built around getting you running again quickly and then keeping the same problem from coming back.",
+    "We work for owners, operators and property managers across {state}. That includes after-close and overnight work, recurring drain and grease trap schedules, photo documentation of each visit and invoices organized by property or unit."
+  ],
+  "cross": {
+    "eyebrow": "Every service, any building",
+    "heading": "Plumbing Services for Your Business Too",
+    "lead": "Our full residential service list applies to commercial buildings as well, from water heaters to sewer camera inspections."
+  },
+  "faqHeading": "Commercial Plumbing Questions",
+  "faqs": [
+    { "q": "Can you work after we close?", "a": "Yes. Many restaurant and retail jobs are scheduled after close or before opening so customers never see us. Emergencies are handled whenever they happen, day or night." },
+    { "q": "Do you offer maintenance contracts?", "a": "We set up recurring service for drain jetting, grease traps, water heater flushing and backflow-related checks. Frequency is based on how hard your system works, not a one size schedule." },
+    { "q": "Can you bill a property management company directly?", "a": "Yes. We can invoice your management company, reference work orders and unit numbers, and include photos so you can document the job for owners." },
+    { "q": "Do you provide certificates of insurance?", "a": "Yes. Request a certificate when you set up service and we will send one naming your company or property as required." },
+    { "q": "How fast can you respond to a commercial emergency?", "a": "Emergency calls are answered {hours} and routed to the nearest available technician. Businesses near {city} usually see someone the same day, often within a few hours." }
+  ],
+  "ctaHeading": "Need a commercial plumber today?"
+}

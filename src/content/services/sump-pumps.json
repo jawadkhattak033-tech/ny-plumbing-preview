@@ -1,0 +1,74 @@
+{
+  "title": "Sump Pumps",
+  "order": 17,
+  "seoTitle": "Sump Pump Repair and Installation, 24/7 | {shortName} Plumbing",
+  "metaDescription": "Sump pump failed, running nonstop or basement taking on water? {shortName} repairs and installs sump pumps and backups across {state}. Call {phone}.",
+  "imageAlt": "Clean unfinished basement with painted walls, support posts and open stairs",
+  "cardText": "Failed, noisy and nonstop pumps repaired or replaced, with check valves, discharge lines and battery backups set up to match.",
+  "hero": {
+    "eyebrow": "Sump pump repair, day or night",
+    "h1": "Sump Pump Repair and Installation in {state}",
+    "sub": "Water rising in the pit, a pump that will not shut off, or one that has stopped completely before a big storm? We repair or replace the pump, check the discharge line and test it under load."
+  },
+  "quickAnswer": "Call {name} at {phone} if your sump pump has failed or water is coming into the basement. We answer {hours}, diagnose the pump, float, check valve and discharge, and repair or replace it with a firm price before any work starts.",
+  "intro": [
+    "A sump pump is easy to forget until the day it matters most. It sits in a pit at the lowest point of the basement and pumps out groundwater before it can rise over the floor. When the float sticks, the motor burns out or the discharge line freezes, water has nowhere to go but up.",
+    "We check the whole system, not just the pump. That means the float switch, the check valve that stops water from running back into the pit, the discharge pipe and where it drains outside, and the electrical outlet it runs on. Many failures come from one of those parts rather than the motor.",
+    "If the pump needs replacing, we size it to how much water your pit sees and set it up so it is easy to service. We can also add a battery backup pump for storms that knock out the power, and a high water alarm that warns you before the pit overflows."
+  ],
+  "signs": {
+    "heading": "Signs Your Sump Pump Needs Service",
+    "items": [
+      "The pump runs constantly, even in dry weather.",
+      "It hums but does not move water out of the pit.",
+      "Water stays high in the pit or spills onto the floor.",
+      "The pump cycles on and off every few seconds.",
+      "You hear grinding, rattling or loud clunks when it starts.",
+      "The pump is many years old and has never been tested."
+    ]
+  },
+  "covers": {
+    "heading": "What Our Sump Pump Service Covers",
+    "items": [
+      "Sump pump diagnosis and repair",
+      "New submersible and pedestal pump installation",
+      "Float switch and check valve replacement",
+      "Discharge line repair and freeze protection",
+      "Battery backup pump installation",
+      "Pit cleaning and full test under load"
+    ]
+  },
+  "bookLabel": "Book Sump Pump Service",
+  "process": {
+    "heading": "How We Service a Sump Pump",
+    "steps": [
+      { "title": "Check the Pit", "text": "We look at water level, debris and how fast the pit fills, which tells us how hard the pump has to work in your basement." },
+      { "title": "Test Each Part", "text": "The float, motor, check valve, power supply and discharge line are tested one by one to find the part that is failing." },
+      { "title": "Repair or Replace", "text": "We fix the failed part or install a new pump sized for your water flow, with a fresh check valve and secure discharge connections." },
+      { "title": "Run It Under Load", "text": "We fill the pit with water, watch the pump cycle and confirm water leaves the house and drains away from the foundation." }
+    ]
+  },
+  "local": {
+    "heading": "Why Sump Pumps Work Hard in {state}",
+    "paragraphs": [
+      "Spring snowmelt and heavy rain can push groundwater up fast, especially in homes built near rivers, streams or in low areas with a high water table. Many basements across the state rely on a sump pump for weeks each spring, and a pump that sat idle all winter can fail just when the melt begins.",
+      "Winter brings its own risk. Discharge lines that run above ground can freeze solid, which blocks the pump even when it is running. Summer thunderstorms often knock out power right when the pit is filling. A protected discharge line and a battery backup address both of these common local problems."
+    ]
+  },
+  "cost": {
+    "heading": "What Drives the Cost of Sump Pump Work",
+    "paragraphs": [
+      "A float or check valve replacement is a shorter visit than a full pump replacement. The pump type and capacity, the depth and condition of the pit, the length and route of the discharge line and whether you want a battery backup all affect the price. An emergency visit during a storm may also factor in.",
+      "You get the price before we start, with options explained so you can choose the setup that fits your basement."
+    ]
+  },
+  "faqs": [
+    { "q": "How do I test my sump pump?", "a": "Slowly pour a bucket of water into the pit until the float rises. The pump should start, empty the pit and shut off on its own. If it does not start, runs without moving water or does not shut off, call {phone} to have it checked." },
+    { "q": "What does a battery backup sump pump do?", "a": "It is a second pump with its own battery that takes over if the main pump fails or the power goes out. Storms that bring the most water often cause outages, so a backup is a common addition for basements that flood easily." },
+    { "q": "Why does my sump pump run all the time?", "a": "It may have a stuck float, a failed check valve letting water flow back into the pit, or a pump too small for the water coming in. A high water table after heavy rain can also keep it busy. We check each of these to find the cause." },
+    { "q": "Where should my sump pump discharge go?", "a": "Water should drain well away from your foundation so it does not soak back into the soil around the basement. Many towns do not allow sump pumps to drain into the sewer. We can check your current setup and suggest a better route if needed." },
+    { "q": "How often should a sump pump be replaced?", "a": "It depends on how often it runs and the quality of the unit. A pump that has run hard through many wet seasons is worth testing each spring. If yours is old or has never been checked, a quick inspection before snowmelt is a good idea." }
+  ],
+  "related": ["emergency-plumbing", "leak-detection", "sewer-line-repair"],
+  "ctaHeading": "Basement taking on water?"
+}

@@ -1,0 +1,41 @@
+{
+  "name": "Capital Region",
+  "order": 1,
+  "counties": ["Albany", "Columbia", "Greene", "Rensselaer", "Saratoga", "Schenectady", "Warren", "Washington"],
+  "communities": ["Albany", "Troy", "Schenectady", "Saratoga Springs", "Clifton Park", "Glens Falls", "Latham", "Colonie", "Delmar", "Guilderland", "Niskayuna", "Rotterdam", "Halfmoon", "Ballston Spa", "Queensbury", "Hudson", "Catskill", "Mechanicville", "Rensselaer", "Cohoes", "Watervliet", "East Greenbush", "Coxsackie", "Kinderhook"],
+  "seoTitle": "Plumber in the Capital Region, NY | 24/7 | {shortName}",
+  "metaDescription": "{shortName} is based in {city} and serves all eight Capital Region counties around the clock. Drains, sewers, water heaters and frozen pipes. Call {phone}.",
+  "imageAlt": "New York State Capitol in Albany, with a statue and lawns in front",
+  "cardText": "Our home base. Same day plumbing across Albany, Rensselaer, Saratoga, Schenectady and the surrounding counties.",
+  "hero": {
+    "eyebrow": "Capital Region plumber",
+    "h1": "Plumber in the Capital Region, NY",
+    "sub": "From downtown {city} to the Lake George foothills, our trucks are already nearby. Real people answer the phone at any hour and give you a price before we start."
+  },
+  "quickAnswer": "Yes, {name} serves the entire Capital Region 24 hours a day. Our shop is in {city}, so most homes and businesses in the eight surrounding counties are a short drive away, including on nights, weekends and holidays.",
+  "intro": [
+    "The Capital Region is home for us. Our shop sits in {city}, and most of our technicians live within a few exits of it, which is why we can usually reach a burst pipe in Clifton Park or a backed up drain in Troy faster than companies coming up from farther south.",
+    "Housing here covers almost every era of plumbing. There are 1880s brick rowhouses with cast iron stacks, postwar capes on clay sewer laterals, 1970s split levels with galvanized supply lines and new subdivisions plumbed in PEX. Our technicians see all of it every week and carry parts for all of it on the truck."
+  ],
+  "coverage": {
+    "heading": "How We Cover the Capital Region",
+    "paragraphs": [
+      "We dispatch from {city} and keep technicians spread through the region during busy seasons, so a call from Saratoga County does not wait on a truck stuck in Columbia County traffic. Emergency calls go to the closest available plumber.",
+      "Northern and southern edges of the region, like Warren, Washington and Greene counties, may take a little longer to reach. We will always give you an honest arrival estimate on the phone."
+    ]
+  },
+  "problems": [
+    { "title": "Aging clay and cast iron sewer lines", "text": "Older neighborhoods still drain through clay or cast iron laterals that crack, sag and let roots in. Recurring main line clogs here usually mean it is time for a camera look." },
+    { "title": "Pipes that freeze in January", "text": "Supply lines on outside walls, over garages and in crawl spaces freeze during long cold snaps. We thaw them safely and fix the splits that show up when they do." },
+    { "title": "Wet basements at snowmelt", "text": "When the snowpack melts on frozen ground, groundwater finds its way into basements. Sump pumps that sat idle all winter often fail right when they are needed." },
+    { "title": "Hard working water heaters", "text": "Cold incoming water makes heaters work harder in winter. Units past ten years old tend to fail in the coldest weeks of the year." }
+  ],
+  "faqs": [
+    { "q": "Which Capital Region counties do you serve?", "a": "All eight: Albany, Columbia, Greene, Rensselaer, Saratoga, Schenectady, Warren and Washington. Our shop is in {city}, so the closer counties usually get the fastest arrival times." },
+    { "q": "Do you charge more for nights and weekends?", "a": "We quote every job before work starts, including after hours calls, so you know the full price up front. There are no surprise fees on the final bill." },
+    { "q": "Can you work on older homes in Albany, Troy and Schenectady?", "a": "Yes. Older homes are a big part of what we do. Our technicians work on cast iron, galvanized steel, lead service lines and clay sewers, and know how to tie them into modern materials safely." },
+    { "q": "Do you serve businesses in the Capital Region?", "a": "We do. Restaurants, apartment buildings, offices and retail properties call us for drain cleaning, grease traps, water heaters and preventive maintenance plans." },
+    { "q": "How fast can you get to me?", "a": "It depends on your town and how busy the day is. Most calls near {city} are reached the same day, and emergencies are prioritized. We give you a realistic window when you call." }
+  ],
+  "ctaHeading": "Plumber in the Capital Region, 24/7"
+}

@@ -1,0 +1,48 @@
+{
+  "name": "Glens Falls",
+  "order": 5,
+  "county": "Warren",
+  "region": "capital-region",
+  "zips": ["12801"],
+  "neighborhoods": ["Downtown", "Ridge Street", "Bay Street", "Glen Street", "South Street", "Broad Street", "Sanford Street", "Crandall Park"],
+  "nearby": ["queensbury-ny", "saratoga-springs-ny", "saratoga-ny", "easton-ny"],
+  "geo": { "lat": 43.3095, "lng": -73.6440 },
+  "seoTitle": "Plumber in Glens Falls, NY | Pipes and Drains | {shortName}",
+  "metaDescription": "Glens Falls, NY plumber for mill era homes, downtown buildings and frozen pipes. Sewer, drain and water heater service. Open 24/7. Call {phone} today.",
+  "imageAlt": "Clear lake reflecting a forested hillside and clouds",
+  "hero": {
+    "eyebrow": "Warren County plumber",
+    "h1": "Plumber in Glens Falls, NY",
+    "sub": "Long, cold winters and homes built in the paper mill era make for some tough plumbing. We take calls at any hour and give you a clear price before work begins."
+  },
+  "intro": "{name} serves homes and businesses throughout Glens Falls, from the downtown blocks around Glen Street to the neighborhoods near Crandall Park. It is farther up the Northway from our {city} shop than most Capital Region towns, so we are honest about arrival times, and we prioritize emergencies like burst pipes and no heat to the water heater.",
+  "popular": ["frozen-pipe-repair", "burst-pipe-repair", "trenchless-sewer-replacement", "water-heater-repair", "emergency-plumbing", "drain-cleaning"],
+  "problems": [
+    { "title": "Pipes in shallow crawlspaces", "text": "Many worker homes from the mill era sit over low crawlspaces or fieldstone foundations with little insulation. When North Country cold settles in, supply lines in those spaces freeze first.", "service": "frozen-pipe-repair" },
+    { "title": "Old laterals under driveways", "text": "Clay sewer laterals laid decades ago often run under driveways, walks and mature maples. When one cracks or collapses, trenchless methods can replace it without digging up the yard.", "service": "trenchless-sewer-replacement" },
+    { "title": "Water heaters working overtime", "text": "Incoming water here is very cold for much of the year, so tanks work harder and longer. Sediment builds faster, and burners or elements wear out sooner than in milder places.", "service": "water-heater-repair" },
+    { "title": "Storefronts with apartments above", "text": "Downtown buildings often have shops on the ground floor and apartments upstairs on one shared system. A leak or clog upstairs can close the business below until it is fixed.", "service": "office-retail-plumbing" }
+  ],
+  "housing": {
+    "heading": "Mill Era Homes and Downtown Buildings",
+    "paragraphs": [
+      "Glens Falls grew around lumber, lime and paper mills, and much of its housing went up for the families who worked there. These are sturdy wood frame homes, but their plumbing has been patched by many hands. Expect a mix of galvanized, copper and plastic, and drain lines added wherever they would fit.",
+      "Along Ridge Street, Bay Street and the streets near Crandall Park, larger homes from the late 1800s and early 1900s carry their own challenges, including long pipe runs to upper floors and old cast iron stacks. Downtown, many brick commercial buildings combine stores, offices and apartments on aging shared lines."
+    ]
+  },
+  "howWeWork": {
+    "heading": "Winter Ready Plumbing for Glens Falls",
+    "paragraphs": [
+      "We answer {hours}, and in a cold snap we sort calls so active leaks and no water get seen first. When we are booked, we tell you plainly how long the wait will be and how to protect your home until we arrive.",
+      "You get an upfront price before work starts. After the repair, we check nearby lines for frost risk, clean the work area and suggest simple steps to keep the problem from coming back."
+    ]
+  },
+  "faqs": [
+    { "q": "How long does it take you to reach Glens Falls?", "a": "Glens Falls is a longer drive than towns near {city}, so routine work is usually scheduled ahead. Emergency calls are answered 24/7 and sent to the nearest available technician, and we give you a realistic arrival estimate." },
+    { "q": "How do I keep crawlspace pipes from freezing?", "a": "Seal gaps and vents in the crawlspace for winter, insulate exposed lines and consider heat cable on the most exposed runs. On the coldest nights, let a faucet drip on that line." },
+    { "q": "What does trenchless sewer replacement involve?", "a": "We make small access points at each end of the old line and pull or line a new pipe through it. Your driveway, lawn and trees stay mostly intact, and the work usually takes far less time than digging." },
+    { "q": "Why does my water heater run out faster in winter?", "a": "The water coming in is much colder, so the heater has more work to do for each gallon. Sediment buildup makes it worse. Flushing the tank and checking the burner or elements often helps." },
+    { "q": "Do you work on downtown commercial buildings?", "a": "Yes. We repair shared lines, restrooms and water heaters in mixed use buildings, and we coordinate shutoffs with owners so both the businesses and the upstairs tenants know what to expect." }
+  ],
+  "ctaHeading": "Glens Falls Plumber, 24/7"
+}

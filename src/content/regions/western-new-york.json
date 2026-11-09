@@ -1,0 +1,41 @@
+{
+  "name": "Western New York",
+  "order": 8,
+  "counties": ["Allegany", "Cattaraugus", "Chautauqua", "Erie", "Niagara"],
+  "communities": ["Buffalo", "Amherst", "Williamsville", "Cheektowaga", "Tonawanda", "Kenmore", "West Seneca", "Lackawanna", "Hamburg", "Orchard Park", "East Aurora", "Lancaster", "Grand Island", "Niagara Falls", "North Tonawanda", "Lockport", "Lewiston", "Jamestown", "Dunkirk", "Fredonia", "Olean", "Salamanca", "Wellsville", "Alfred"],
+  "seoTitle": "Western New York Plumber | Buffalo Area | {shortName}",
+  "metaDescription": "{shortName} takes scheduled plumbing work in Western New York, from Buffalo to Jamestown. Lake effect freezes, old sewers and wet basements. Call {phone}.",
+  "imageAlt": "Rows of grapevines beside a mown grass lane",
+  "cardText": "Planned plumbing visits in Buffalo, Niagara Falls and the Southern Tier counties, with calls answered 24/7.",
+  "hero": {
+    "eyebrow": "Western New York plumbing",
+    "h1": "Plumber in Western New York",
+    "sub": "Buffalo is the far end of the state from our {city} shop. We schedule Western New York work ahead, plan around the weather and give you an upfront price before anything starts."
+  },
+  "quickAnswer": "{name} serves Erie, Niagara, Chautauqua, Cattaraugus and Allegany counties with scheduled plumbing work. Our shop is in {city}, across the state, so visits are booked ahead. We answer calls 24/7 and are honest about how long an emergency trip will take.",
+  "intro": [
+    "Western New York is as far from our {city} shop as the state gets, and we will not pretend otherwise. We take planned work here: sewer camera inspections, line repairs, water heater and repiping projects, and maintenance for property owners who want a steady plumber. Those jobs are booked ahead so the technician arrives with what the job needs.",
+    "Buffalo and its first ring suburbs are known for lake effect snow off Lake Erie, and the bands can drop feet of snow in a single storm. Older Buffalo neighborhoods are lined with wood frame doubles and Victorian homes on clay and cast iron sewers. Farther south in Chautauqua, Cattaraugus and Allegany counties, homes are more spread out, often on wells and septic, with hilly terrain and deep winter cold."
+  ],
+  "coverage": {
+    "heading": "How We Cover Western New York",
+    "paragraphs": [
+      "All of Western New York is scheduled territory for us. We group visits into multi day trips covering Buffalo and its suburbs, the Niagara corridor and the southern counties, and we watch the weather closely before booking winter work.",
+      "Calls are answered {hours}. If you have an emergency, we help you limit the damage right away, route the call to the nearest available technician and tell you honestly how long arrival will take."
+    ]
+  },
+  "problems": [
+    { "title": "Pipes freezing in lake effect storms", "text": "Multi day lake effect events bring hard cold and wind. Supply lines near exterior walls and in old crawl spaces freeze and burst, often while the street is too buried for easy access." },
+    { "title": "Basement backups from combined sewers", "text": "Much of older Buffalo drains to combined sewers that surge during heavy rain and snowmelt. When the system backs up, sewage can rise through basement floor drains. Backwater valves help." },
+    { "title": "Clay and cast iron in Buffalo doubles", "text": "Wood frame doubles from the early 1900s often still have original drains. Root intrusion, cracked hubs and scaled cast iron cause slow drains and repeat clogs that a camera can pinpoint." },
+    { "title": "Wells and septic in the southern counties", "text": "Rural homes around Jamestown, Olean and Wellsville rely on wells and septic. Pressure tank failures, hard water and slow drains to the tank are common service calls." }
+  ],
+  "faqs": [
+    { "q": "Do you really serve Buffalo from {city}?", "a": "We do, for scheduled work. It is a long drive, so we plan Western New York trips ahead and book several jobs per visit. If you need someone at your door within the hour, we will tell you honestly that we are not the closest option." },
+    { "q": "What happens if I call during a lake effect storm?", "a": "We answer at any hour and help you shut off water, protect the house and keep pipes from freezing further. Arrival depends on road conditions, and we will not guess optimistically just to keep the call." },
+    { "q": "How can I stop sewage from backing up into my basement?", "a": "A backwater valve on the main sewer line lets waste flow out but blocks it from coming back in. We camera the line first to make sure it is in good enough shape for the valve to work." },
+    { "q": "Do you work in Jamestown and Olean?", "a": "Yes, on scheduled trips. Chautauqua, Cattaraugus and Allegany counties are some of the farthest points we serve, so we book those visits well ahead and bring parts for older and rural systems." },
+    { "q": "Do you offer maintenance for Buffalo rental properties?", "a": "We do. Landlords and property managers use planned visits for drain cleaning, water heater checks and camera inspections. Scheduled maintenance fits well with our travel and helps prevent emergencies between visits." }
+  ],
+  "ctaHeading": "Schedule a Plumber in Western New York"
+}

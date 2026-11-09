@@ -1,0 +1,74 @@
+{
+  "title": "Apartment and Multifamily Plumbing",
+  "order": 7,
+  "seoTitle": "Apartment and Multifamily Plumbing, {state} | {shortName}",
+  "metaDescription": "Leaks between units, stack backups or no hot water building wide? {shortName} repairs apartment plumbing 24/7 and keeps tenants informed. Call {phone}.",
+  "imageAlt": "Apartment building with rows of balconies",
+  "cardText": "Plumbing for apartment buildings and multifamily homes, from single unit leaks to shared stacks, risers and mechanical rooms.",
+  "hero": {
+    "eyebrow": "Plumbing for apartment buildings",
+    "h1": "Apartment and Multifamily Plumbing in {state}",
+    "sub": "In a building with shared pipes, one problem rarely stays in one unit. We find the source of leaks and backups, keep shutdowns short and work respectfully in occupied homes so tenants stay comfortable."
+  },
+  "quickAnswer": "Call {name} at {phone}. We answer {hours} and send a technician who works on shared drain stacks, risers and central water heaters. We give a firm price before starting and limit water shutoffs to the fewest units possible.",
+  "intro": [
+    "Apartment plumbing is connected in ways a single family home is not. Units are stacked over one another and share drain stacks, vent lines and supply risers. A leak that shows up in a third floor ceiling may start in a fourth floor shower. A clog in the main stack can push water out of a first floor tub while upper units drain normally.",
+    "We are used to tracking problems through those shared systems. We check units above and below, look at cleanouts and access panels, and trace the water back to its real source. When a shutoff is needed, we isolate the smallest group of units we can and give owners or managers time to notify tenants.",
+    "We also work on the equipment that serves the whole building, including central water heaters, recirculation pumps, booster pumps and main drains. Keeping these in good shape prevents the building wide outages that generate the most tenant complaints. When we see a pump, heater or valve wearing out, we tell the owner early so the replacement can be planned for a weekday morning instead of a cold Sunday night with every unit calling."
+  ],
+  "signs": {
+    "heading": "Signs Your Apartment Building Needs a Plumber",
+    "items": [
+      "Water stains appear on ceilings directly below bathrooms or kitchens.",
+      "Lower floor tubs or sinks back up when upper units use water.",
+      "Several tenants report weak pressure or no hot water at once.",
+      "Sewer odors show up in stairwells, hallways or the basement.",
+      "The central water heater struggles during morning showers.",
+      "Tenant plumbing complaints are increasing month over month."
+    ]
+  },
+  "covers": {
+    "heading": "What Our Multifamily Plumbing Service Covers",
+    "items": [
+      "Leaks between units and through ceilings",
+      "Drain stack and building main cleaning",
+      "Central water heaters and recirculation pumps",
+      "Supply riser and shutoff valve repairs",
+      "In unit toilet, faucet and shower repairs",
+      "Tenant scheduling and owner friendly reporting"
+    ]
+  },
+  "bookLabel": "Book Apartment Plumbing",
+  "process": {
+    "heading": "How We Handle Apartment Plumbing Calls",
+    "steps": [
+      { "title": "Trace the Source", "text": "We check the affected unit and the units above or beside it, along with any shared stack or riser, to find where the problem actually starts." },
+      { "title": "Plan the Shutoff", "text": "If water must be turned off, we isolate the fewest units possible and give the owner or manager time to notify tenants." },
+      { "title": "Repair and Protect", "text": "After price approval, we make the repair while covering floors and furniture in occupied units and keeping hallways clear." },
+      { "title": "Restore and Confirm", "text": "We bring water back, check each affected unit and report what was done, along with any related issues in neighboring apartments." }
+    ]
+  },
+  "local": {
+    "heading": "Multifamily Plumbing in New York Housing",
+    "paragraphs": [
+      "Much of New York's rental housing lives in older buildings: two and three family homes, row houses split into flats and brick walkups from the early twentieth century. Many have original cast iron stacks and galvanized supply lines that have been patched over decades of renovations. Those mixed systems are common sources of hidden leaks and stack clogs.",
+      "Cold weather is a constant concern. Pipes in exterior walls, unheated basements and vacant units can freeze when temperatures drop or a heating system fails. Because one burst pipe can flood several apartments, we help owners spot risky lines before winter and respond quickly when a freeze happens."
+    ]
+  },
+  "cost": {
+    "heading": "What Drives the Cost of Apartment Plumbing",
+    "paragraphs": [
+      "Cost depends on how many units are involved, how far the problem has spread and how easy it is to reach shared pipes. A repair inside one bathroom is simpler than replacing a section of stack that runs through several floors. Ceiling or wall openings, after hours work and tenant coordination can add time.",
+      "We give a firm price before we start and explain which units are affected so the owner or manager can plan."
+    ]
+  },
+  "faqs": [
+    { "q": "How do you find a leak that shows up in another unit?", "a": "We start with the unit where the water appears, then check fixtures and pipes in the units above and beside it. Shared stacks, tub drains and shower valves are common sources. Finding the true source first avoids opening walls in the wrong apartment." },
+    { "q": "Will all tenants lose water during the repair?", "a": "Usually not. Most buildings have valves that let us shut off a single unit, a riser or one section. If a full building shutoff is required, we schedule it ahead of time so the owner can give tenants notice." },
+    { "q": "Why do lower floor drains back up?", "a": "When a shared stack or main drain is partly blocked, water from upper units has nowhere to go and comes out at the lowest open fixture. Clearing the stack or main from a cleanout usually solves it. We may recommend a camera check if it keeps happening." },
+    { "q": "Can you work in units while tenants are home?", "a": "Yes. We introduce ourselves, explain what we are doing, protect floors and belongings and clean up before we leave. If tenants are not home, we work with the manager or owner to arrange entry." },
+    { "q": "Do you service central water heaters in apartment buildings?", "a": "Yes. We repair and replace central water heaters and the recirculation pumps that keep hot water moving to upper floors. If the building regularly runs short on hot water, we can check whether the system is sized for current demand." }
+  ],
+  "related": ["property-management-plumbing", "preventive-drain-maintenance", "commercial-drain-cleaning"],
+  "ctaHeading": "Plumbing trouble in your apartment building?"
+}

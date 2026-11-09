@@ -1,0 +1,24 @@
+{
+  "seoTitle": "Plumbing Service Areas Across {state} | {shortName}",
+  "metaDescription": "See every {state} region, county and town {shortName} serves, from our {city} shop to the far corners of the state. Calls answered 24/7 at {phone}.",
+  "hero": {
+    "eyebrow": "Where we work",
+    "h1": "Plumbing Service Areas Across {state}",
+    "sub": "Type your town or ZIP code to jump straight to your local page, or browse by region below. If your town is not listed, call anyway. Chances are we already work nearby."
+  },
+  "intro": [
+    "Our shop and most of our crew are in {city}, which puts the Capital Region at the center of our map. Those towns get the quickest response, and each has its own page with local details, neighborhoods and the problems we see most there.",
+    "Beyond the Capital Region, we schedule work across every region of {state}. Travel takes longer the farther you are from {city}, and we will always tell you honestly when we can arrive. Phones are answered {hours} no matter where you call from."
+  ],
+  "regionsHeading": "Choose Your Region",
+  "townsHeading": "Capital Region Towns We Serve Every Day",
+  "townsLead": "Each town page lists the neighborhoods, ZIP codes and nearby towns we cover, plus the plumbing problems most common in local homes.",
+  "faqHeading": "Service Area Questions",
+  "faqs": [
+    { "q": "My town is not listed. Do you still serve it?", "a": "Probably. The pages here cover the places we work most often, but we serve the whole state. Call {phone} with your address and we will confirm availability and timing." },
+    { "q": "Do you charge extra for travel?", "a": "For homes and businesses far from {city}, travel may be part of the quote. You will hear the full price, including any travel, before we schedule the work." },
+    { "q": "How fast can you reach me?", "a": "Capital Region calls are usually reached the same day. Farther regions are scheduled ahead for routine work, while emergencies are routed to the nearest available technician as quickly as possible." },
+    { "q": "Do you serve commercial properties outside the Capital Region?", "a": "Yes. Many of our multi-site customers have properties across several regions. We can set up scheduled maintenance visits that group locations together to keep costs down." }
+  ],
+  "ctaHeading": "Not sure if we cover your area?"
+}

@@ -1,0 +1,20 @@
+---
+/** /reviews/. Copy: src/content/pages/reviews.json; reviews: src/data/reviews.json */
+import BaseLayout from './BaseLayout.astro';
+import { PageHero, Reviews, Faq, CtaBand, Icon } from '../components/sections';
+import { business, getPage, imgAlt } from '../lib/site';
+
+const p = await getPage('reviews');
+const crumbs = [{ name: 'Home', path: '/' }, { name: 'Reviews', path: '/reviews/' }];
+---
+<BaseLayout title={p.seoTitle} description={p.metaDescription} crumbs={crumbs} faqs={p.faqs}>
+  <PageHero eyebrow={p.hero.eyebrow} h1={p.hero.h1} sub={p.hero.sub} image="page-hero" imageAlt={imgAlt('page-hero')} crumbs={crumbs} />
+  <Reviews all heading={p.reviewsHeading} />
+  {business.social.google && (
+    <div class="container"><div class="btn-row center" style="margin:-40px 0 40px">
+      <a href={business.social.google} class="btn btn-blue" target="_blank" rel="noopener noreferrer"><Icon name="google" size={18} /> Leave us a Google review</a>
+    </div></div>
+  )}
+  <Faq heading={p.faqHeading} items={p.faqs} />
+  <CtaBand heading={p.ctaHeading} />
+</BaseLayout>

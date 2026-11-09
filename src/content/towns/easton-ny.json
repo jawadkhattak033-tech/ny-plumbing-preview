@@ -1,0 +1,48 @@
+{
+  "name": "Easton",
+  "order": 16,
+  "county": "Washington",
+  "region": "capital-region",
+  "zips": ["12834", "12154"],
+  "neighborhoods": ["North Easton", "South Easton", "Easton hamlet", "Crandalls Corners", "Barkers Grove", "Hudson River shoreline", "Route 40 corridor"],
+  "nearby": ["saratoga-ny", "stillwater-ny", "mechanicville-ny", "saratoga-springs-ny"],
+  "geo": { "lat": 43.0187, "lng": -73.5268 },
+  "seoTitle": "Plumber in Easton, NY | Rural Homes and Farms | {shortName}",
+  "metaDescription": "Easton, NY plumber for farmhouses and rural homes on private wells. Well water treatment, frozen pipes, sump pumps and water heaters 24/7. Call {phone}.",
+  "imageAlt": "Rows of grapevines beside a mown grass lane",
+  "hero": {
+    "eyebrow": "Washington County plumber",
+    "h1": "Plumber in Easton, NY",
+    "sub": "Farmhouses, barns and country homes on private wells need a plumber who understands rural systems. We serve Easton and the Washington County hills, answer at any hour and quote before starting."
+  },
+  "intro": "{name} works with Easton homeowners and farm families from the Hudson River shoreline east into the hills toward Cambridge. Nearly every property here has its own well and septic system, and many homes have been added onto for generations. That means longer pipe runs, older fixtures and plumbing that has to stand up to hard winters in open country.",
+  "popular": ["frozen-pipe-repair", "water-softener-installation", "water-heater-replacement", "sump-pumps", "leak-detection", "emergency-plumbing"],
+  "problems": [
+    { "title": "Hard, iron rich well water", "text": "Wells in this part of Washington County can carry iron, manganese and heavy minerals. Orange stains, scale on heating elements and clogged aerators all point to water that needs treatment.", "service": "water-softener-installation" },
+    { "title": "Barn and outbuilding lines freezing", "text": "Water lines to barns, sheds and livestock waterers often run shallow or through unheated space. Wind across open fields drives the cold deeper than it would in town.", "service": "frozen-pipe-repair" },
+    { "title": "Hidden leaks on long service runs", "text": "A buried line from the well to the house, or from the house to a barn, can leak for months before anyone notices. The first sign is often a pump that cycles more than it should.", "service": "leak-detection" },
+    { "title": "Water heaters worn by sediment", "text": "Well water carries sediment that settles in the bottom of a tank. It causes rumbling, slow recovery and early failure, especially in farmhouses with heavy daily use.", "service": "water-heater-replacement" }
+  ],
+  "housing": {
+    "heading": "Plumbing for Easton Farmhouses and Country Homes",
+    "paragraphs": [
+      "Many Easton homes started as 1800s farmhouses and grew one wing at a time. Kitchens moved, bathrooms were added in old pantries, and plumbing was run wherever it fit. It is common to find galvanized, copper and plastic all in one house, with drains tied into a septic tank that predates the current layout.",
+      "Newer homes on large lots along Route 40 and the back roads are simpler, but they share the same rural basics: a well pump, a pressure tank and septic. We keep those systems in mind on every job, since what goes down the drain and what comes out of the tap are both your responsibility out here."
+    ]
+  },
+  "howWeWork": {
+    "heading": "Serving Rural Washington County",
+    "paragraphs": [
+      "Easton is farther from our {city} shop than the suburbs, so we schedule routine work in blocks with other Washington and Saratoga County calls. Emergencies like burst pipes or no hot water are answered {hours} and sent to the nearest available technician.",
+      "Long driveways, gravel lanes and snow are part of working here. We come prepared, explain the problem and the price before starting, and leave mudrooms and basements clean."
+    ]
+  },
+  "faqs": [
+    { "q": "How long does it take to get a plumber to Easton?", "a": "Emergency calls are answered any time and dispatched to the closest technician. Because Easton is rural, arrival can take longer than in the suburbs. We give you an honest time estimate when you call, and routine work is scheduled in advance." },
+    { "q": "Do you work on wells and septic systems?", "a": "We handle the plumbing inside the house and the lines connected to it, including pressure tanks, water treatment and drain lines to the septic tank. For septic pumping or well drilling we can point you toward the right specialists." },
+    { "q": "What is the orange staining in my sinks?", "a": "That is usually iron in the well water. It stains fixtures and laundry and can build up in pipes and the water heater. A water test tells us how much is present and which treatment system fits." },
+    { "q": "Can you run heated water lines to a barn?", "a": "We can install or repair supply lines to barns and outbuildings and recommend ways to protect them, such as deeper burial, insulation or heat cable where it makes sense. The right approach depends on distance and how the building is used." },
+    { "q": "My well pump runs too often. Is it a plumbing problem?", "a": "It can be. A leak in the house or the buried service line, a failing pressure tank or a stuck fixture can all make a pump cycle more. We check the plumbing side first and tell you what we find." }
+  ],
+  "ctaHeading": "Plumber in Easton, Answered 24/7"
+}

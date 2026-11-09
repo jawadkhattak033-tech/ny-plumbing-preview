@@ -1,0 +1,74 @@
+{
+  "title": "Leak Detection",
+  "order": 13,
+  "seoTitle": "Leak Detection in {state}, 24/7 | {shortName} Plumbing",
+  "metaDescription": "High water bill, damp wall or a sound of running water? {shortName} pinpoints hidden leaks with minimal cutting, then fixes them. Upfront price. Call {phone}.",
+  "imageAlt": "Rows of gray pipes with elbow fittings running along a wall",
+  "cardText": "Hidden leaks in walls, floors and slabs tracked down with meters, listening gear and cameras, so we open only what we must.",
+  "hero": {
+    "eyebrow": "Hidden leaks found, not guessed",
+    "h1": "Leak Detection in {state}, Available 24/7",
+    "sub": "A water bill that keeps climbing, a stain spreading across the ceiling, or a hiss you cannot place? We track the leak to its source before we open anything, then repair it and confirm it is dry."
+  },
+  "quickAnswer": "Call {name} at {phone}. A technician checks your meter, uses moisture meters, listening tools and cameras to locate the leak, and shows you where it is. You get a firm price for the repair before any wall, floor or ceiling is opened.",
+  "intro": [
+    "Some leaks are obvious. Many are not. A pinhole in a supply line inside a wall can drip for months before a stain shows. A slow seep under a shower pan may only appear as loose tile or a musty closet next door. By the time damage is visible, water has often traveled well away from the actual leak, which is why guessing and cutting holes rarely works.",
+    "We start with the water meter. If it moves with everything shut off, there is a leak on the pressure side. From there we isolate branches, use moisture meters to map wet areas, listen for the sound of escaping water and run a small camera into drains and cavities where needed.",
+    "Once we know the spot, we open only enough to reach it, repair the pipe or fitting, and recheck so you can see the leak has stopped. We also show you the wet areas we mapped, which helps you or your contractor decide what drywall, insulation or flooring needs drying or replacing afterward."
+  ],
+  "signs": {
+    "heading": "Signs You May Have a Hidden Leak",
+    "items": [
+      "Your water bill rises with no change in how you use water.",
+      "The water meter moves when every fixture is off.",
+      "Stains, bubbling paint or soft drywall on a wall or ceiling.",
+      "A musty smell in a closet, cabinet or finished basement.",
+      "Warm spots on the floor, which can point to a hot water line leak.",
+      "Your well pump cycles on when no one is using water."
+    ]
+  },
+  "covers": {
+    "heading": "What Our Leak Detection Covers",
+    "items": [
+      "Water meter and pressure testing",
+      "Moisture mapping of walls, ceilings and floors",
+      "Acoustic listening for supply line leaks",
+      "Camera inspection of drains and wall cavities",
+      "Shower pan and tub drain leak checks",
+      "Repair of the leak once it is found"
+    ]
+  },
+  "bookLabel": "Book Leak Detection",
+  "process": {
+    "heading": "How We Find a Hidden Leak",
+    "steps": [
+      { "title": "Confirm the Leak", "text": "We read the meter with all water off and test pressure. This tells us whether the leak is on the supply side or in a drain." },
+      { "title": "Narrow It Down", "text": "Branch valves are closed one at a time to isolate the leaking section, so we know which part of the house to focus on." },
+      { "title": "Pinpoint the Spot", "text": "Moisture meters, listening gear and cameras locate the leak inside the wall, floor or ceiling before anything is opened." },
+      { "title": "Repair and Recheck", "text": "We open a small, neat access, fix the pipe or fitting, then check the meter again so you can see the leak has stopped." }
+    ]
+  },
+  "local": {
+    "heading": "Where Leaks Hide in {state} Homes",
+    "paragraphs": [
+      "In older homes with plaster walls, water can run a long way inside a cavity before it shows. We often find the source a room or even a floor away from the stain. Bathrooms stacked above kitchens, a common layout in colonial and two story homes, are a frequent source of ceiling leaks.",
+      "Winter adds its own pattern. Small cracks from a partial freeze can stay quiet until spring, then start seeping once temperatures swing. Homes on private wells, common in rural parts of the state, may never see a high bill at all. The only clue is a pump that runs more often than it should."
+    ]
+  },
+  "cost": {
+    "heading": "What Drives the Cost of Leak Detection",
+    "paragraphs": [
+      "How hard the leak is to find is the main factor. A leak we can isolate quickly with the meter and a few valves is a short visit. One under a slab, behind tile or deep inside a wall cavity takes more time and more equipment. The repair itself depends on the pipe material and how much access is needed.",
+      "You hear the price for the detection work and the repair before we start each part. Nothing is opened without your approval."
+    ]
+  },
+  "faqs": [
+    { "q": "How can I check for a leak myself?", "a": "Turn off every faucet, appliance and fixture, then look at your water meter. If the dial or low flow indicator is still moving, water is going somewhere. Watch it for 15 minutes to be sure, then call {phone} to have it traced." },
+    { "q": "Will you have to tear open my walls?", "a": "We locate the leak before opening anything, so the access is small and in the right place. Most repairs need an opening just large enough to work on the pipe. We show you where we plan to cut and why before we start." },
+    { "q": "Can a running toilet cause a high water bill?", "a": "Yes. A toilet with a worn flapper or a fill valve that never shuts off can waste a lot of water quietly. It is one of the first things we check. Put a few drops of food coloring in the tank and see if color shows in the bowl without flushing." },
+    { "q": "Do you find leaks in drain pipes too?", "a": "Yes. Drain leaks do not show on the water meter because they only leak when water is used. We test by running specific fixtures and use cameras to inspect the drain from inside to find cracks or loose joints." },
+    { "q": "Is a small leak worth fixing right away?", "a": "Usually, yes. Even a slow drip inside a wall keeps framing and insulation damp, which leads to rot and mold over time. Finding and fixing it early is almost always simpler than repairing the damage it causes later." }
+  ],
+  "related": ["burst-pipe-repair", "repiping", "sewer-camera-inspection"],
+  "ctaHeading": "Think you have a hidden leak?"
+}

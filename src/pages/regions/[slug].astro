@@ -1,0 +1,10 @@
+---
+/* One page per file in src/content/regions/. */
+import { getCollection } from 'astro:content';
+import RegionLayout from '../../layouts/RegionLayout.astro';
+export async function getStaticPaths() {
+  return (await getCollection('regions')).map((e) => ({ params: { slug: e.id } }));
+}
+const { slug } = Astro.params;
+---
+<RegionLayout slug={slug!} />

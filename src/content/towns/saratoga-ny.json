@@ -1,0 +1,48 @@
+{
+  "name": "Saratoga",
+  "order": 12,
+  "county": "Saratoga",
+  "region": "capital-region",
+  "zips": ["12871", "12884"],
+  "neighborhoods": ["Schuylerville", "Victory", "Quaker Springs", "Grangerville", "Coveville", "Saratoga Lake east shore"],
+  "nearby": ["stillwater-ny", "saratoga-springs-ny", "easton-ny", "mechanicville-ny", "glens-falls-ny"],
+  "geo": { "lat": 43.0998, "lng": -73.5818 },
+  "seoTitle": "Plumber in Saratoga, NY | Schuylerville, Victory | {shortName}",
+  "metaDescription": "Plumber for the Town of Saratoga, NY, including Schuylerville and Victory. Farmhouses, village homes and lake camps. Frozen pipes and more. Call {phone}.",
+  "imageAlt": "Large lake with wooded islands below hills in early fall color",
+  "hero": {
+    "eyebrow": "Saratoga County plumber",
+    "h1": "Plumber in Saratoga, NY",
+    "sub": "The Town of Saratoga takes in Schuylerville, Victory, farm country and the east shore of Saratoga Lake. We handle plumbing for all of it, around the clock, with prices upfront."
+  },
+  "intro": "{name} serves the Town of Saratoga, including the villages of Schuylerville and Victory and the rural roads around Quaker Springs and Coveville. This is not the city of Saratoga Springs, though it sits just east of it. The drive from our {city} shop is longer here, so routine work is scheduled, while emergencies are answered 24/7.",
+  "popular": ["frozen-pipe-repair", "repiping", "sewer-camera-inspection", "water-heater-repair", "sump-pumps", "emergency-plumbing"],
+  "problems": [
+    { "title": "Frozen lines to barns and outbuildings", "text": "Many properties run water out to barns, workshops or stock tanks. Those buried or exposed lines often sit too shallow for a hard winter and freeze when temperatures stay low for days.", "service": "frozen-pipe-repair" },
+    { "title": "Camps turned into year round homes", "text": "Cottages on the east shore of Saratoga Lake were often built for summer only. When they become full time homes, the original plumbing usually needs replacing to handle cold and daily use.", "service": "repiping" },
+    { "title": "Old laterals in the villages", "text": "Homes in Schuylerville and Victory are among the oldest in the county, and their sewer connections can be clay or cast iron of unknown age. A camera tells you what is really there.", "service": "sewer-camera-inspection" },
+    { "title": "Low lying basements near the Hudson", "text": "Properties near the Hudson and the Fish Creek see high water in wet springs. A working sump pump and a clear discharge line keep the basement dry when the ground is saturated.", "service": "sump-pumps" }
+  ],
+  "housing": {
+    "heading": "Villages, Farms and Lake Cottages",
+    "paragraphs": [
+      "Schuylerville grew along the Hudson and the old canal, and Victory was built around its cotton mill. Both villages are full of 19th century homes with small basements, stone foundations and plumbing added piece by piece. We work carefully in tight spaces and keep historic features intact.",
+      "Beyond the villages, the town is mostly farmland, with farmhouses and newer homes spread along country roads on wells and septic. On the east shore of Saratoga Lake, small cottages sit beside larger lake homes. Each setting calls for a different plan, from frost protection to supply line upgrades."
+    ]
+  },
+  "howWeWork": {
+    "heading": "Rural Plumbing Service You Can Count On",
+    "paragraphs": [
+      "We answer {hours} and send the nearest available technician to emergencies like burst pipes or no water. For planned work, we schedule a visit that fits your day and arrive with the parts we expect to need.",
+      "You get a firm price before work begins. After the repair, we test it, clean the work area and explain any changes that would help the system handle the next winter."
+    ]
+  },
+  "faqs": [
+    { "q": "Do you serve the Town of Saratoga or the city of Saratoga Springs?", "a": "Both, but this page covers the Town of Saratoga, which includes Schuylerville, Victory, Quaker Springs and the east shore of Saratoga Lake. The city of Saratoga Springs has its own page." },
+    { "q": "How long does it take you to get here?", "a": "The town is farther from {city} than our nearest service areas, so routine visits are booked ahead. Emergency calls are answered 24/7 and routed to the nearest available technician, with an honest arrival estimate." },
+    { "q": "How can I keep the water line to my barn from freezing?", "a": "Lines need to be buried below the frost line or protected with heat cable and insulation where they come above ground. A frost-free hydrant at the barn also helps. We can look at your setup and suggest options." },
+    { "q": "What does it take to convert a lake camp to year round use?", "a": "Usually new supply lines rated for cold, insulated runs, a proper water heater and protection for any pipes in crawlspaces. We look at the existing system first and explain what drives the cost." },
+    { "q": "Do you work on homes with private wells?", "a": "Yes. We handle plumbing inside homes on wells, including water heaters, fixtures, softeners and filters. If your well pump or pressure tank needs service, we let you know and explain the next steps." }
+  ],
+  "ctaHeading": "Town of Saratoga Plumber, 24/7"
+}

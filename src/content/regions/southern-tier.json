@@ -1,0 +1,41 @@
+{
+  "name": "Southern Tier",
+  "order": 9,
+  "counties": ["Broome", "Chemung", "Chenango", "Delaware", "Schuyler", "Steuben", "Tioga", "Tompkins"],
+  "communities": ["Binghamton", "Johnson City", "Endicott", "Vestal", "Endwell", "Owego", "Waverly", "Elmira", "Horseheads", "Corning", "Painted Post", "Bath", "Hornell", "Watkins Glen", "Ithaca", "Lansing", "Dryden", "Trumansburg", "Norwich", "Greene", "Sidney", "Delhi", "Walton", "Hancock"],
+  "seoTitle": "Southern Tier Plumber | Binghamton to Ithaca | {shortName}",
+  "metaDescription": "{shortName} schedules plumbing work across the Southern Tier, from Binghamton to Ithaca. Flood prone basements, wells and old homes. Call {phone}.",
+  "imageAlt": "Clear lake reflecting a forested hillside and clouds",
+  "cardText": "Scheduled plumbing for river towns, college towns and rural homes in eight Southern Tier counties, with 24/7 phones.",
+  "hero": {
+    "eyebrow": "Southern Tier plumbing",
+    "h1": "Plumber in the Southern Tier, NY",
+    "sub": "Binghamton, Elmira, Ithaca and Corning are a few hours from {city}. We book Southern Tier work ahead, come prepared for older and rural plumbing, and quote the job before we start."
+  },
+  "quickAnswer": "{name} serves all eight Southern Tier counties on a scheduled basis. Delaware and Chenango are the closest to our {city} shop, while Steuben and Chemung take longer. We answer calls 24/7 and give honest arrival estimates for emergencies.",
+  "intro": [
+    "The Southern Tier is a long, hilly stretch along the Pennsylvania border, and it is a real drive from our shop in {city}. We plan our work here: sewer and drain repairs, sump pump installs, water heater replacements, well tank service and repiping. Booking ahead lets us bring the right parts and keep travel from eating into your job.",
+    "River valleys shape this region. Binghamton, Owego, Elmira and Corning sit along the Susquehanna and Chemung rivers and have seen serious flooding. Older neighborhoods in those cities are full of early 1900s homes with original drains. Ithaca mixes old houses with student rentals, and the hill towns of Delaware, Chenango and Steuben counties mostly run on wells and septic."
+  ],
+  "coverage": {
+    "heading": "How We Cover the Southern Tier",
+    "paragraphs": [
+      "Delaware and Chenango counties are the shortest trip from {city}. Broome, Tioga and Tompkins come next, and Chemung, Schuyler and Steuben are the farthest. Most work is booked a day or more ahead and grouped by area.",
+      "We answer {hours}. For emergencies we help you shut the water off and protect the home, then route the call to the nearest available technician with a realistic arrival estimate."
+    ]
+  },
+  "problems": [
+    { "title": "Flooding along the rivers", "text": "Homes near the Susquehanna and Chemung take on water in big storms and spring melt. Sump pumps, backwater valves and relocating water heaters off the floor all reduce the damage next time." },
+    { "title": "Well pressure and hard water", "text": "Hill town homes depend on wells that often carry hard water or iron. Waterlogged pressure tanks, short cycling pumps and scaled water heaters are common problems." },
+    { "title": "Old drains in river city homes", "text": "Early 1900s homes in Binghamton, Elmira and Johnson City often still drain through cast iron and clay. Cracks and roots cause backups that a camera inspection can locate." },
+    { "title": "Hard use in student rentals", "text": "Rentals around Ithaca and Binghamton see heavy use, clogged drains and worn fixtures. Landlords benefit from planned maintenance timed around move in and move out." }
+  ],
+  "faqs": [
+    { "q": "How long does it take you to reach Binghamton or Ithaca?", "a": "Both are a few hours from our {city} shop, so most visits are scheduled a day or more ahead. Emergencies are answered right away, and we give you an honest arrival estimate based on where our nearest technician is." },
+    { "q": "Can you help protect my basement from river flooding?", "a": "We can install or upgrade sump pumps, add a battery backup, fit a backwater valve and raise equipment off the floor. We look at how water enters your basement before recommending anything." },
+    { "q": "Do you service wells in Delaware and Chenango counties?", "a": "Yes. We repair and replace pressure tanks, switches and the plumbing from the well into the house. If a deep pump needs to be pulled, we will tell you whether a well contractor is the better choice." },
+    { "q": "Do you work with Ithaca and Binghamton landlords?", "a": "We do. Planned visits for drain cleaning, water heater checks and fixture repairs work well around lease turnovers. We send photos and give a written price so owners can approve work remotely." },
+    { "q": "What affects the price of Southern Tier jobs?", "a": "Travel distance, the age and type of pipe, access in the home and whether you are on a well or city water all matter. We give you the full price before any work starts." }
+  ],
+  "ctaHeading": "Book a Plumber in the Southern Tier"
+}

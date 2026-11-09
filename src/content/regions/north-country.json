@@ -1,0 +1,41 @@
+{
+  "name": "North Country",
+  "order": 10,
+  "counties": ["Clinton", "Essex", "Franklin", "Hamilton", "Jefferson", "Lewis", "St. Lawrence"],
+  "communities": ["Plattsburgh", "Champlain", "Rouses Point", "Peru", "Keeseville", "Lake Placid", "Saranac Lake", "Elizabethtown", "Ticonderoga", "Tupper Lake", "Malone", "Speculator", "Indian Lake", "Long Lake", "Watertown", "Carthage", "Clayton", "Alexandria Bay", "Lowville", "Massena", "Potsdam", "Canton", "Ogdensburg", "Gouverneur"],
+  "seoTitle": "North Country and Adirondack Plumber | {shortName}",
+  "metaDescription": "{shortName} schedules plumbing work across the North Country, from Plattsburgh to Watertown. Deep frost, frozen lines, wells and camps. Call {phone}.",
+  "imageAlt": "Forested mountain ridges and a small lake seen from a rocky summit",
+  "cardText": "Planned plumbing for Adirondack camps, farm homes and river towns across seven northern counties, with 24/7 phones.",
+  "hero": {
+    "eyebrow": "North Country plumbing",
+    "h1": "Plumber in the North Country, NY",
+    "sub": "The North Country is big, cold and far from our {city} shop. We plan trips ahead, come ready for frozen lines and well systems, and give you a clear price before we start."
+  },
+  "quickAnswer": "{name} serves all seven North Country counties on a scheduled basis. Southern Essex and Hamilton counties are the closest to {city}, while Watertown and the St. Lawrence Valley are several hours away. Calls are answered 24/7, and we are honest about emergency arrival times.",
+  "intro": [
+    "The North Country covers the Adirondacks, the Champlain Valley, the St. Lawrence River towns and the Tug Hill area. It is a huge region with long drives between towns, and our shop in {city} is hours from much of it. We schedule our work here and are straightforward about timing, especially in winter.",
+    "Frost goes deep in this part of the state, and water lines that would be fine farther south freeze and heave here. Many homes and camps run on private wells and septic systems. Seasonal camps sit empty for months. In Watertown, Lowville and the Tug Hill towns, lake effect snow off Lake Ontario adds to the challenge of keeping water moving through January and February."
+  ],
+  "coverage": {
+    "heading": "How We Cover the North Country",
+    "paragraphs": [
+      "Southern Essex and Hamilton counties, around Ticonderoga, Indian Lake and Speculator, are the closest part of the region. Clinton, Franklin, Jefferson, Lewis and St. Lawrence counties are farther, and we book work there ahead and group it into multi day trips.",
+      "We answer {hours}. In an emergency, we help you shut off water and keep the house warm, then route the call to the nearest available technician. Winter roads can stretch arrival times, and we will tell you so."
+    ]
+  },
+  "problems": [
+    { "title": "Frozen service lines and deep frost", "text": "Frost here can reach well below the depth water lines were buried at in older homes. When the line from the well or the street freezes, the whole house loses water until it is thawed." },
+    { "title": "Seasonal camps that freeze over winter", "text": "Adirondack camps and river cottages that were not fully drained split pipes, valves and fixtures over the winter. Spring openings often turn up leaks that need repair before the water stays on." },
+    { "title": "Well pumps and pressure tanks", "text": "Most rural homes depend on wells. Failing pressure switches, waterlogged tanks and pumps running constantly are common, and frozen well lines add to the problem in deep cold." },
+    { "title": "Heat tape and crawl space risks", "text": "Many homes rely on heat tape and insulated crawl spaces to keep lines open. When heat tape fails or a crawl space door is left open, lines freeze fast at these temperatures." }
+  ],
+  "faqs": [
+    { "q": "How long does it take you to reach the North Country?", "a": "It varies a lot. Southern Adirondack towns are a few hours from {city}, while Massena, Ogdensburg and Watertown are much farther. Most work is scheduled ahead. For emergencies we give an honest estimate and keep you informed." },
+    { "q": "Can you thaw a frozen water line from my well?", "a": "Yes. We locate the frozen section, thaw it safely and check for splits. We also look at why it froze, such as shallow burial, failed heat tape or an exposed section, so it does not keep happening." },
+    { "q": "Do you open and close Adirondack camps?", "a": "We do. We drain and winterize camps in fall and restore water in spring, checking every line and fixture as it comes back on. Book well ahead, since these visits fill up around the same weeks." },
+    { "q": "What should I do if I lose water in the middle of winter?", "a": "Check whether other faucets work, open cabinet doors, and add safe heat near exposed pipes. Do not use an open flame on pipes. Call us and we will help you narrow it down while we arrange a visit." },
+    { "q": "What affects the price of North Country work?", "a": "Travel distance, road conditions, how deep or exposed the pipe is, and whether the home is on a well all shape the price. You get the full price before we start." }
+  ],
+  "ctaHeading": "Schedule a Plumber in the North Country"
+}

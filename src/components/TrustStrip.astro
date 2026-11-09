@@ -1,0 +1,10 @@
+---
+import Icon from './Icon.astro';
+import { business, facts } from '../lib/site';
+---
+<div class="trust-strip"><div class="container">
+  <a class="trust-item" href="/plumbing/emergency-plumbing/"><Icon name="clock" size={30} /><span>{business.hours.short}<small>24 hour emergency plumber</small></span></a>
+  <div class="trust-item trust-star"><Icon name="star" size={30} /><span>{facts.rating} Stars on Google<small>{facts.reviews} real reviews</small></span></div>
+  <div class="trust-item"><Icon name="shield" size={30} /><span>Fully Insured<small>{facts.years ? `${facts.years} years in business` : 'Every job covered'}</small></span></div>
+  <div class="trust-item"><Icon name="tag" size={30} /><span>Upfront Pricing<small>Quote before work starts</small></span></div>
+</div></div>

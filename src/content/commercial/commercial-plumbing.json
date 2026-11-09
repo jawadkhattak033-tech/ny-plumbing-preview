@@ -1,0 +1,74 @@
+{
+  "title": "Commercial Plumbing",
+  "order": 1,
+  "seoTitle": "Commercial Plumbing in {state}, 24/7 | {shortName}",
+  "metaDescription": "Plumbing repairs for businesses and buildings, scheduled around your hours. {shortName} gives a firm price first and invoices cleanly. Call {phone}.",
+  "imageAlt": "White modern multistory building against a pale blue sky",
+  "cardText": "Repairs, replacements and service calls for shops, offices and buildings, planned around your hours so the doors stay open.",
+  "hero": {
+    "eyebrow": "Plumbing for businesses and buildings",
+    "h1": "Commercial Plumbing in {state}, Available 24/7",
+    "sub": "A leak in the stockroom, a restroom out of order, no hot water before the morning rush. We get your building working again and schedule the work so customers and staff barely notice."
+  },
+  "quickAnswer": "Call {name} at {phone}. We answer {hours} and send a technician equipped for commercial fixtures and larger pipe. You get a firm price before work begins, and we can work before opening, after closing or overnight to keep your business running.",
+  "intro": [
+    "When plumbing fails at a business, the cost is more than the repair. A closed restroom turns customers away. A leak over a sales floor ruins stock. A dead water heater can stop a kitchen or a salon for the day. We treat every commercial call with that in mind and focus first on getting you back open.",
+    "Commercial systems are built differently from houses. Pipe sizes are larger, fixtures are heavier duty, and many buildings have flushometer valves, backflow assemblies, booster pumps and shared risers. Our technicians work on these systems regularly, and they come prepared to isolate one area without shutting water off to the entire building.",
+    "We also make the paperwork easy. You get a written price before we start, a clear description of the work on the invoice, and notes on anything we saw that should be planned for later. That helps owners and facility managers budget instead of reacting to the next failure. If you run more than one location, we can keep the paperwork separate for each site."
+  ],
+  "signs": {
+    "heading": "Signs Your Building Needs a Commercial Plumber",
+    "items": [
+      "Restroom fixtures run constantly or flush weakly during busy hours.",
+      "Water pressure drops on upper floors when the building is full.",
+      "Staff report stains on ceiling tiles or damp drywall near plumbing walls.",
+      "The water bill jumps without any change in how the space is used.",
+      "Hot water runs out partway through the business day.",
+      "The same fixture has been repaired several times this year."
+    ]
+  },
+  "covers": {
+    "heading": "What Our Commercial Plumbing Service Covers",
+    "items": [
+      "Flushometer valves, commercial toilets and urinals",
+      "Commercial water heaters and recirculation systems",
+      "Supply line leaks, shutoff valves and riser repairs",
+      "Backflow assembly repair and replacement",
+      "Mop sinks, floor drains and break room fixtures",
+      "Written findings for owners and facility managers"
+    ]
+  },
+  "bookLabel": "Book Commercial Service",
+  "process": {
+    "heading": "How We Handle a Commercial Service Call",
+    "steps": [
+      { "title": "Talk Through the Impact", "text": "We ask what is down, who is affected and when your business is busiest, so we can plan the work around your schedule instead of interrupting it." },
+      { "title": "Isolate and Assess", "text": "We shut off only the section involved, find the cause and check nearby lines and fixtures that may be part of the same problem." },
+      { "title": "Price and Repair", "text": "You approve a firm price before work begins. We repair or replace the failed parts with commercial grade materials sized for your building." },
+      { "title": "Test and Document", "text": "We restore water, test every affected fixture and leave a clear invoice with notes on any items worth planning for later." }
+    ]
+  },
+  "local": {
+    "heading": "Commercial Plumbing in Older {state} Buildings",
+    "paragraphs": [
+      "Many downtown storefronts and office blocks across New York were built long before modern plumbing codes. Over the years they were split into smaller units, renovated more than once and connected to new fixtures with whatever pipe was on hand. Behind the walls we often find a mix of cast iron, galvanized steel, copper and PVC, each aging at a different rate.",
+      "Our winters add stress. Supply lines in exterior walls, unheated loading areas and vacant suites can freeze during a cold snap or a long holiday closure. We help owners spot those weak points and plan repairs during slow seasons rather than in the middle of a January weekend."
+    ]
+  },
+  "cost": {
+    "heading": "What Drives the Cost of Commercial Plumbing",
+    "paragraphs": [
+      "Cost depends on the size of the system, how easy it is to reach and when the work needs to happen. A single flush valve repair is a short visit. Work above a finished ceiling, inside a shared riser or behind tile takes longer. After hours scheduling, permits and parts that must be ordered for commercial fixtures also play a part.",
+      "Before we start, you get a firm price in writing. Facility managers can request itemized invoices that match their approval process."
+    ]
+  },
+  "faqs": [
+    { "q": "Can you work before or after our business hours?", "a": "Yes. Many of our commercial jobs happen early in the morning, after closing or overnight. Tell us your hours when you call {phone}, and we will schedule the work so your customers and staff are not disrupted." },
+    { "q": "Do you work on flushometer toilets and urinals?", "a": "Yes. Flushometer valves are one of the most common commercial repairs we handle. We rebuild worn diaphragms, replace failed valves and adjust flush volume so fixtures work properly under heavy use." },
+    { "q": "Can you invoice our property manager or head office directly?", "a": "Yes. We can send the price for approval and the final invoice to whoever handles your billing. Let us know about any purchase order numbers or approval steps, and we will include them on the paperwork." },
+    { "q": "Do you have to shut off water to the whole building?", "a": "Usually not. Most commercial buildings have valves that let us isolate one floor, suite or fixture group. If a full shutdown is needed, we tell you ahead of time and schedule it when the fewest people are affected." },
+    { "q": "Are you insured for commercial work?", "a": "Yes. {name} is fully insured. If your landlord or property manager needs a certificate of insurance before we start, ask when you book and we will arrange it before our technician arrives on site." }
+  ],
+  "related": ["commercial-drain-cleaning", "office-retail-plumbing", "property-management-plumbing"],
+  "ctaHeading": "Need plumbing help at your business?"
+}

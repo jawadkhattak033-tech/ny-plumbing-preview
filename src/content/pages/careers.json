@@ -1,0 +1,48 @@
+{
+  "seoTitle": "Plumbing Jobs in {city}, {stateAbbr} | Careers at {shortName}",
+  "metaDescription": "Join {shortName}. We hire licensed plumbers, apprentices and drain technicians in {city}, {stateAbbr}. Steady work, real training and a team that has your back.",
+  "hero": {
+    "eyebrow": "Careers",
+    "h1": "Plumbing Jobs at {shortName}",
+    "sub": "We are always looking for good people who take pride in the work. Experienced plumbers, apprentices ready to learn, and dispatchers who keep the day running."
+  },
+  "heading": "A Team That Shows Up for Each Other",
+  "intro": [
+    "Our customers trust us because our technicians do the job right and treat their homes with respect. That only works when the crew is trained well, equipped well and treated well. We invest in all three.",
+    "Whether you are fresh out of trade school or have twenty years on the tools, there is room to grow here."
+  ],
+  "blocks": [
+    {
+      "heading": "Who we are looking for",
+      "items": [
+        "Licensed plumbers with residential or commercial service experience",
+        "Apprentices who want to learn the trade the right way",
+        "Drain and sewer technicians comfortable with cables, jetters and cameras",
+        "Dispatchers and office staff who like solving problems on the phone",
+        "A valid driver's license and a clean, respectful attitude"
+      ]
+    },
+    {
+      "heading": "What the work looks like",
+      "paragraphs": [
+        "Days are a mix of scheduled service, installs and emergency calls. Trucks are stocked and maintained, so you spend time fixing problems, not hunting for parts. After-hours calls rotate fairly across the team."
+      ]
+    },
+    {
+      "heading": "How to apply",
+      "paragraphs": [
+        "Fill out the form and tell us a little about yourself. {ownerFirst} or a team lead will call you back to talk about the role. No resume needed to start the conversation."
+      ]
+    }
+  ],
+  "formHeading": "Get in Touch",
+  "formText": "Tell us which role interests you and how to reach you.",
+  "faqHeading": "Hiring Questions",
+  "faqs": [
+    { "q": "Do I need a license to apply?", "a": "Not for every role. Apprentice, drain technician and office positions do not require a plumbing license. We support apprentices working toward theirs." },
+    { "q": "Do you provide tools and a vehicle?", "a": "Technicians get a stocked company truck and the major equipment for the job. We will go over details on personal hand tools during the interview." },
+    { "q": "Is there on-call work?", "a": "Yes. We are a 24/7 company, so on-call shifts rotate across the team and are compensated. Nobody carries the whole load." }
+  ],
+  "ctaHeading": "Questions about working with us?",
+  "ctaText": "Call the shop and ask for {ownerFirst}, or send your info through the form above."
+}

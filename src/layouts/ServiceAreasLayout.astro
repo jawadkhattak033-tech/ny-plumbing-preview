@@ -1,0 +1,37 @@
+---
+/** /service-areas/ hub. Copy: src/content/pages/service-areas.json */
+import BaseLayout from './BaseLayout.astro';
+import { PageHero, Faq, CtaBand, Finder, LinkTile } from '../components/sections';
+import { url, getPage, getRegions, getTowns, imgAlt } from '../lib/site';
+
+const [p, regions, towns] = await Promise.all([getPage('service-areas'), getRegions(), getTowns()]);
+const crumbs = [{ name: 'Home', path: '/' }, { name: 'Service Areas', path: '/service-areas/' }];
+---
+<BaseLayout title={p.seoTitle} description={p.metaDescription} crumbs={crumbs} faqs={p.faqs}>
+  <PageHero eyebrow={p.hero.eyebrow} h1={p.hero.h1} sub={p.hero.sub} image="page-hero" imageAlt={imgAlt('page-hero')} crumbs={crumbs}>
+    <Finder id="areas" />
+  </PageHero>
+
+  <section class="section"><div class="container">
+    <div class="section-head left" style="max-width:900px">{p.intro.map((t: string) => <p>{t}</p>)}</div>
+    <div class="section-head"><span class="eyebrow">Regions</span><h2>{p.regionsHeading}</h2></div>
+    <div class="grid-3">
+      {regions.map((r) => (
+        <div class="region-card">
+          <span class="count">{r.counties.length} counties</span>
+          <h3><a href={url.region(r.slug)}>{r.name}</a></h3>
+          <p>{r.cardText}</p>
+          <p><small>{r.counties.join(', ')}</small></p>
+        </div>
+      ))}
+    </div>
+  </div></section>
+
+  <section class="section section-soft"><div class="container">
+    <div class="section-head"><span class="eyebrow">Town pages</span><h2>{p.townsHeading}</h2><p class="lead">{p.townsLead}</p></div>
+    <div class="link-grid">{towns.map((t) => <LinkTile href={url.town(t.slug)} label={t.name} small={`${t.county} Co.`} />)}</div>
+  </div></section>
+
+  <Faq heading={p.faqHeading} items={p.faqs} soft={false} />
+  <CtaBand heading={p.ctaHeading} />
+</BaseLayout>

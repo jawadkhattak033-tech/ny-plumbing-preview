@@ -1,0 +1,74 @@
+{
+  "title": "Burst Pipe Repair",
+  "order": 11,
+  "seoTitle": "Burst Pipe Repair in {state}, 24/7 | {shortName} Plumbing",
+  "metaDescription": "Water spraying from a broken pipe? {shortName} answers 24/7, helps you shut off the water, and repairs the break fast. Firm price before work starts. Call {phone}.",
+  "imageAlt": "Two copper water pipes running through an opened wall",
+  "cardText": "Fast response for split and broken pipes. We stop the water, cut out the damage and restore service with a tested repair.",
+  "hero": {
+    "eyebrow": "Burst pipe response, day or night",
+    "h1": "Burst Pipe Repair in {state}, Available 24/7",
+    "sub": "Water pouring from a ceiling, spraying in the basement or soaking a wall? Shut the main if you can, then call. We stop the leak, replace the broken section and get your water back on."
+  },
+  "quickAnswer": "Turn off your main water shutoff, then call {name} at {phone}. We answer {hours} and send the nearest technician to cut out the damaged pipe and install a tested repair. You hear the price before work begins, and we clean up our work area afterward.",
+  "intro": [
+    "When a pipe bursts, every minute counts. A split supply line can push out a surprising amount of water, and it soaks into drywall, flooring and insulation quickly. The first step is always the same: find your main shutoff and close it. If you cannot find it or it will not turn, tell us when you call and we will talk you through it while a technician heads your way.",
+    "Once on site, we confirm the water is off, open the area enough to see the damage and cut back to sound pipe on both sides of the break. We replace the section with matching material or an approved transition fitting, then bring the pressure back slowly and watch the repair before closing anything up.",
+    "We also check what caused the break. Freezing, corrosion, high water pressure and old fittings all fail in different ways. A pipe that froze needs protection from the cold, while a pipe that rusted through may have neighbors close behind it. If the rest of the line looks weak, we tell you plainly so you can plan."
+  ],
+  "signs": {
+    "heading": "Signs of a Burst or Broken Pipe",
+    "items": [
+      "Water dripping from a ceiling, light fixture or wall seam.",
+      "A sudden drop in water pressure throughout the house.",
+      "The sound of running water when every fixture is off.",
+      "Bulging, stained or soft drywall that was not there yesterday.",
+      "Puddles in the basement with no clear source.",
+      "The water meter keeps moving with all taps closed."
+    ]
+  },
+  "covers": {
+    "heading": "What Our Burst Pipe Repair Covers",
+    "items": [
+      "Phone help locating and closing your main shutoff",
+      "Emergency repair of copper, PEX, CPVC and galvanized lines",
+      "Replacing split fittings, valves and supply connectors",
+      "Repairs inside walls, ceilings and crawlspaces",
+      "Pressure testing the repair before the water is fully restored",
+      "Checking nearby pipe for signs of the next weak spot"
+    ]
+  },
+  "bookLabel": "Book Burst Pipe Repair",
+  "process": {
+    "heading": "How We Repair a Burst Pipe",
+    "steps": [
+      { "title": "Stop the Water", "text": "We confirm the main or the nearest branch valve is closed and drain the line so the repair area stays dry while we work." },
+      { "title": "Expose the Break", "text": "We open only as much ceiling or wall as needed to see the damaged pipe and the sound pipe on either side of it." },
+      { "title": "Cut Out and Replace", "text": "The split section is removed and replaced with matching pipe and fittings, joined to code so the repair is as strong as the original line." },
+      { "title": "Restore and Watch", "text": "Pressure comes back slowly while we check every joint. We explain the cause and whether any other sections need attention soon." }
+    ]
+  },
+  "local": {
+    "heading": "Why Pipes Burst in {state} Homes",
+    "paragraphs": [
+      "Freezing is the leading cause here. A pipe that froze during a January cold snap often bursts days later, when the ice melts and pressure returns. That is why burst pipe calls tend to spike on the first mild afternoon after a hard freeze, not on the coldest night itself.",
+      "Older housing adds to the risk. Many homes in the state still have galvanized steel that has rusted thin, or early copper with joints that have seen decades of expansion and contraction. Homes on municipal systems with high street pressure can also stress older fittings until one gives way."
+    ]
+  },
+  "cost": {
+    "heading": "What Drives the Cost of Burst Pipe Repair",
+    "paragraphs": [
+      "Where the pipe broke matters most. An exposed basement line is the simplest repair. A break inside a finished ceiling, behind tile or under a floor takes more time to reach. The length of damaged pipe, the material, the number of fittings involved and an after hours call also affect the price.",
+      "You get the price before we start the repair. Wall and ceiling patching is a separate trade, and we will tell you what we opened so your contractor or insurer has a clear picture."
+    ]
+  },
+  "faqs": [
+    { "q": "Where is my main water shutoff?", "a": "In most homes it is in the basement or utility area, on the wall where the water line enters, close to the meter. It may be a round wheel or a lever handle. If you cannot find it, call {phone} and we will help you look while we are on the way." },
+    { "q": "Can you fix a burst pipe in the middle of the night?", "a": "Yes. We answer {hours}. Once the water is shut off, the urgent danger is under control, and we send the nearest available technician to make the repair and get your water back on." },
+    { "q": "Will you open my walls or ceiling?", "a": "Only if the break is hidden behind them. We open the smallest area we can work through safely and keep the opening clean and square so it is easier to patch later. We tell you before we cut anything." },
+    { "q": "Should I call my insurance company?", "a": "That is your decision, and it is often worth a call. Take photos of the water and damage before cleanup. We can give you a written description of what failed and what we repaired to share with your insurer." },
+    { "q": "Can a burst pipe happen again in the same spot?", "a": "Not in the section we replace, but nearby pipe of the same age or in the same cold location can fail. If the cause was freezing, the real fix is protecting that run. We will show you what we see so you can decide." }
+  ],
+  "related": ["frozen-pipe-repair", "emergency-plumbing", "repiping"],
+  "ctaHeading": "Have a burst pipe right now?"
+}
